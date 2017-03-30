@@ -1,0 +1,3 @@
+python src/to_input_format.py /fs/clip-amr/bibinlp/blindDev/datasetSentences.txt dev/datasetSentences.in
+java -cp '/fs/clip-software/user-supported/stanford-corenlp-full-2016-10-31/stanford-corenlp-3.7.0.jar:/fs/clip-software/user-supported/stanford-corenlp-full-2016-10-31/stanford-corenlp-3.7.0-models.jar:/fs/clip-software/user-supported/stanford-corenlp-full-2016-10-31/ejml-0.23.jar' edu.stanford.nlp.sentiment.SentimentPipeline -file dev/datasetSentences.in > dev/datasetSentences.out &
+python src/get_sentiment_labels.py --predictions_file dev/datasetSentences.out --sentences_file /fs/clip-amr/bibinlp/blindDev/datasetSentences.txt --output_labels_file dev/datasetPredictedLabels.txt --split dev
