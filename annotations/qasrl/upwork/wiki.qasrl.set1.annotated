@@ -1,0 +1,470 @@
+WIKI2_0	2
+On the morning of September 17 , the entire division went into reserve status to cook their first hot meal in four days .
+10	went	10
+Why	did	someone	go	_	into	something	?	to cook their first hot meal in four days
+15	cook	15
+What	did	someone	cook	_	_	_	?	their first hot meal
+
+WIKI2_1	5
+By late January 1907 , after further investigation , Roosevelt had rescinded the part of the order barring the soldiers from federal employment , and had stated that he would reconsider the case of anyone who could present proof of his innocence .
+17	barring	17
+What	was	someone	barred	_	from	_	?	federal employment
+26	stated	26
+What	did	someone	state	_	_	_	?	he would reconsider the case of anyone who could present proof of his innocence
+11	rescinded	11
+What	did	someone	rescind	something	from	_	?	barring the soldiers from federal employment
+37	present	37
+What	could	someone	present	_	_	_	?	proof of his innocence
+30	reconsider	30
+Who	would	someone	reconsider	_	_	_	?	anyone
+
+WIKI2_2	1
+It borders with Kyrgyzstan , Fergana Province and Namangan Province .
+1	borders	1
+Where	is	something	bordered	_	with	_	?	Kyrgyzstan , Fergana Province and Namangan Province
+
+WIKI2_3	2
+By 1960 , the cooperative had 600 member farmers , though the number of farms in Vermont and across the nation were steadily shrinking .
+5	had	5
+How much	did	something	have	_	_	_	?	600
+23	shrinking	23
+Where	was	something	shrinking	_	_	_	?	Vermont
+
+WIKI2_4	5
+Microrobots are also now using biological motors as power sources , such as flagellated Serratia marcescens , to draw chemical power from the surrounding fluid to actuate the robotic device .
+18	draw	18
+Why	will	something	draw	something	from	something	?	to actuate the robotic device
+26	actuate	26
+What	will	_	actuate	_	_	_	?	robotic device
+4	using	4
+What	is	something	using	something	as	_	?	power sources
+13	flagellated	13
+What	is	_	flagellated	_	_	_	?	Serratia marcescens
+23	surrounding	23
+What	is	_	surrounding	_	_	_	?	fluid
+
+WIKI2_5	1
+Afterwards Menotti become the idealized figure of patriotic martyr of the Italian Risorgimento .
+2	become	2
+Where	has	someone	become	something	of	something	?	Italian Risorgimento
+
+WIKI2_6	5
+With the Germans approaching , they spent several days dressed in peasant clothing evading capture before he could arrange their escape by sea .
+9	dressed	9
+What	is	someone	dressed	_	in	_	?	peasant clothing
+18	arrange	18
+Why	did	someone	arrange	something	_	_	?	With the Germans approaching
+3	approaching	3
+Who	are	_	approaching	_	_	_	?	the Germans
+13	evading	13
+What	was	someone	evading	_	_	_	?	capture
+6	spent	6
+How	did	someone	spend	something	_	_	?	dressed in peasant clothing
+
+WIKI2_7	3
+The presence of 1,6-anhydro structure in every unit of polymer chains allows to apply all specter of well developed methods of carbohydrate chemistry with formation of highly intriguing biological application polymers .
+18	developed	18
+How much	is	something	developed	_	_	_	?	well
+11	allows	11
+How	does	something	allow	something	_	_	?	with formation of highly intriguing biological application polymers
+13	apply	13
+How	is	something	applied	_	to	something	?	with formation of highly intriguing biological application polymers
+
+WIKI2_8	1
+The Mongol army was easily able to assert strong rule throughout most of the empire .
+7	assert	7
+Where	did	someone	assert	something	_	_	?	throughout most of the empire
+
+WIKI2_9	1
+In republican theory every MP elected in Ireland was a potential Deputy to this assembly .
+5	elected	5
+Where	is	someone	elected	_	to	do something	?	In republican theory
+
+WIKI2_10	1
+As the purpose of the park was a feeder for other parks no lion or cheetah were brought in .
+17	brought	17
+Why	were n't	something	brought	_	in	_	?	the purpose of the park was a feeder for other parks
+
+WIKI2_11	3
+The soundtrack , released in 1990 , features 10 tracks with lyrics written by Vaali , Pulamaipithan , Gangai Amaran , Piraisoodan and Ilaiyaraaja .
+3	released	3
+When	was	something	released	_	_	_	?	in 1990
+12	written	12
+Who	_	_	wrote	something	_	_	?	Vaali , Pulamaipithan , Gangai Amaran , Piraisoodan and Ilaiyaraaja
+7	features	7
+What	is	something	featured	_	with	_	?	lyrics
+
+WIKI2_12	8
+When the bone seemingly fails to work , Dick initially believes that he has won , only to find out that he himself has been tricked when Dean kills him with the real bone , sending him back to Purgatory .
+35	sending	35
+What	had	_	sent	someone	_	somewhere	?	when Dean kills him with the real bone
+4	fails	4
+How	did	something	fail	_	to	do	?	seemingly
+6	work	6
+What	does n't	_	work	_	_	_	?	the bone
+10	believes	10
+What	does	someone	believe	_	_	_	?	that he has won
+14	won	14
+Who	_	_	won	_	_	_	?	Dick
+18	find	18
+What	did	someone	find	_	out	_	?	that he himself has been tricked
+25	tricked	25
+When	was	someone	tricked	_	_	_	?	when Dean kills him with the real bone , sending him back to Purgatory
+28	kills	28
+How	did	someone	kill	someone	_	_	?	with the real bone
+
+WIKI2_13	1
+In 1999 , the court of appeal heard the Marshall case .
+7	heard	7
+What	did	something	hear	_	_	_	?	the Marshall case
+
+WIKI2_14	1
+All their production work was done in Silver 's basement studio `` B.Beach '' -- a loose translation or a play on words from the name of their home village Bickenbach .
+5	done	5
+Where	was	something	done	_	_	_	?	in Silver 's basement studio
+
+WIKI2_15	3
+He therefore became the tenth player in the fifteen-year history of Super League to score five tries in a match , the first since Ryan Hall for Leeds against Castleford on 14 August 2009 .
+16	tries	16
+Where	was	something	tried	_	_	_	?	in a match
+2	became	2
+Where	did	someone	become	something	_	_	?	Super League
+14	score	14
+What	did	someone	score	_	_	_	?	five tries in a match
+
+WIKI2_16	1
+Illinois 2 follows the Rock River from Rock Island to South Beloit .
+2	follows	2
+Where	did	something	follow	something	to	_	?	South Beloit
+
+WIKI2_17	1
+Returning to sea in search of his opponent , Howe pursued Villaret deep into the Atlantic .
+10	pursued	10
+Where	did	someone	pursue	someone	_	_	?	deep into the Atlantic
+
+WIKI2_18	4
+While in the Spartan League the club would go on to make its debut in the FA Cup in the 1950 -- 51 season , losing to Wycombe Wanderers 13 -- 0 in the extra preliminary qualifying round .
+8	go	8
+Where	would	something	go	_	on	doing something	?	in the FA Cup
+25	losing	25
+How much	did	someone	lose	_	to	someone	?	13 -- 0
+11	make	11
+What	would	something	make	_	_	_	?	its debut
+36	qualifying	36
+What	is	_	qualifying	_	_	_	?	round
+
+WIKI2_19	5
+As people become economically active , records are created relating to their borrowing , earning and lending history .
+8	created	8
+Why	are	something	created	_	_	_	?	As people become economically active
+9	relating	9
+Where	is	something	relating	_	to	_	?	their borrowing , earning and lending history
+2	become	2
+What	does	someone	become	_	_	_	?	economically active
+14	earning	14
+What	is	_	earning	_	_	_	?	history
+16	lending	16
+What	is	_	lending	_	_	_	?	history
+
+WIKI2_20	2
+In 2011-12 , the club also took part in the North Sea Cup , a European Cup competition made up of two clubs each from Belgium , Germany and the Netherlands .
+18	made	18
+What	is	something	make	_	up of	_	?	two clubs each from Belgium , Germany and the Netherlands
+6	took	6
+Where	did	something	take	_	_	doing something	?	in the North Sea Cup
+
+WIKI2_21	2
+He served with distinction , winning the Civic Crown for his part in the siege of Mytilene .
+1	served	1
+How	do	someone	serve	_	with	something	?	winning the Civic Crown for his part in the siege of Mytilene
+5	winning	5
+Where	did	someone	win	something	by	doing something	?	in the siege of Mytilene
+
+WIKI2_22	2
+Even when the Eastern Han dynasty split into the Three Kingdoms in 220 , Vietnam remained under the control of the state of Wu .
+6	split	6
+When	did	something	split	_	into	something	?	in 220
+15	remained	15
+What	did	something	remain	_	under	_	?	the control of the state of Wu
+
+WIKI2_23	2
+Within 29 years of its first installation at Euston Station , the telegraph network crossed the oceans to every continent but Antarctica , making instant global communication possible for the first time .
+14	crossed	14
+Where	did n't	something	cross	_	to	_	?	Antarctica
+23	making	23
+When	did	something	make	something	by	doing something	?	for the first time
+
+WIKI2_24	2
+Gorée is famous as a destination for people interested in the Atlantic slave trade but relatively few slaves were processed or transported from there .
+19	processed	19
+Where	was	someone	processed	_	from	_	?	there
+21	transported	21
+Where	was	someone	transported	_	from	_	?	there
+
+WIKI2_25	2
+In such proteins , individual zinc finger domains typically occur as tandem repeats with two , three , or more fingers comprising the DNA-binding domain of the protein .
+9	occur	9
+What	does	something	occur	_	with	_	?	two , three , or more fingers
+21	comprising	21
+What	is	_	comprising	_	in	something	?	the DNA-binding domain of the protein
+
+WIKI2_26	1
+2.1 % of those under the age of 18 and 2.1 % of those 65 and older were living below the poverty line .
+18	living	18
+How much	was	_	living	_	below	something	?	2.1 %
+
+WIKI2_27	1
+In 2012 ZOA lost its charitable status in the United States .
+3	lost	3
+Where	did	something	lose	something	_	_	?	in the United States
+
+WIKI2_28	2
+The pool of blood in the back seat would suggest Luna was in back and someone else was driving .
+9	suggest	9
+What	would	something	suggest	_	_	_	?	Luna was in back and someone else was driving
+18	driving	18
+Who	was	_	driving	_	_	_	?	someone else
+
+WIKI2_29	1
+The city contained palaces , temples , private houses and fortifications .
+2	contained	2
+What	does	something	contain	_	_	_	?	palaces , temples , private houses and fortifications
+
+WIKI2_30	1
+Chandamari , Chilkirhat , Falimari , Ghughumari , Haribhanga , Moyamari , Patchhara , Putimari -- Fuleswari and Sutkabari will form the Cooch Behar Dakshin assembly constituency .
+20	form	20
+What	will	_	be formed	_	by	someone	?	the Cooch Behar Dakshin assembly constituency
+
+WIKI2_31	3
+He scored his first Super League goal on 6 October 2012 , which ensured Guizhou Renhe beat Shanghai Shenhua 4 -- 2 at Guiyang Olympic Sports Center .
+16	beat	16
+Who	was	_	beaten	_	by	someone	?	Shanghai Shenhua
+1	scored	1
+Where	did	someone	score	something	_	_	?	at Guiyang Olympic Sports Center
+13	ensured	13
+How	was	something	ensured	_	_	_	?	He scored his first Super League goal
+
+WIKI2_32	1
+Within psychology , an essential question that guides our understanding of the body-mind relationship is , should the mind be seen strictly as a subset of the body or vice versa ?
+20	seen	20
+Where	should	something	be seen	_	as	something	?	Within psychology
+
+WIKI2_33	1
+Though , it can be solved efficiently when minimal empirical risk is zero , i.e. data is linearly separable .
+5	solved	5
+When	can	something	be solved	_	_	_	?	when minimal empirical risk is zero
+
+WIKI2_34	2
+In 2010 , the AVP shut its doors once again and filed bankruptcy .
+11	filed	11
+What	did	something	file	_	_	_	?	bankruptcy
+5	shut	5
+What	did	something	shut	_	_	_	?	its doors
+
+WIKI2_35	1
+Males had a median income of $ 53,854 versus $ 38,401 for females .
+1	had	1
+What	did	someone	have	_	_	_	?	a median income of $ 53,854 versus $ 38,401 for females
+
+WIKI2_36	2
+Microsoft did not , however , have a JDA with IBM for the development of TopView .
+1	did	1
+What	did n't	something	do	_	_	_	?	have a JDA with IBM for the development of TopView
+6	have	6
+What	did n't	something	have	something	for	_	?	the development of TopView
+
+WIKI2_37	4
+Many Brazilian soaring records were established in the type and it was used as a primary trainer in some of the largest Brazilian aero clubs , including CVV-CTA in São José dos Campos/Ipu ã , Rio Claro , Osório , and Tatuí .
+2	soaring	2
+How much	are	_	soaring	_	_	_	?	Many
+26	including	26
+Where	were	something	included	_	in	something	?	São José dos Campos/Ipu ã , Rio Claro , Osório , and Tatuí
+12	used	12
+Where	was	something	used	_	as	something	?	in some of the largest Brazilian aero clubs
+5	established	5
+Where	was	something	established	_	_	_	?	in the type
+
+WIKI2_38	2
+Panyarring then became an active means of securing repayment of debt and for political and economic ends again .
+2	became	2
+What	did	something	become	_	_	_	?	an active means of securing repayment of debt
+7	securing	7
+What	is	_	secured	_	_	_	?	repayment of debt
+
+WIKI2_39	2
+In 2014 , Brazil will host the FIFA World Cup followed by the Summer Olympic Games in 2016 .
+10	followed	10
+Where	will	something	be followed	_	by	something	?	Brazil
+5	host	5
+What	will	someone	host	_	_	_	?	FIFA World Cup
+
+WIKI2_40	1
+Her album `` Dr Dream and the Imaginary Pop Cabaret '' was launched at the Old Museum Brisbane in November .
+12	launched	12
+When	was	something	launched	_	_	_	?	in November
+
+WIKI2_41	5
+Lasky , for his part , having written and published `` Africa For Beginners '' in 1962 , made a point of devoting a special issue to that continent , along with others devoted to Asia and Latin America .
+9	published	9
+When	was	something	published	_	_	_	?	in 1962
+18	made	18
+What	did	someone	make	_	_	_	?	a point
+33	devoted	33
+Who	_	_	devoted	something	_	somewhere	?	Lasky
+22	devoting	22
+Who	is	_	devoting	something	_	somewhere	?	Lasky
+7	written	7
+When	was	something	written	_	_	_	?	in 1962
+
+WIKI2_42	2
+For some individuals , a simple command to write bigger eliminates the issue .
+8	write	8
+How	will	something	be written	_	_	_	?	bigger
+10	eliminates	10
+How	will	something	be eliminated	_	_	_	?	write bigger
+
+WIKI2_43	3
+Sarmiento invoked the diminution of civil liberties during the Marcos administration , writing : The apprehensions in question chronicle in my mind the increasing pattern of arrests and detention in the country without the sanction of a judicial decree .
+1	invoked	1
+When	did	someone	invoke	something	_	_	?	during the Marcos administration
+12	writing	12
+What	did	someone	write	_	_	_	?	The apprehensions in question chronicle in my mind the increasing pattern of arrests and detention in the country without the sanction of a judicial decree
+23	increasing	23
+Where	is	something	increasing	_	_	_	?	in the country
+
+WIKI2_44	1
+At the same time , the 22nd battalion of marines disappears and its standby capacity of the company .
+10	disappears	10
+Who	_	_	disappears	_	_	_	?	the 22nd battalion of marines
+
+WIKI2_45	4
+Emperor Gaozu believed Gao , went to his tent to thank him , and rebuked Murong .
+2	believed	2
+Who	did	someone	believe	_	_	_	?	Gao
+10	thank	10
+Where	did	someone	thank	someone	_	_	?	_
+5	went	5
+Why	did	someone	go	_	_	somewhere	?	to thank him
+14	rebuked	14
+Who	did	someone	rebuke	_	_	_	?	Murong
+
+WIKI2_46	1
+A memorial plaque `` Nile Voyageurs 1884-85 '' was erected at Kitchissippi Lookout on Island Park Drive just west of the Champlain Bridge in 1966 .
+9	erected	9
+When	was	something	erected	_	_	_	?	in 1966
+
+WIKI2_47	2
+He spent 1943-45 in a labor service unit with the Hungarian army in the Ukraine and was later incarcerated in a Soviet POW camp .
+1	spent	1
+Who	did	someone	spend	something	with	_	?	the Hungarian army
+18	incarcerated	18
+When	was	someone	incarcerated	_	_	somewhere	?	later
+
+WIKI2_48	1
+Also in the 1990s , Efrem Zimbalist , Jr. played Alfred Pennyworth in ' as well as in ' , `` The New Batman Adventures '' , `` Justice League '' , `` Static Shock '' , and the animated films ' , ' , and ' and villain Doctor Octopus in ' .
+9	played	9
+Where	did	someone	play	_	as	someone	?	' as well as in ' , `` The New Batman Adventures '' , `` Justice League '' , `` Static Shock '' , and the animated films ' , ' , and ' and villain Doctor Octopus in '
+
+WIKI2_49	1
+The report was presented by Alexander Downer , Australia 's Minister of Foreign Affairs , to the United Nations on 30 September 1996 and the Conference on Disarmament on 30 January 1997 .
+3	presented	3
+When	do	someone	present	something	_	_	?	30 September 1996
+
+WIKI2_50	1
+Alfriston Windmill is a tower mill at Alfriston , Sussex , England which has been converted to residential accommodation .
+15	converted	15
+What	has	something	been converted	_	to	_	?	residential accommodation
+
+WIKI2_51	1
+In a slow rock duet , Keating and Howard both beseech voters to `` Choose Me '' .
+10	beseech	10
+What	did	someone	beseech	someone	to	do	?	Choose Me
+
+WIKI2_52	4
+`` GameZone '' praised the game , noting that small gameplay details made the game a true `` a must have '' .
+20	have	20
+What	must	someone	have	_	_	_	?	the game
+3	praised	3
+What	did	someone	praise	_	_	_	?	the game
+12	made	12
+What	did	something	make	_	about	something	?	a true `` a must have ''
+7	noting	7
+What	was	_	noted	_	_	_	?	that small gameplay details made the game a true `` a must have ''
+
+WIKI2_53	1
+His performance in the ninth edition of the games , was identified as the eighty-seventh athlete with the highest number of medals to all participants of the event , with a total of 3 medals :
+11	identified	11
+Where	was	something	identified	_	as	something	?	in the ninth edition of the games
+
+WIKI2_54	1
+Herbie Lewis founded the Jazz Studies program at New College of California .
+2	founded	2
+Where	has	someone	founded	something	_	_	?	at New College of California
+
+WIKI2_55	4
+Because cortisol is normally important in restoring homeostasis after the stress response , it is thought that trauma survivors with low cortisol experience a poorly contained -- that is , longer and more distressing -- response , setting the stage for PTSD .
+25	contained	25
+What	is	_	contained	_	_	_	?	response
+37	setting	37
+What	is	something	set	_	for	_	?	PTSD
+6	restoring	6
+What	is	_	restoring	something	_	_	?	cortisol
+15	thought	15
+Who	is	_	thought	_	to	do something	?	trauma survivors
+
+WIKI2_56	1
+This building is named after former master of the college Arthur Lehman Goodhart .
+3	named	3
+Who	is	something	named	_	after	_	?	former master of the college Arthur Lehman Goodhart
+
+WIKI2_57	1
+About 750 local youth groups affiliate themselves with the organization , comprising over 8,500 youth members .
+11	comprising	11
+How much	is	something	being comprised	_	with	something	?	8,500
+
+WIKI2_58	2
+The CD+DVD version , however , features a photo taken in 1988 at 19 , before Fukuyama 's debut as a singer .
+9	taken	9
+When	is	something	taken	_	_	_	?	in 1988
+6	features	6
+Who	is	_	featured	_	in	something	?	Fukuyama
+
+WIKI2_59	2
+In 2006 , Chris left Amazon Web Services and subsequently started a new venture with his long-time friend Willem .
+10	started	10
+Who	did	someone	start	something	with	_	?	his long-time friend Willem
+4	left	4
+Why	did	someone	leave	_	_	somewhere	?	started a new venture with his long-time friend Willem
+
+WIKI2_60	3
+The Goblins then panicked and scattered , to be picked off by hunting forces from the victors .
+9	picked	9
+Who	will	_	pick	_	off	someone	?	hunting forces from the victors
+3	panicked	3
+Who	_	_	panicked	_	_	_	?	The Goblins
+5	scattered	5
+Who	_	_	scattered	_	_	_	?	The Goblins
+
+WIKI2_61	2
+This was a major cause for the success of the Griffin iMate ADB to USB adapters , as they allowed for the use of the older , more comfortable ADB Mouse II to be used with those iMacs .
+34	used	34
+What	will	something	be used	_	with	_	?	those iMacs
+19	allowed	19
+What	did	someone	allow	_	_	_	?	the use of the older , more comfortable ADB Mouse II to be used with those iMacs
+
+WIKI2_62	2
+In 2002 this public institution turned into a foundation , becoming subject to private law .
+10	becoming	10
+Where	has	something	become	something	to	_	?	private law
+5	turned	5
+What	did	something	turn	_	into	_	?	a foundation
+
+WIKI2_63	3
+While # 2 Auburn and # 3 Florida State both won , the Seminole 's 48-6 win over Georgia Southern brought it to # 2 in the polls .
+16	win	16
+Who	did	someone	win	_	over	_	?	Georgia Southern
+10	won	10
+Who	_	_	won	_	_	_	?	# 2 Auburn and # 3 Florida State
+20	brought	20
+Where	was	someone	brought	_	to	_	?	# 2 in the polls
+

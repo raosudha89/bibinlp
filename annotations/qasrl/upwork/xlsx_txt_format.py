@@ -8,10 +8,7 @@ class Unit:
         self.trigger = trigger
         self.question_answer = question_answer
 
-if __name__ == '__main__':
-    original_file = open(sys.argv[1], 'r')
-    xlsx_file = sys.argv[2]
-    output_file = open(sys.argv[3], 'w')
+def get_sentence_num_trigger_index_dict(original_file):
     sentence_num_trigger_index_dict = {}
     sent_num = 0
     for line in original_file.readlines():
@@ -25,7 +22,9 @@ if __name__ == '__main__':
                 except:
                     sentence_num_trigger_index_dict[sent_num] = []
                 sentence_num_trigger_index_dict[sent_num].append(index)
-    
+    return sentence_num_trigger_index_dict 
+
+def load_units(xlsx_file):
     sent_num = None
     wb = load_workbook(xlsx_file, read_only=True)
     units = {} # {sent_num: {trig_num: unit}}
@@ -62,31 +61,53 @@ if __name__ == '__main__':
                 except:
                     units[sent_num] = {}
                 units[sent_num][trig_num] = unit
+    return units, sentences_dict
+
+if __name__ == '__main__':
+    if len(sys.argv) < 2:
+        print 'usage: python xlsx_txt_format.py <output_file> <original_file xlxs_file>'
+        sys.exit(0)
+    output_file = open(sys.argv[1], 'w')
     index = 0
-    for k,v in units.iteritems():
-        sent_num = k
-        num_qas = len(units[sent_num].values())
-        output_file.write(('WIKI2_%s\t%s\n') % (index, num_qas))
-        sentence = sentences_dict[sent_num]
-        output_file.write(sentence.encode('utf-8').strip()+'\n')
-        for k,v in units[sent_num].iteritems():
-            trig_num = k
-            unit = v
-            possible_trigger_indices = [i for i, x in enumerate(sentence.split()) if x == unit.trigger]
-            trigger_index = None
-            if len(possible_trigger_indices) != 1:
-                for possible_trigger_index in possible_trigger_indices:
-                    if possible_trigger_index in sentence_num_trigger_index_dict[sent_num]:
-                        if trigger_index:
-                            pdb.set_trace()
-                        else:
-                            trigger_index = possible_trigger_index
-            else:
-                trigger_index = possible_trigger_indices[0]
-            output_file.write(('%s\t%s\t%s\n') % (trigger_index, unit.trigger, trig_num))
-            output_file.write(unit.question_answer.encode('utf-8').strip()+'\n')
-        output_file.write('\n')
-        index += 1
+    print len(sys.argv)
+    for i in range(2, len(sys.argv), 2):
+        print sys.argv[i]
+        print sys.argv[i+1]
+        original_file = open(sys.argv[i], 'r')
+        sentence_num_trigger_index_dict = get_sentence_num_trigger_index_dict(original_file)
+        xlsx_file = sys.argv[i+1]
+        units, sentences_dict = load_units(xlsx_file)
+
+        for k,v in units.iteritems():
+            sent_num = k
+            num_qas = len(units[sent_num].values())
+            sentence = sentences_dict[sent_num]
+            first_trigger = True
+            for k,v in units[sent_num].iteritems():
+                trig_num = k
+                unit = v
+                possible_trigger_indices = [i for i, x in enumerate(sentence.split()) if x == unit.trigger]
+                trigger_index = None
+                if len(possible_trigger_indices) != 1:
+                    for possible_trigger_index in possible_trigger_indices:
+                        if str(possible_trigger_index) in sentence_num_trigger_index_dict[sent_num]:
+                            if trigger_index:
+                                trigger_index = None
+                                break
+                            else:
+                                trigger_index = possible_trigger_index
+                else:
+                    trigger_index = possible_trigger_indices[0]
+                if not trigger_index:
+                    continue
+                if first_trigger:
+                    output_file.write(('WIKI2_%s\t%s\n') % (index, num_qas))
+                    output_file.write(sentence.encode('utf-8').strip()+'\n')
+                    first_trigger = False
+                output_file.write(('%s\t%s\t%s\n') % (trigger_index, unit.trigger, trig_num))
+                output_file.write(unit.question_answer.encode('utf-8').strip()+'\n')
+            output_file.write('\n')
+            index += 1
             
                 
                     
