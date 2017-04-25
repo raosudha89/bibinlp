@@ -1,0 +1,226 @@
+WIKI2_0	3
+Around fifty survivors were picked up by pursuing Danish ships and taken as prisoners to Copenhagen .
+11	taken	11
+How	was	someone	taken	_	_	_	?	as prisoners
+4	picked	4
+How	was	someone	picked	_	_	_	?	up
+7	pursuing	7
+Who	was	_	being pursued	_	_	_	?	Around fifty survivors
+
+WIKI2_1	2
+It can still give check from the second rank to a white king on the first rank , even if it ca n't yet legally move to the first rank .
+25	move	25
+When	ca n't	something	move	_	_	_	?	yet
+3	give	3
+What	can	something	give	something	to	_	?	a white king on the first rank
+
+WIKI2_2	3
+A neurotransmitter can be thought of as a key , and a receptor as a lock : the same type of key can here be used to open many different types of locks .
+25	used	25
+Where	can	something	be used	_	_	_	?	here
+27	open	27
+What	can	something	open	_	_	_	?	many different types of locks
+4	thought	4
+What	can	something	be thought	_	of as	_	?	a key
+
+WIKI2_3	2
+, the United States Justice Department has yet to investigate any corporate executives .
+9	investigate	9
+Who	might	something	investigate	_	_	_	?	corporate executives
+6	has	6
+What	does	something	have	_	to	do	?	investigate any corporate executives
+
+WIKI2_4	3
+After his release , Binj reluctantly agrees to accept a great deal of drugs that belongs to his brother who is still on the run .
+8	accept	8
+What	will	someone	accept	_	_	_	?	a great deal of drugs that belongs to his brother who is still on the run
+6	agrees	6
+When	does	someone	agree	_	to	do something	?	After his release
+15	belongs	15
+Who	does	something	belong	_	to	_	?	his brother who is still on the run
+
+WIKI2_5	3
+The show also makes references to the original `` Black Dynamite '' film , such as Fiendish Dr. Wu as the leader of a group of ninjas ; however , the show follows its own continuity , as some characters from the film who were killed off are alive in the series .
+32	follows	32
+What	does	something	follow	_	_	_	?	its own continuity
+3	makes	3
+What	does	something	make	_	_	_	?	references to the original `` Black Dynamite '' film , such as Fiendish Dr. Wu as the leader of a group of ninjas
+45	killed	45
+Where	was	someone	killed	_	_	_	?	the film
+
+WIKI2_6	4
+After finishing their first screenplay , a dark comedy called `` Do n't Call Unless The Maid Dies '' originally titled `` Sand Traps and Eskimo Pies '' , a friend of theirs submitted it to his literary agent , Gayla Nethercott .
+1	finishing	1
+What	did	someone	finish	_	_	_	?	their first screenplay , a dark comedy called `` Do n't Call Unless The Maid Dies '' originally titled `` Sand Traps and Eskimo Pies ''
+20	titled	20
+When	was	something	titled	something	_	_	?	originally
+33	submitted	33
+When	did	someone	submit	something	_	_	?	After finishing their first screenplay
+9	called	9
+What	was	something	called	_	_	_	?	`` Do n't Call Unless The Maid Dies ''
+
+WIKI2_7	4
+In the 16th minute though , against the run of play , Fabian Delph played a through ball to Gabriel Agbonlahor who beat defenders Maya Yoshida and Dejan Lovren before converting past Paulo Gazzaniga to put Villa one up .
+30	converting	30
+When	did	someone	convert	_	_	_	?	In the 16th minute
+35	put	35
+When	did	someone	put	something	_	somewhere	?	In the 16th minute
+22	beat	22
+Who	did	someone	beat	_	_	_	?	defenders Maya Yoshida and Dejan Lovren
+14	played	14
+How	did	someone	play	something	_	_	?	against the run of play
+
+WIKI2_8	7
+She said she left the show because she `` did n't want to keep doing the same episode over and over again and the same story ... I did n't want it to become old and stale . ''
+1	said	1
+What	did	someone	say	_	_	_	?	she left the show because she `` did n't want to keep doing the same episode over and over again and the same story ... I did n't want it to become old and stale . ''
+3	left	3
+Why	did	someone	leave	_	_	_	?	she `` did n't want to keep doing the same episode over and over again and the same story ... I did n't want it to become old and stale . ''
+33	become	33
+What	might	something	have become	_	_	_	?	old and stale
+None	want	11
+Why	did n't	someone	want	something	_	_	?	I did n't want it to become old and stale
+13	keep	13
+Why	would n't	someone	keep	_	_	doing something	?	I did n't want it to become old and stale
+14	doing	14
+Why	would n't	someone	do	something	_	_	?	I did n't want it to become old and stale
+None	want	30
+What	did n't	someone	want	_	_	_	?	it to become old and stale
+
+WIKI2_9	2
+Although Gearan was disappointed by the decision , he accepted it .
+9	accepted	9
+What	did	someone	accept	_	_	_	?	it
+3	disappointed	3
+What	was	someone	disappointed	_	by	_	?	the decision
+
+WIKI2_10	2
+Many developed countries now require certain articles of PPE , and manufacturers and governments recommend its extensive use .
+4	require	4
+When	does	something	require	something	_	_	?	now
+14	recommend	14
+What	does	someone	recommend	_	_	_	?	its extensive use
+
+WIKI2_11	3
+The proclamation was read by John Guare at the unveiling of a bronze plaque depicting Joe Cino at his espresso machine , affixed to the wall at 31 Cornelia Street , the Caffe Cino 's site .
+3	read	3
+When	was	something	read	_	_	_	?	at the unveiling of a bronze plaque depicting Joe Cino at his espresso machine , affixed to the wall at 31 Cornelia Street , the Caffe Cino 's site
+22	affixed	22
+What	was	something	affixed	_	to	_	?	the wall
+14	depicting	14
+Where	was	something	depicting	something	_	_	?	affixed to the wall at 31 Cornelia Street , the Caffe Cino 's site
+
+WIKI2_12	3
+Horner won the August 10 primary , defeating Hahn to earn a place on the November ballot .
+1	won	1
+What	did	someone	win	_	_	_	?	the August 10 primary
+10	earn	10
+Why	did	someone	earn	something	_	_	?	Horner won the August 10 primary , defeating Hahn
+7	defeating	7
+Why	did	someone	defeat	someone	_	_	?	to earn a place on the November ballot
+
+WIKI2_13	1
+The cover photo was taken by Murray 's then-husband , Bill Langstroth .
+4	taken	4
+Who	was	something	taken	_	by	_	?	Murray 's then-husband , Bill Langstroth
+
+WIKI2_14	2
+They come in 1.4 95 bhp and 1.6 120 hp versions with low emissions , as well as new diesel engines , all with emissions of under 120 g/km , plus an `` Airdream + '' model with 99 g/km using a new 1.6 HDI engine .
+40	using	40
+What	does	something	use	_	_	_	?	a new 1.6 HDI engine
+1	come	1
+What	does	something	come	_	in	_	?	1.4 95 bhp and 1.6 120 hp versions with low emissions , as well as new diesel engines , all with emissions of under 120 g/km , plus an `` Airdream + '' model with 99 g/km using a new 1.6 HDI engine
+
+WIKI2_15	3
+After several centuries of independence , however , in the late 17th century the Jonang order came under attack by the 5th Dalai Lama , who converted the majority of their monasteries to the Gelug order , although several survived in secret .
+16	came	16
+When	did	something	come	_	under	something	?	in the late 17th century
+26	converted	26
+When	did	someone	convert	something	_	_	?	in the late 17th century
+39	survived	39
+How	did	something	survive	_	_	_	?	in secret
+
+WIKI2_16	1
+Joanna of Austria inherited the pearl in 1551 in accordance with her father Charles V 's division of Empress Isabella 's estate .
+3	inherited	3
+Why	did	someone	inherit	something	_	_	?	in accordance with her father Charles V 's division of Empress Isabella 's estate
+
+WIKI2_17	2
+The Westway , also known as St. Phillip 's is a community that covers the northwest portion of Richview , east of Kipling and north of The Westway .
+4	known	4
+What	is	something	known	_	as	_	?	St. Phillip 's
+13	covers	13
+What	does	something	cover	_	_	_	?	the northwest portion of Richview , east of Kipling and north of The Westway
+
+WIKI2_18	2
+The Wrecking Crew was imprisoned in the Raft , when Electro freed the inmates in the `` New Avengers '' .
+11	freed	11
+Where	did	someone	free	someone	_	_	?	in the `` New Avengers ''
+4	imprisoned	4
+When	was	someone	imprisoned	_	_	_	?	when Electro freed the inmates in the `` New Avengers ''
+
+WIKI2_19	1
+Drake formed the company in May 2012 with former Mandate Pictures partner , Nathan Kahane .
+1	formed	1
+Who	did	someone	form	something	with	_	?	former Mandate Pictures partner , Nathan Kahane
+
+WIKI2_20	1
+However , during the current stage of expansion , units are also being deployed along the geomagnetic equator , in places such as Malaysia ,
+13	deployed	13
+When	is	something	being deployed	_	_	_	?	during the current stage of expansion
+
+WIKI2_21	1
+The paper used to be available at bookshops , cinemas , clubs , grocery stores , and restaurants and cafes , and could also be downloaded as a PDF from the website .
+25	downloaded	25
+Where	could	something	be downloaded	_	from	_	?	the website
+
+WIKI2_22	2
+His main deputies -- whom he often calls `` dipstick '' -- include Enos Strate and Cletus Hogg .
+12	include	12
+Who	does	something	include	_	_	_	?	Enos Strate and Cletus Hogg
+7	calls	7
+When	does	someone	call	someone	_	something	?	often
+
+WIKI2_23	1
+Rather , it would be better to ask , `` What kind of person would this have been had he not been a Sufi ? ''
+7	ask	7
+Why	might	something	be asked	_	_	_	?	it would be better
+
+WIKI2_24	2
+The legislature is the Assembly of the Republic , which has 50 members elected by proportional representation from five electoral districts .
+10	has	10
+What	does	something	have	_	_	_	?	50 members elected by proportional representation from five electoral districts
+13	elected	13
+What	is	someone	elected	_	to	_	?	the Assembly of the Republic
+
+WIKI2_25	1
+From a population of 1,500 people in 1897 , the population has grown to over 9,000 today .
+12	grown	12
+What	has	something	grown	_	to	_	?	over 9,000 today
+
+WIKI2_26	3
+He said in a letter that `` The Chinese will never make good fliers , they have absolutely no fine touch with the stick '' .
+16	have	16
+What	does n't	someone	have	_	_	_	?	fine touch with the stick
+1	said	1
+Where	did	someone	say	something	_	_	?	in a letter
+11	make	11
+Why	wo n't	someone	make	something	_	_	?	they have absolutely no fine touch with the stick
+
+WIKI2_27	2
+The program has been hosted by North Park Secondary School since 1998 and has been a great success thanks to the work of Jon Ruhnke and principal Mr. Tunner .
+4	hosted	4
+When	has	something	been hosted	_	_	_	?	since 1998
+None	has	13
+Why	_	_	has	something	_	something	?	thanks to the work of Jon Ruhnke and principal Mr. Tunner
+
+WIKI2_28	1
+Founded by Eleanor Davies-Colley and Maud Chadburn in 1912 , it always employed an all-woman staff .
+12	employed	12
+What	did	something	employ	_	_	_	?	an all-woman staff
+
+WIKI2_29	1
+`` Justices warrant to apoynte a Provost Marshall and to sett Watch & Ward December 1624 ''
+2	warrant	2
+What	does	someone	warrant	_	_	_	?	to apoynte a Provost Marshall and to sett Watch & Ward December 1624
+

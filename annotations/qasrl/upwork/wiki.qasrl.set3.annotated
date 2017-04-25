@@ -1,0 +1,802 @@
+WIKI2_0	1
+His troops fought against the Soviet cavalry elite `` Konarmia '' of Semyon Budyonny .
+2	fought	2
+Who	was	_	fought	_	against	_	?	The Soviet cavalry elite `` Konarmia ''
+
+WIKI2_1	1
+This had an impact on the development of cultural studies and urban planning .
+1	had	1
+What	did	something	have	_	_	_	?	an impact on the development of cultural studies and urban planning .
+
+WIKI2_2	3
+In 987 Yelü Sha participated in another invasion of Song , this time defeating the resistant Song army , and was awarded as a result .
+4	participated	4
+What	did	someone	participate	_	in 	something	?	another invasion of Song
+13	defeating	13
+Why	was	someone	defeated	_	_	_	?	invasion of Song
+21	awarded	21
+Why	was	someone	awarded	something	_	_	?	as a result
+
+WIKI2_3	1
+The station 's advertised channel number follows the call letters .
+6	follows	6
+What	does	something	follow	_	_	_	?	the call letters
+
+WIKI2_4	4
+From the tips of the fingers or toes , long rat-like claws extended ... For a moment I was so struck with horror at the eyes thus revealed that I noted nothing else .
+20	struck	20
+Why	was	someone	struck	_	with	something	?	the eyes thus revealed
+27	revealed	27
+What	did	_	revealing	something	_	do	?	I noted nothing else
+12	extended	12
+What	did	something	extend	_	from	_	?	From the tips of the fingers or toes
+30	noted	30
+Why	did	someone	note	something	_	_	?	I was so struck with horror at the eyes thus revealed
+
+WIKI2_5	4
+`` Columba livia '' kidneys , like mammalian kidneys , are capable of producing urine hyperosmotic to the plasma utilizing the processes of filtration , reabsorption and secretion , which will be discussed later and explained through the Starling-Landis Hypothesis .
+32	discussed	32
+When	will	something	be discussed	_	_	_	?	later
+35	explained	35
+How	will	something	be explained	_	_	_	?	through the Starling-Landis Hypothesis
+19	utilizing	19
+What	_	_	utilizes	something	_	_	?	urine hyperosmotic to the plasma
+13	producing	13
+What	does	_	producing	something	_	do	?	utilizing the processes of filtration , reabsorption and secretion
+
+WIKI2_6	2
+He received high commendation , leading the regiment 's bayonet charge at the Battle of Stone River .
+1	received	1
+Why	did	someone	receive	something	_	_	?	leading the regiment 's bayonet charge at the Battle of Stone River
+5	leading	5
+Where	did	someone	lead	something	_	_	?	at the Battle of Stone River
+
+WIKI2_7	7
+In 2003 , a year after Swedish citizen Mehdi Ghezali was detained at `` Gitmo '' , which sparked some media interest in Sweden , Erik and Tarik started filming the documentary and visited the base on a guided tour of selected areas .
+33	visited	33
+How	did	someone	visit	something	_	_	?	on a guided tour
+38	guided	38
+Where	was	someone	guided	_	on 	something	?	the base
+41	selected	41
+Where	was	something	selected	_	_	_	?	the base
+11	detained	11
+What	did	someone	being detained	_	_	do	?	sparked some media interest in Sweden
+18	sparked	18
+What	_	_	sparked	something	_	_	?	Swedish citizen Mehdi Ghezali was detained at `` Gitmo ''
+28	started	28
+When	did	someone	start	_	_	doing something	?	In 2003
+29	filming	29
+When	was	someone	filming	something	_	_	?	In 2003
+
+WIKI2_8	1
+Michigan 's second worst loss of the season came on the road against Purdue , 96 -- 79 , on February 6 , 1961 .
+8	came	8
+Who	did	something	come	_	against	_	?	Purdue
+
+WIKI2_9	1
+The quake was a direct result of thrust -- reverse faulting on or near the subduction zone plate boundary between the Pacific and North American Plates .
+10	faulting	10
+How	was	something	faulting	_	_	_	?	reverse
+
+WIKI2_10	3
+After 1990 , he started a small chain of car washes , also named `` Jessica '' in Guadalajara .
+10	washes	10
+Where	was	something	being washed	_	_	_	?	in Guadalajara
+4	started	4
+Where	did	someone	start	something	_	_	?	in Guadalajara
+13	named	13
+Where	was	something	named	_	_	_	?	in Guadalajara
+
+WIKI2_11	2
+He was defeated when he ran for reelection to the provincial assembly in 1971 .
+2	defeated	2
+When	was	someone	defeated	_	_	_	?	in 1971
+5	ran	5
+When	did	someone	run	_	for	something	?	in 1971
+
+WIKI2_12	8
+When the Ludovician attacks Eric Sanderson , he decides to go in search of a doctor named Trey Fidorous , identified by the letters from his previous self , in the hope he may be able to help to explain what happened to him and how to defeat the shark .
+37	help	37
+Who	might	_	be helped	_	with	something	?	Eric Sanderson
+39	explain	39
+Who	might	something	be explained	_	to	_	?	Eric Sanderson
+8	decides	8
+Why	does	someone	decide	_	to	do something	?	the Ludovician attacks Eric Sanderson
+41	happened	41
+Who	did	something	happen	_	to	_	?	Eric Sanderson
+10	go	10
+Why	does	someone	go	_	_	somewhere	?	the Ludovician attacks Eric Sanderson
+47	defeat	47
+Who	might	_	defeat	something	_	_	?	Eric Sanderson
+16	named	16
+What	is 	someone	named	_	_	_	?	Trey Fidorous
+20	identified	20
+What	is	someone	identified	_	by	_	?	the letters from his previous self
+
+WIKI2_13	1
+His first cousin , Anthony J. Celebrezze Jr. , was an elected official and candidate for Ohio governor .
+11	elected	11
+Who	was	_	elected	something	_	_	?	Anthony J. Celebrezze Jr.
+
+WIKI2_14	1
+The F59PH is still used today , mainly on commuter railroads :
+4	used	4
+Where	is	something	used	_	_	_	?	on commuter railroads
+
+WIKI2_15	4
+The praise , however , was not unequivocal ; `` The Village Voice '' 's Robert Christgau derided the album , calling it an `` art project '' , implying that The Breeders did n't `` like a band . ''
+17	derided	17
+What	did	someone	deride 	_	_	_	?	the album
+33	did	33
+What	_	_	did	someone	_	do	?	`` like a band . ''
+21	calling	21
+Who	_	_	called	something	_	something	?	`` The Village Voice '' 's Robert Christgau
+29	implying	29
+Who	_	_	implied	something	_	_	?	`` The Village Voice '' 's Robert Christgau
+
+WIKI2_16	2
+He is also credited with 1,281 tackles , the second highest total in Houston Oilers / Tennessee Titans history .
+3	credited	3
+What	is	someone	credited	_	with	_	?	1,281 tackles
+6	tackles	6
+What	are	_	tackles	_	_	_	?	the second highest total in Houston Oilers / Tennessee Titans history
+
+WIKI2_17	3
+The store might achieve the latter by ringing up the bill faster or by adding more counters .
+3	achieve	3
+How	might	someone	achieve	something	_	_	?	by ringing up the bill faster or by adding more counters
+14	adding	14
+Why	might	someone	add	something	_	_	?	achieve the latter
+7	ringing	7
+What	might	_	ringing	something	up	do	?	achieve the latter
+
+WIKI2_18	2
+Religious books were increasingly being printed in Venice for distribution to the clergy and literate worshipers , passed out during mass and offering continuous reminders of the presence of Christ on everyday life .
+17	passed	17
+Why	was	something	passed	_	out	_	?	offering continuous reminders of the presence of Christ on everyday life
+5	printed	5
+Why	was	something	being printed	_	_	_	?	for distribution to the clergy and literate worshipers
+
+WIKI2_19	3
+Shawn Mullins , a singer/songwriter from Atlanta , wrote and dedicated a song to Kathryn Johnston called `` The Ballad of Kathryn Johnston '' on his album `` Honeydew '' .
+8	wrote	8
+Where	was	something	written	_	_	_	?	on his album `` Honeydew ''
+16	called	16
+Where	was	something	called	something	_	_	?	on his album `` Honeydew ''
+10	dedicated	10
+Where	was	something	dedicated	_	to	someone	?	on his album `` Honeydew ''
+
+WIKI2_20	4
+Canada 's Arctic policy priorities are : to try to resolve boundary issues ; to secure international recognition for the full extent of Canada 's extended continental shelf ; and to address Arctic governance and related emerging issues , such as public safety .
+8	try	8
+What	might	someone	try	_	to	do	?	resolve boundary issues
+10	resolve	10
+What	might	_	resolve	something	_	_	?	Canada 's Arctic policy priorities
+36	emerging	36
+What	might	_	be emerging	_	_	_	?	issues , such as public safety
+31	address	31
+What	might	_	address	something	_	_	?	Canada 's Arctic policy priorities
+
+WIKI2_21	1
+He emphasized such Christian beliefs as God 's holiness and righteousness , God 's love toward humans and especially Christian views of Jesus .
+1	emphasized	1
+What	did	someone	emphasize	_	_	_	?	Christian beliefs
+
+WIKI2_22	4
+As they argue , Father Crowley announces the return of Sister Mary Bernard who has arrived back in the United States after being gone for two months , to Gabrielle 's surprise .
+2	argue	2
+Who	_	_	argues	_	_	_	?	they
+23	gone	23
+Where	was	someone	gone	_	_	_	?	the United States
+6	announces	6
+Who 	was	something	announced	_	to	_	?	Gabrielle
+15	arrived	15
+When	has	someone	arrived	_	_	_	?	after being gone for two months
+
+WIKI2_23	3
+His collaborationism , exemplified by the propaganda articles he wrote for `` Gazeta Bucureștilor '' , earned him a jail sentence in March 1919 .
+16	earned	16
+What	_	_	earned	someone	_	something	?	the propaganda articles he wrote for `` Gazeta Bucureștilor ''
+9	wrote	9
+Who	did	someone	write	something	for	_	?	`` Gazeta Bucureștilor ''
+3	exemplified	3
+When	did	something	exemplified	_	_	do something	?	in March 1919
+
+WIKI2_24	2
+On 8 August 2012 , Leah along with Lucas and Amy leaves the village and Ste. She returns in November as a bridesmaid for Ste 's wedding to Doug Carter .
+17	returns	17
+How	did	someone	return	_	_	_	?	as a bridesmaid
+11	leaves	11
+Who	did	someone	leave	_	_	_	?	Ste
+
+WIKI2_25	6
+In particular she showed how understanding Māori history is based on what she named the myth narrative , where ancient stories are interwoven with new events to create newer myth narratives .
+3	showed	3
+How	did	someone	show	something	_	_	?	In particular
+5	understanding	5
+What	might	someone	understand	_	_	_	?	Māori history is based on what she named the myth narrative
+9	based	9
+What	is	something	based	_	on	_	?	what she named the myth narrative
+13	named	13
+What	did	someone	name 	something	_	_	?	the myth narrative
+22	interwoven	22
+Why	was	something	interwoven	_	_	_	?	to create newer myth narratives
+27	create	27
+How	is	something	created	_	_	_	?	ancient stories are interwoven with new events
+
+WIKI2_26	2
+`` Social Evolution & History '' has published several special issues devoted to questions in social evolution :
+11	devoted	11
+What	was	something	devoted	_	to	_	?	questions in social evolution
+7	published	7
+How much	did	someone	publish	_	_	_	?	several
+
+WIKI2_27	3
+The British also believed the deportation to have a strong deterring element .
+10	deterring	10
+How	is	something	deterring	_	_	_	?	strong
+3	believed	3
+What	did	someone	believe 	_	_	_	?	the deportation to have a strong deterring element
+7	have	7
+What	_	_	has	something	_	_	?	the deportation
+
+WIKI2_28	1
+All 503 branches and 1.7 million customers were transferred to State Bank .
+8	transferred	8
+How much	were	_	transferred	_	_	_	?	All
+
+WIKI2_29	1
+Early farmers prospered in the Burlington area because of the fertile soil and moderate temperatures .
+2	prospered	2
+Why	did	someone	prosper	_	_	_	?	because of the fertile soil and moderate temperatures
+
+WIKI2_30	1
+Bennett was in the bottom two with Kellie Pickler , but was not eliminated .
+13	eliminated	13
+Why	might	someone	have been eliminated	_	_	_	?	in the bottom two
+
+WIKI2_31	3
+He was not able to continue his formal studies even there due to frequent raid of British forces in his hostel and was compelled to give up his formal educational career for ever .
+25	give	25
+Who	_	_	gave	something	up	_	?	He
+5	continue	5
+Why	did n't	someone	continue	something	_	_	?	due to frequent raid of British forces in his hostel
+23	compelled	23
+Why	was	someone	compelled	_	to	do something	?	He was not able to continue his formal studies
+
+WIKI2_32	2
+Both bulls and steers may be used for beef production .
+3	steers	3
+What	might	_	steers	_	_	do	?	be used for beef production
+6	used	6
+What	may	something	be used	_	for	_	?	beef production
+
+WIKI2_33	2
+The climb takes part on a public road with a 1:6 gradient leading to 1:5 with a short 1:4 at its steepest at the top of the climb .
+2	takes	2
+Where	does	something	take 	something	_	_	?	on a public road
+12	leading	12
+What	is	something	leading	_	to	_	?	1:5
+
+WIKI2_34	3
+The Liberals , under leader Shawn Graham , led in public opinion polls as of the summer of 2004 and maintained that lead ; however , Lord remained the most favoured Leader to be Premier of New Brunswick for a time .
+8	led	8
+When	did	someone	lead	_	_	_	?	summer of 2004
+27	remained	27
+How much	did	someone	remain	something	_	_	?	for a time
+20	maintained	20
+When	did	someone	maintain	something	_	_	?	summer of 2004
+
+WIKI2_35	5
+On October 18 of that year , Maria Montoya abruptly left the station , breaking up the longest tenured anchor duo in South Florida , in order `` to pursue other opportunities '' in a statement by station management ; Montoya left the station without conducting a formal departure .
+None	left	41
+How	did	someone	leave	_	_	somewhere	?	without conducting a formal departure
+None	left	10
+What	did	someone	leaving	_	_	do	?	breaking up the longest tenured anchor duo in South Florida
+29	pursue	29
+Who	might	_	pursue	something	_	_	?	Maria Montoya
+14	breaking	14
+Why	was	something	broken	_	up	_	?	in order `` to pursue other opportunities ''
+45	conducting	45
+Where	did n't	someone	conduct	something	_	_	?	the station
+
+WIKI2_36	2
+On 12 December 1941 , the most distinguished members of the Paris Jewish community , including doctors , academics , scientists and writers , were rounded up .
+25	rounded	25
+When	was	someone	rounded	_	up	_	?	On 12 December 1941
+15	including	15
+What	was	someone	included	_	with	_	?	the most distinguished members of the Paris Jewish community
+
+WIKI2_37	3
+He has been a frequent guest on radio programs and hosted his own radio program , `` IN THE MOOD , '' playing music of the 1930s , 1940s , and 1950s .
+1	has	1
+What	_	_	has	someone	_	_	?	a frequent guest on radio programs
+10	hosted	10
+What	does	something	hosted	_	_	do	?	playing music of the 1930s , 1940s , and 1950s
+22	playing	22
+What	_	_	plays	something	_	_	?	his own radio program , `` IN THE MOOD , ''
+
+WIKI2_38	1
+In some cases , it is not even necessary to convince people of abortion 's dangers .
+10	convince	10
+Why	might not	someone	be convinced	_	of 	something	?	it is not even necessary
+
+WIKI2_39	2
+Have you ever met a critic who you wanted to party with ?
+8	wanted	8
+Who	might	someone	want	something	with	_	?	a critic
+3	met	3
+Who	might	_	meet	someone	_	_	?	you
+
+WIKI2_40	5
+He had let it be known that he would serve as a Democrat if elected , and was sworn in as a Democrat on January 3 , 1973 .
+9	serve	9
+When	would	someone	serve	_	as	something	?	if elected
+2	let	2
+What	did	someone 	let	_	_	_	?	it be known
+18	sworn	18
+How 	was	someone	sworn	_	in	_	?	as a Democrat
+5	known	5
+What	did	someone	be known	_	_	_	?	that he would serve as a Democrat if elected
+14	elected	14
+Who	might	_	be elected	_	_	_	?	he
+
+WIKI2_41	1
+Then sailed between Suva , Fiji Islands , and Auckland , New Zealand , from 9 June to 13 August on similar duty .
+1	sailed	1
+How	did	someone	sail	_	_	_	?	on similar duty
+
+WIKI2_42	1
+At Stella Azzura began his career as a professional coach Valerio Bianchini , the rector of the Italian coaching .
+3	began	3
+Where	did	someone	begin	something	_	_	?	At Stella
+
+WIKI2_43	4
+The founding members included guitarist Phiroj Shyangden , bassist Nirakar Yakthumba , drummer Bhanu A. During the early days the band used to play various genres including hard rock , heavy metal , rock and blues .
+26	including	26
+What	was	something	included	_	with	_	?	various genres
+3	included	3
+Who	was	_	included	_	with	something	?	guitarist Phiroj Shyangden , bassist Nirakar Yakthumba , drummer Bhanu A
+21	used	21
+When	did	someone	used	_	to	do something	?	During the early days
+23	play	23
+When	did	someone	play	something	_	_	?	During the early days
+
+WIKI2_44	4
+However their books were returned and there was widespread publicity in leading newspapers of Turkey leading to the government lifting the ban on the Bahá ' ís .
+19	lifting	19
+Why	was	something	lifted	_	_	_	?	there was widespread publicity in leading newspapers of Turkey
+None	leading	11
+Where	was	something	leading	_	_	_	?	Turkey
+4	returned	4
+Who 	had	something	returned	_	_	_	?	their
+None	leading	15
+What	_	_	lead	_	to	something	?	widespread publicity in leading newspapers of Turkey
+
+WIKI2_45	3
+Rotman has also built his own 6 camera live internet studio called the Streamin ' Garage and currently broadcasts 4 shows including Stupid For Movies , Stupid For Fantasy Football , Stupid For Dexter , and Stripped Down Live .
+11	called	11
+What	was	_	called	something	_	_	?	his own 6 camera live internet studio
+3	built	3
+What	did	someone	build	_	_	_	?	his own 6 camera live internet studio
+21	including	21
+Where	is	something	included	_	_	_	?	the Streamin ' Garage
+
+WIKI2_46	1
+The period also saw the hijacking of TWA Flight 847 in 1985 , and the Lebanon hostage crisis from 1982 to 1992 .
+3	saw	3
+When	was	something	seen	_	_	_	?	1985
+
+WIKI2_47	1
+She taught high school English in Utah and in upstate New York .
+1	taught	1
+Where	did	someone	teach	something	_	_	?	Utah and in upstate New York
+
+WIKI2_48	1
+Her keel was laid down on 16 October 1917 by the Fore River Shipbuilding Company in Quincy , Massachusetts .
+3	laid	3
+Who	_	_	laid	something	down	_	?	the Fore River Shipbuilding Company
+
+WIKI2_49	1
+He died in April 1871 , in his eighty-second year .
+1	died	1
+When	did	someone	die 	_	_	_	?	in April 1871
+
+WIKI2_50	5
+This reaction was coupled with the backlash LaMarche received from fellow Canadian comedians who LaMarche describes as discouraging him from pursuing a career outside of Canada .
+8	received	8
+Who	did	someone	receive	something	from	_	?	fellow Canadian comedians
+17	discouraging	17
+Who	_	_	discouraged	someone	from	doing something	?	fellow Canadian comedians
+3	coupled	3
+What	was	something	coupled	_	with	_	?	the backlash LaMarche received
+20	pursuing	20
+Why	might not	someone	pursue	something	_	_	?	discouraging him
+15	describes	15
+What	did	someone	describe	something	as	_	?	discouraging him from pursuing a career outside of Canada
+
+WIKI2_51	1
+Vittorio Emanuele II was the first King of a united Italy .
+9	united	9
+What	was	_	united	_	_	_	?	Italy
+
+WIKI2_52	2
+These negotiations began in February 1919 and each country had distinct negotiating preferences about Smyrna .
+2	began	2
+When	did	something	begin	_	_	_	?	February 1919
+11	negotiating	11
+When	did	someone	negotiate	_	_	_	?	February 1919
+
+WIKI2_53	2
+The building was built in 1926 and had been added to the National Register of Historic Places on February 22 , 1991 .
+9	added	9
+When	was	something	added	_	to	something	?	on February 22 , 1991
+3	built	3
+When	was	something	built	_	_	_	?	in 1926
+
+WIKI2_54	1
+During the last week of December of that year , a series of winter storm pounded the mountainside with 12 inches of rain .
+15	pounded	15
+When	was	something	pounded	_	_	_	?	During the last week of December of that year
+
+WIKI2_55	3
+Samoset spent the night in Plymouth and agreed to arrange a meeting with some of Massasoit 's men .
+1	spent	1
+Where	did	someone	spend	something	_	_	?	in Plymouth
+9	arrange	9
+Who	might 	someone	arrange	something	with	_	?	some of Massasoit 's men
+7	agreed	7
+What	did	someone	agree 	_	to	do	?	to arrange a meeting with some of Massasoit 's men
+
+WIKI2_56	1
+It is owned by the Los Angeles County Metropolitan Transportation Authority .
+2	owned	2
+Who	_	_	owns	something	_	_	?	the Los Angeles County Metropolitan Transportation Authority
+
+WIKI2_57	3
+Say Anything is a popular political and current events blog created and run by Rob Port of Minot , ND who has proclaimed the website to be `` North Dakota 's most popular political blog . ''
+10	created	10
+What	was	_	created	_	by	someone	?	a popular political and current events blog
+12	run	12
+What	is	something	run 	_	by	someone	?	a popular political and current events blog
+22	proclaimed	22
+What	did	someone	proclaim	something	to	_	?	the website to be `` North Dakota 's most popular political blog . ''
+
+WIKI2_58	3
+Ajay and Kitty have worked in Chandru 's previous films , but both backed out citing prior commitments .
+4	worked	4
+What	did	someone	work 	_	in	_	?	Chandru 's previous films
+13	backed	13
+Why	did	someone	back	_	out	_	?	prior commitments
+15	citing	15
+Why	was	something	cited	_	_	_	?	both backed out
+
+WIKI2_59	7
+The film , which did not have a theatrical release in Japan and was one of several made commemorating the 70th anniversary of the events of Nanjing , met with vociferous opposition from right-wing nationalists in Japan who even released a number of Japanese films claiming that the Nanking Massacre never occurred .
+6	have	6
+Where	did n't	something	have	something	_	_	?	in Japan
+39	released	39
+How much 	were	_	released	_	_	_	?	a number
+45	claiming	45
+How 	was	something	claimed	_	_	_	?	released a number of Japanese films
+17	made	17
+Why	was	something	made	_	_	_	?	commemorating the 70th anniversary of the events of Nanjing
+18	commemorating	18
+How much	_	_	commemorated	something	_	_	?	several
+51	occurred	51
+When	might	something	have occurred	_	_	_	?	never
+28	met	28
+Why	was	something	met	_	with	something	?	claiming that the Nanking Massacre never occurred
+
+WIKI2_60	1
+In 1951 , Newcombe was the first black pitcher to win twenty games in one season .
+10	win	10
+When	did	someone	win	something	_	_	?	in 1951
+
+WIKI2_61	1
+Instead , a study of the impact of sexual abuse by clergy was authorized almost unanimously .
+13	authorized	13
+How	was	something	authorized	_	_	_	?	almost unanimously
+
+WIKI2_62	1
+Saddam Hussein himself was captured on 13 December 2003 by the U.S. Army 's 4th Infantry Division and members of Task Force 121 during Operation Red Dawn .
+4	captured	4
+Who	_	_	captured	someone	_	_	?	the U.S. Army 's 4th Infantry Division and members of Task Force 121
+
+WIKI2_63	2
+An official application to move was sent to the Norwegian Ice Hockey Association on 26 January .
+4	move	4
+Why	might	something	move	_	_	_	?	An official application
+6	sent	6
+Why	was	something	sent	_	_	_	?	to move
+
+WIKI2_64	3
+This particular hairstyle is used as the first sign identifying this portrait type of Augustus as the Prima Porta type , the second and most popular of three official portrait types : other hairstyles of Augustus may be seen on the Ara Pacis , for example .
+9	identifying	9
+How	does	something	identify	something	_	_	?	first sign
+4	used	4
+What	is	something	used	_	for	_	?	first sign identifying this portrait type of Augustus as the Prima Porta typ
+38	seen	38
+Where	might	something	be seen	_	_	_	?	on the Ara Pacis
+
+WIKI2_65	1
+Over the past 30 years several noteworthy creations have been given to the parish .
+10	given	10
+When	has	something	been given	_	_	_	?	Over the past 30 years
+
+WIKI2_66	5
+So , he decided to dare that impious enchanter to show publicly and prove baldly he who professed the rightest creed .
+17	professed	17
+What	did	someone	profess 	_	_	_	?	the rightest creed
+10	show	10
+Why	might	someone	show	something	_	_	?	dare
+3	decided	3
+What	did	someone	decided	_	to	do  	?	dare that impious enchanter
+5	dare	5
+What	was	someone	dared	_	to	do	?	to show publicly and prove baldly he who professed the rightest creed
+13	prove	13
+What	might	someone	prove	_	_	_	?	he who professed the rightest creed
+
+WIKI2_67	2
+He married Almeria Antoniazzi in 1964 , which also marked release of his last novel , `` Un amore '' .
+1	married	1
+When	did	someone	marry	someone	_	_	?	in 1964
+9	marked	9
+When	was	something	marked	_	_	_	?	in 1964
+
+WIKI2_68	1
+Golo Footwear had its original manufacturing and design facilities in Dunmore until 1957 .
+2	had	2
+When	did	someone	have	something	_	_	?	until 1957
+
+WIKI2_69	3
+On his return , Ausculture said that he was looking shady and sporting an evil goatee .
+9	looking	9
+When	was	someone	looking	something	_	_	?	On his return
+12	sporting	12
+When	was	someone	sporting	something	_	_	?	On his return
+5	said	5
+What 	did	someone	say	_	_	_	?	that he was looking shady and sporting an evil goatee
+
+WIKI2_70	2
+According to NASA Astronaut Michael J. Massimino , who took part in the Hubble Space Telescope Servicing Missions STS-109 and STS-125 , `` nothing was out of place , nothing was missing .
+9	took	9
+What	did	someone	take	_	_	_	?	part
+31	missing	31
+What	was	_	missing	_	_	_	?	nothing
+
+WIKI2_71	3
+Agar played for Featherstone Rovers , Dewsbury and Widnes , where he played 16 games in 2001 and won an NFP Grand Final winners medal .
+None	played	1
+Who	did	someone	play 	_	for	_	?	Featherstone Rovers , Dewsbury and Widnes
+18	won	18
+When	did	someone	win	something	_	_	?	in 2001
+None	played	12
+When	did	someone	play	_	_	_	?	in 2001
+
+WIKI2_72	5
+When a shady businessman shows up with false records claiming that he is Constance 's father , Mr. Benedict is compelled to use the Whisperer to uncover her short past .
+9	claiming	9
+Who	is	_	claiming	something	_	_	?	a shady businessman
+26	uncover	26
+Who	might	_	uncover	something	_	_	?	the Whisperer
+4	shows	4
+How	did	someone	show 	_	_	_	?	up
+22	use	22
+What	might	someone	be used	_	for	_	?	to uncover her short past
+20	compelled	20
+Why	is	someone	compelled	_	to	do something	?	a shady businessman shows up with false records claiming that he is Constance 's father
+
+WIKI2_73	3
+Brooke briefly clashed with Sam over a boy named Jack spent the night .
+8	named	8
+What	was	someone	named	_	_	_	?	Jack
+2	clashed	2
+How	did	someone	clash	_	with	someone	?	briefly
+10	spent	10
+What	did	someone	spend	_	_	_	?	the night
+
+WIKI2_74	1
+At the age of 12 he attended Kennett Junior High School in nearby Conway , New Hampshire .
+6	attended	6
+When	did	someone	attend	something	_	_	?	At the age of 12
+
+WIKI2_75	4
+The cabinet controlled a large part of the trade unions through the Social Democratic Party and the communists wanted to regain the power their parliamentary organization Finnish People 's Democratic League had lost in the 1948 legislative election .
+32	lost	32
+When	did	someone	lose	something	_	_	?	in the 1948 legislative election
+2	controlled	2
+Where	did	someone	control	something	_	_	?	the Social Democratic Party
+20	regain	20
+What	might	someone	regain	_	_	_	?	the power their parliamentary organization Finnish People 's Democratic League had lost
+18	wanted	18
+What	did	someone	want 	_	_	_	?	to regain the power their parliamentary organization Finnish People 's Democratic League had lost
+
+WIKI2_76	4
+As Riggs began studying the history of American racism and homophobia , he became interested in communicating his ideas about these subjects through film .
+16	communicating	16
+How	might	someone	communicate	something	_	_	?	through film
+2	began	2
+What	did	someone	begin	_	_	_	?	studying the history of American racism and homophobia
+3	studying	3
+What	did	someone	study	_	_	_	?	the history of American racism and homophobia
+13	became	13
+What	did	someone	become	_	_	_	?	interested in communicating his ideas about these subjects through film
+
+WIKI2_77	2
+Further consideration is needed for the strength of the ore as well as the surrounding rock .
+3	needed	3
+What	is	something	needed	_	for	_	?	for the strength of the ore
+14	surrounding	14
+What	is	_	surrounding	something	_	_	?	rock
+
+WIKI2_78	4
+Settlers migrated to the new village , and before a year had passed the name of the town was changed from Athol to Keller , honoring John C. Keller , a foreman on the railroad .
+1	migrated	1
+Where	did	someone	migrate 	_	to	_	?	the new village
+19	changed	19
+When	did	something	change 	_	_	_	?	before a year had passed
+12	passed	12
+What	had	_	passed	_	_	_	?	a year
+25	honoring	25
+How	was	someone	honored	_	_	_	?	the name of the town was changed from Athol to Keller
+
+WIKI2_79	1
+MacKenzie was inducted into the Sport Australia Hall of Fame in 1985 .
+2	inducted	2
+When	was	someone	inducted	_	into	something	?	in 1985
+
+WIKI2_80	3
+During his career he made several theater set designs , and had many solo and group exhibitions .
+11	had	11
+When	did	someone	have	something	_	_	?	During his career
+4	made	4
+When	did	someone	make	something	_	_	?	During his career
+7	set	7
+How much	_	_	set	_	_	_	?	several
+
+WIKI2_81	2
+On April 8 , 2011 , Likens left the Ice Tigers after one season and joined ERC Ingolstadt on a one-year deal .
+15	joined	15
+How	did	someone	join	something	_	_	?	on a one-year deal
+7	left	7
+When	did	someone	leave	something	_	_	?	On April 8 , 2011
+
+WIKI2_82	4
+It was the first all-concrete elevated tank used by a municipality in the United States ; even though it was replaced in 1960 , it remains standing as an icon of the town .
+25	remains	25
+How	does	something	remain	_	_	_	?	as an icon of the town
+26	standing	26
+Why	is	something	standing	_	_	_	?	as an icon of the town
+20	replaced	20
+When	was	something	replaced	_	_	_	?	in 1960
+7	used	7
+Who	_	_	used	something	_	_	?	a municipality in the United States
+
+WIKI2_83	2
+Recent years have found Freed collaborating with some of today 's most accomplished musicians .
+3	found	3
+When	was	someone	found	_	_	doing something	?	Recent years
+5	collaborating	5
+Who	is	someone	collaborating	_	with	_	?	today 's most accomplished musicians
+
+WIKI2_84	4
+She uses Kronsteen 's plans to obtain the Lektor , a decoding device , and kill Bond .
+1	uses	1
+What	does	someone	use	something	for	_	?	to obtain the Lektor , a decoding device
+11	decoding	11
+What	might	_	decode	something	_	_	?	device
+6	obtain	6
+Why	might	someone	obtain	something	_	_	?	kill Bond
+15	kill	15
+Who	might	_	kill	someone	_	_	?	She
+
+WIKI2_85	3
+They would have also made plans for obtaining a dispensation to confer the degrees on willing and deserving candidates .
+11	confer	11
+What	might	_	be conferred	_	_	_	?	the degrees on willing and deserving candidates
+4	made	4
+Why	might	someone	have made	something	_	_	?	to confer the degrees on willing and deserving candidates
+7	obtaining	7
+Why	might	someone	obtain	something	_	_	?	to confer the degrees on willing and deserving candidates
+
+WIKI2_86	3
+This strategy is facilitated by the Brazilian general perception of the `` Playboy '' magazine as a tasteful medium for nude pictorials , as opposed to other adult magazines published in the country .
+24	opposed	24
+What	is	_	opposed	_	to	something	?	`` Playboy '' magazine as a tasteful medium for nude pictorials
+3	facilitated	3
+Who	is	something	facilitated	_	by	_	?	the Brazilian general perception
+29	published	29
+What	is	_	published	_	_	_	?	adult magazines
+
+WIKI2_87	1
+No Death Certificates for Arthur Eric Williams and Erica D'Anitoff Williams have been found .
+13	found	13
+What	has n't	_	found	_	_	_	?	Death Certificates for Arthur Eric Williams and Erica D'Anitoff Williams
+
+WIKI2_88	1
+Jacques Joli-Coeur of the Renouveau municipal de Québec party served as interim mayor between Boucher 's death and the by-election .
+9	served	9
+When	did	someone	serve	_	as	something	?	between Boucher 's death and the by-election
+
+WIKI2_89	2
+In 2001 , Vampire at Chessington World of Adventures was modified to use Vekoma 's floorless trains .
+10	modified	10
+Why	was	something	modified	_	_	_	?	to use Vekoma 's floorless trains
+12	use	12
+Why	does	something	use	something	_	_	?	modified
+
+WIKI2_90	2
+In 1996 , Espuelas envisioned the portal that would `` unite '' Latin America : Starmedia .
+10	unite	10
+How 	might	something	be united	_	_	_	?	Starmedia
+4	envisioned	4
+What	did	someone	envision	_	_	_	?	the portal that would `` unite '' Latin America
+
+WIKI2_91	3
+He also handed the delivery of the key new factory in Castle Bromwich , that was contracted to deliver 1,000 new Supermarine Spitfires to the RAF by the end of 1940 , to Lord Nuffield .
+16	contracted	16
+When	was	something	contracted	_	to	do something	?	by the end of 1940
+2	handed	2
+Who	did	someone	hand	something	to	_	?	Lord Nuffield
+18	deliver	18
+Who	should	something	be delivered	_	to	_	?	the RAF
+
+WIKI2_92	2
+Roxhill is mostly residential areas , with a focal point of retail commerce but a great place to raise a family , if your financial situation allows for it .
+18	raise	18
+Where	might	something	be raised	_	_	_	?	Roxhill
+26	allows	26
+What	might	something	allow	_	for	_	?	raise a family
+
+WIKI2_93	2
+Gostkowski also had to contend with having three different holders during the season .
+2	had	2
+When	did	someone	have	_	to	do something	?	during the season
+4	contend	4
+When	did	someone	contend	_	with	something	?	during the season
+
+WIKI2_94	2
+When a variable rate , such as virus spread within a human population , exceeds its normal infection rate then preventative or emergency measures can be introduced .
+26	introduced	26
+Why	might	something	be introduced	_	_	_	?	a variable rate , such as virus spread within a human population , exceeds its normal infection rate
+14	exceeds	14
+What	might	_	exceed	something	_	_	?	a variable rate
+
+WIKI2_95	1
+In the Colorado Plateau , it occurs across uniformly thin soils .
+6	occurs	6
+How	does	something	occur	_	_	_	?	across uniformly thin soils
+
+WIKI2_96	4
+The following morning , Xiahou Dun gathered his surviving soldiers and retreated back to Xuchang .
+8	surviving	8
+What	did	someone	survived	_	_	do	?	retreated back to Xuchang
+1	following	1
+What	_	_	followed	_	_	_	?	morning
+11	retreated	11
+When	did	someone	retreat	_	_	_	?	The following morning
+6	gathered	6
+When	did	someone	gather	something	_	_	?	The following morning
+
+WIKI2_97	2
+Mansfield and New Zealand-born singer-songwriter Sharon O'Neill met on Dragon 's Body And The Beat tour : they later became domestic and professional partners .
+19	became	19
+When	did	someone	become	something	_	_	?	later
+7	met	7
+Where	did	someone	meet	_	_	_	?	on Dragon 's Body And The Beat tour
+
+WIKI2_98	3
+Hanya Holm directed and choreographed the production , and sopranos Dolores Wilson and Leyna Gabriele alternated in the title role .
+2	directed	2
+What	did	someone	direct 	_	_	_	?	the production
+4	choreographed	4
+What	did	someone	choreograph 	_	_	_	?	the production
+15	alternated	15
+What	did	someone	alternate 	_	in	_	?	the title role
+
+WIKI2_99	1
+The tradition of feather Christmas trees was brought to the United States by German immigrants in places such as Pennsylvania and Texas .
+7	brought	7
+Who	_	_	brought	something	_	somewhere	?	by German immigrants
+

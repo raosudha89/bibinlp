@@ -1,0 +1,448 @@
+WIKI2_0	3
+As of 2009 , there are plans to upgrade existing hotels to at least a four-star rating , and to modernise the outdated sewer system and power grid .
+8	upgrade	8
+Why	might	something	be upgraded	_	_	_	?	outdated
+9	existing	9
+What	_	_	exists	_	_	_	?	hotels
+20	modernise	20
+What	may	_	be modernised	_	_	_	?	the outdated sewer system and power grid
+
+WIKI2_1	3
+Other medicinal uses for datura include providing relief from sore throat or toothache and getting rid of parasites .
+14	getting	14
+What	is	_	being gotten	_	_	_	?	rid of parasites
+5	include	5
+What	_	something	includes	something	_	_	?	Other medicinal uses for datura
+6	providing	6
+What	is	something	provided	_	by	something	?	Other medicinal uses
+
+WIKI2_2	1
+The Managers are not elected by the members of Walden Two in any kind of democratic process .
+4	elected	4
+How	is n't	someone	being elected	_	by	someone	?	in any kind of democratic process
+
+WIKI2_3	1
+The center concentrated on peacemaking , poverty and economic justice , human rights , and women 's issues .
+2	concentrated	2
+What	was	something	concentrated	_	on	_	?	peacemaking
+
+WIKI2_4	3
+She attended Black Mountain College in North Carolina , where she majored in music , having entered as a talented composer , pianist and singer .
+16	entered	16
+Where	did	someone	enter	_	in	something	?	Black Mountain College
+1	attended	1
+Where	did	someone	attend	something	_	_	?	North Carolina
+11	majored	11
+What	did	someone	major	_	in	_	?	music
+
+WIKI2_5	4
+The Gershwin family , working in conjunction with the Library of Congress and the University of Michigan , are working to make scores available to the public that represent Gershwin 's true intent .
+28	represent	28
+What	is	something	being represented	_	by	something	?	Gershwin 's true intent
+None	working	19
+Who	is	_	working	_	for	something	?	The Gershwin family
+None	working	4
+What	is	something	working	_	with	someone	?	the Library of Congress
+21	make	21
+Why	is	something	being made	_	for	someone	?	represent Gershwin 's true intent
+
+WIKI2_6	1
+With JYJ 's help , the island was voted as one of the New Seven wonders of Nature by the New Seven Wonders committee .
+8	voted	8
+What	_	_	voted	something	as	something	?	JYJ
+
+WIKI2_7	1
+The Clermont Cemetery was established about 1850 and is next to St. Luke 's Church .
+4	established	4
+Where	was	something	established	_	_	_	?	next to St. Luke 's Church
+
+WIKI2_8	4
+`` Computer Gaming World '' complained that the `` music , while beautifully composed , is butchered by being dependent on your sound card , '' and `` Next Generation Magazine '' found the game 's pre-rendered backgrounds significantly less impressive than those of the PlayStation version .
+16	butchered	16
+How	was	something	butchered	_	_	_	?	by being dependent on your sound card
+32	found	32
+What	has	something	found	_	_	_	?	the game 's pre-rendered backgrounds significantly less impressive than those of the PlayStation version
+5	complained	5
+What	did	something	complain	_	about	_	?	music , while beautifully composed , is butchered by being dependent on your sound card
+13	composed	13
+How	was	something	composed	_	_	_	?	beautifully
+
+WIKI2_9	1
+His first marriage was to model Kathleen Regan in September 1966 .
+5	model	5
+When	was	someone	modeling	_	_	_	?	September 1966
+
+WIKI2_10	1
+The General Political Department director was at the head of a system of political commissars assigned to each echelon in the PLA .
+15	assigned	15
+What	was	something	assigned	_	to	something	?	a system of political commissars
+
+WIKI2_11	3
+Two weeks later on May 6 , McDaniel called the radio station WWKI claiming to have seen the creature again , at 3am that morning .
+8	called	8
+What	was	something	called	_	about	_	?	the creature
+16	seen	16
+When	did	someone	see	something	_	_	?	at 3am that morning
+13	claiming	13
+What	did	someone	claim	something	to	_	?	the radio station WWKI
+
+WIKI2_12	2
+The collection , which was titled Lagerfeld Gallery by Diesel , was co-designed by Lagerfeld and then developed by Diesel 's Creative Team .
+17	developed	17
+Who	_	_	developed	something	_	_	?	Diesel 's Creative Team
+5	titled	5
+What	was	something	titled	_	_	_	?	Lagerfeld Gallery by Diesel
+
+WIKI2_13	2
+E-land laid off more than 900 non-regular female cashiers at its affiliate retailers , Homever and New Core , just before the law went into effect on July 1 , 2007 .
+1	laid	1
+When	was	someone	laid	_	off	_	?	just before the law went into effect on July 1 , 2007
+23	went	23
+What	_	something	went	something	_	_	?	the law
+
+WIKI2_14	2
+The construction in 1912 of the Tianjin -- Pukou railway , farther east , for a while made Hefei a provincial backwater , and much of its importance passed to Bengbu .
+17	made	17
+What	was	something	made	_	_	_	?	a provincial backwater
+28	passed	28
+What	had	something	passed	_	_	_	?	Hefei
+
+WIKI2_15	1
+In contrast , economic growth is concerned with the long-run trend in production due to structural causes such as technological growth and factor accumulation .
+6	concerned	6
+What	is	something	concerned	_	with	_	?	the long-run trend in production due to structural causes such as technological growth and factor accumulation
+
+WIKI2_16	2
+The situation continues in the Panther 's laboratory where he is mixing more punch .
+2	continues	2
+Where	does	something	continue	_	_	_	?	 in the Panther 's laboratory
+11	mixing	11
+Who	is	_	mixing	something	_	_	?	he
+
+WIKI2_17	1
+In 1979 he published pioneering papers on the dynamics of binary minor planets .
+3	published	3
+What	was	_	published	_	_	_	?	pioneering papers on the dynamics of binary minor planets
+
+WIKI2_18	1
+Use of a CCR will not void the warranty of the phone .
+6	void	6
+What	wo n't	_	void	something	_	_	?	Use of a CCR
+
+WIKI2_19	5
+Along with the idea that connectivity improvement will increase the land value , was also necessary to design an attractive master plan which defines the uses and activities in the area in order to grant the special characteristics to strengthen the project in relation to its local competitors such as the Copenhagen Harbour .
+8	increase	8
+What	will	_	be increased	_	_	_	?	the land value
+17	design	17
+What	was	something	designed	_	for	_	?	in order to grant the special characteristics to strengthen the project in relation to its local competitors such as the Copenhagen Harbour
+34	grant	34
+What	was	_	granted	_	_	_	?	the special characteristics to strengthen the project in relation to its local competitors such as the Copenhagen Harbour
+39	strengthen	39
+What	will	_	be strengthened	_	_	_	?	the project in relation to its local competitors such as the Copenhagen Harbour
+23	defines	23
+What	was	_	defined	_	_	_	?	the uses and activities in the area
+
+WIKI2_20	1
+He returned to Brazil in 1986 , as the director of the Centro Brasileiro de Pesquisas Físicas .
+1	returned	1
+How	did	someone	return	_	to	somewhere	?	as the director of the Centro Brasileiro de Pesquisas Físicas
+
+WIKI2_21	1
+If true , his combination of military and religious office responsibilities in Aedua paralleled Caesar 's duties among the Romans .
+13	paralleled	13
+What	was	_	paralleled	_	_	_	?	Caesar 's duties among the Romans
+
+WIKI2_22	5
+The story tells about a character who mistakenly achieves immortality and then , weary of a long life , struggles to lose it and writes an account of his experiences .
+8	achieves	8
+How	is	something	achieved	_	_	_	?	mistakenly
+24	writes	24
+What	is	_	written	_	by	someone	?	an account of his experiences
+2	tells	2
+What	is	something	being told	_	about	_	?	a character who mistakenly achieves immortality and then , weary of a long life , struggles to lose it and writes an account of his experiences
+19	struggles	19
+What	is	someone	struggling	_	to	do	?	lose it
+21	lose	21
+Who	might	_	lose	something	_	_	?	a character
+
+WIKI2_23	3
+The internet sovereignty of China should be respected and protected , '' it says .
+9	protected	9
+What	should	_	be protected	_	_	_	?	The internet sovereignty of China
+13	says	13
+What	_	_	says	something	_	_	?	it
+7	respected	7
+What	should	_	be respected	_	_	_	?	The internet sovereignty of China
+
+WIKI2_24	2
+The absence of a pneumatic system simplifies the design , but high demand for electricity requires heavier generators .
+6	simplifies	6
+What	is	_	simplifying	something	_	_	?	The absence of a pneumatic system
+15	requires	15
+What	is	_	required	_	_	_	?	heavier generators
+
+WIKI2_25	2
+The couple settled in Chicago , where their four children -- Miriam , Dinah , Chaim Tzvi , and Sori -- were born .
+2	settled	2
+Where	did	someone	settle	_	_	_	?	in Chicago
+22	born	22
+Who	was	_	born	_	_	somewhere	?	their four children
+
+WIKI2_26	1
+Ames says that he was more of a bookseller than printer , and dwelt at the sign of the Dragon in the west end of St. Paul 's Churchyard .
+1	says	1
+What	does	someone	say	_	_	_	?	that he was more of a bookseller than printer , and dwelt at the sign of the Dragon in the west end of St. Paul 's Churchyard
+
+WIKI2_27	2
+Irwin was associated with several start-up companies , including Aunigma Network Solutions .
+8	including	8
+What	was	_	included	_	with	something	?	Aunigma Network Solutions
+2	associated	2
+What	was	someone	associated	_	with	_	?	several start-up companies
+
+WIKI2_28	2
+It has a readership of 5.8 million per month and is published on a monthly basis .
+1	has	1
+What	does	something	have	_	_	_	?	a readership of 5.8 million per month
+11	published	11
+What	is	_	published	_	_	_	?	It
+
+WIKI2_29	4
+But because the priest did not actually read the letter , Zuccotti speculates that the bishop may have been deceiving him -- and thus that this testimony should be rejected .
+19	deceiving	19
+Who	was	_	deceiving	someone	_	_	?	the priest
+12	speculates	12
+What	did	someone	speculate	_	_	_	?	that the bishop may have been deceiving him
+29	rejected	29
+Why	should	something	be rejected	_	_	_	?	the bishop may have been deceiving him
+7	read	7
+What	was n't	_	read	_	_	_	?	the letter
+
+WIKI2_30	2
+Additionally , 22 % of the pupils receive special education services , while 2.35 % are identified as gifted .
+16	identified	16
+What	is	someone	being identified	_	as	_	?	gifted
+7	receive	7
+What	is	_	being received	_	_	_	?	special education services
+
+WIKI2_31	4
+Most recent preference ranking placed Stanford at the top , followed by MIT , Harvard , and Princeton . The National Defense Act of 1933 provided that the National Guard is considered a component of the Army at all times .
+25	provided	25
+What	was	something	provided	_	_	_	?	that the National Guard is considered a component of the Army at all times
+10	followed	10
+What	was	_	followed	_	_	_	?	Stanford
+4	placed	4
+Where	was	something	placed	_	_	_	?	at the top
+31	considered	31
+What	is	something	being considered	_	_	_	?	a component of the Army at all times
+
+WIKI2_32	1
+Fortunately , Burns was able to command the vessel away from the British ships , unscathed .
+6	command	6
+How	was	something	commanded	_	_	_	?	away from the British ships
+
+WIKI2_33	5
+Also , we learned a lot from the in-depth analysis we needed to make on these hits , written by others , in combination with implementing our own sound and style in each new cover .
+11	needed	11
+What	was	_	needed	_	_	_	?	in-depth analysis
+25	implementing	25
+Who	_	_	implemented	something	_	_	?	we
+18	written	18
+What	did	someone	write	_	_	_	?	hits
+3	learned	3
+Where	was	something	learned	_	from	_	?	the in-depth analysis we needed to make on these hits , written by others , in combination with implementing our own sound and style in each new cover
+13	make	13
+What	was	something	made	_	on	_	?	these hits
+
+WIKI2_34	3
+The state route turns north onto East Street , and passes amidst a few more residences prior to departing the village and re-entering Amanda Township .
+10	passes	10
+How	does	something	pass	something	_	_	?	amidst
+3	turns	3
+Where	does	something	turn	_	to	_	?	north onto East Street
+18	departing	18
+What	is	_	being departed	_	_	_	?	the village
+
+WIKI2_35	1
+They are our methods of coping with the constant demands of life . ''
+5	coping	5
+How	is	someone	coping	_	with	something	?	our methods
+
+WIKI2_36	1
+In 2006 , he was inducted into the Connecticut Soccer Hall of Fame .
+5	inducted	5
+What	was	someone	inducted	_	into	_	?	the Connecticut Soccer Hall of Fame
+
+WIKI2_37	1
+Further , if the parameters of a scalar theory are adjusted so that the deflection of light is correct then the gravitational redshift is likely to be wrong .
+10	adjusted	10
+How	is	something	being adjusted	_	_	_	?	so that the deflection of light is correct
+
+WIKI2_38	2
+It is considered to be only game for the North American market that replicates the `` feel '' of a Japanese Super Famicom wrestling game .
+2	considered	2
+What	is	something	considered	_	_	_	?	to be only game for the North American market that replicates the `` feel '' of a Japanese Super Famicom wrestling game
+13	replicates	13
+What	is	_	being replicated	_	_	_	?	the `` feel '' of a Japanese Super Famicom wrestling game
+
+WIKI2_39	6
+Watson had a good start and led into the first corner , whereas Reutemann collided with Hunt and had to pit for repairs , which left Depailler and Lauda second and third .
+None	had	1
+What	did	someone	have	_	_	_	?	a good start
+6	led	6
+Where	was	something	being led	_	_	_	?	into the first corner
+14	collided	14
+Who	was	_	collided	_	with	_	?	Hunt
+None	had	18
+What	did	someone	have	_	to	do	?	pit for repairs
+20	pit	20
+Why	did	someone	pit	_	_	_	?	for repairs
+25	left	25
+Where	was	someone	left	_	_	_	?	second and third
+
+WIKI2_40	2
+Cinelerra-CV allows the community to contribute to an open repository where changes to the code are accessible to everyone .
+1	allows	1
+What	is	_	allowed	_	to	do something	?	the community
+5	contribute	5
+What	is	something	contributed	_	to	_	?	an open repository where changes to the code are accessible to everyone
+
+WIKI2_41	4
+Cheddar is one of several products used by the United States Department of Agriculture to track the status of America 's overall dairy industry ; reports are issued weekly detailing prices and production quantities .
+27	issued	27
+When	is	something	being issued	_	_	_	?	weekly
+29	detailing	29
+What	is	_	being detailed	_	_	_	?	prices and production quantities
+6	used	6
+What	is	something	used	_	for	_	?	to track the status of America 's overall dairy industry
+15	track	15
+What	is	something	being tracked	_	_	_	?	the status of America 's overall dairy industry
+
+WIKI2_42	3
+He called the personal and police stories in this episode `` predictable '' , adding : `` It was clear , for instance , that Hannah was right and the other adults were wrong about what Emma wanted . ''
+1	called	1
+What	was	something	called	_	_	_	?	`` predictable '
+37	wanted	37
+Who	_	_	wanted	something	_	_	?	Emma
+14	adding	14
+What	did	someone	add	_	_	_	?	`` It was clear , for instance , that Hannah was right and the other adults were wrong about what Emma wanted . ''
+
+WIKI2_43	2
+They were present at the 1897 Review of the Fleet , held to celebrate Queen Victoria 's Diamond Jubilee .
+11	held	11
+Why	was	something	held	_	_	_	?	to celebrate Queen Victoria 's Diamond Jubilee
+13	celebrate	13
+When	was	something	celebrated	_	_	_	?	1897
+
+WIKI2_44	3
+The Egyptians and even Pharaoh himself were envious of his glorious deeds , fearing also that he might use his power to gain dominion over Egypt .
+18	use	18
+Why	might	something	be used	_	_	_	?	to gain dominion over Egypt
+13	fearing	13
+What	was	_	feared	_	_	_	?	that he might use his power to gain dominion over Egypt
+22	gain	22
+How	might	something	be gained	_	_	_	?	he might use his power
+
+WIKI2_45	1
+The working title is currently `` Stones Unhallowed '' and will focus on the character Szeth .
+11	focus	11
+What	will	something	be focused	_	on	_	?	the character Szeth
+
+WIKI2_46	4
+As the debates of Parliament , many of whose decisions directly affected the colonies , were distributed and closely followed in the British colonies in America , the name `` Columbia '' would have been familiar to the United States ' founding generation .
+16	distributed	16
+Why	was	something	distributed	_	_	_	?	decisions directly affected the colonies
+19	followed	19
+Where	was	something	followed	_	_	_	?	in America
+11	affected	11
+What	was	_	affected	_	_	_	?	the colonies
+33	have	33
+Who	would	_	have been had	something	_	_	?	the British colonies in America
+
+WIKI2_47	2
+He is most often said to be a contemporary of Moses , but in other variations of his story , he lived at the same time as Abraham , the mythological Persian king Afridun and Nashiya bin Amus .
+4	said	4
+Who	is	something	said	_	about	_	?	He
+21	lived	21
+When	did	someone	live	_	_	_	?	at the same time as Abraham , the mythological Persian king Afridun and Nashiya bin Amus
+
+WIKI2_48	4
+When Steve is poisoned as a result of Darren stealing Crepsley 's spider Madame Octa , Darren agrees to become a half-vampire and Crepsley 's assistant in exchange for the cure .
+19	become	19
+Why	will	someone	become	something	_	_	?	in exchange for the cure
+9	stealing	9
+What	was	_	stolen	_	_	_	?	Crepsley 's spider Madame Octa
+3	poisoned	3
+Why	is	someone	poisoned	_	_	_	?	as a result of Darren stealing Crepsley 's spider Madame Octa
+17	agrees	17
+Why	is	something	agreed	_	to	_	?	Steve is poisoned as a result of Darren stealing Crepsley 's spider Madame Octa
+
+WIKI2_49	2
+He also presented Elvis Extra which was one of the longest running programmes on Dublin 's Sunshine 106.8
+2	presented	2
+Where	was	something	presented	_	_	_	?	on Dublin 's Sunshine 106.8
+11	running	11
+Where	did	something	run	_	_	_	?	Dublin 's Sunshine 106.8
+
+WIKI2_50	5
+As they part company , Kristi and Megan invite Ralston to a party they 're holding the next night , and he promises to attend .
+8	invite	8
+What	is	someone	being invited	_	to	_	?	a party they 're holding the next night
+24	attend	24
+What	will	someone	attend	_	_	_	?	a party
+2	part	2
+Who	_	_	parted	something	_	_	?	Kristi and Megan
+22	promises	22
+What	is	_	being promised	_	_	_	?	to attend
+15	holding	15
+What	is	_	being held	_	_	_	?	a party
+
+WIKI2_51	1
+He was part of the team that won the Clausura 2004 title .
+7	won	7
+When	was	something	won	_	_	_	?	2004
+
+WIKI2_52	2
+The elephant was changed to its titular white in 1924 , and in 1928 the team went back to the traditional `` A '' .
+16	went	16
+When	did	something	gone	_	to	something	_	1928
+3	changed	3
+What	was	something	changed	_	to	_	?	to its titular white
+
+WIKI2_53	2
+The plant , which also handles sewerage from nearby Hadspen , discharges treated waste-water into a tributary of the Liffey .
+12	treated	12
+What	has	_	been treated	_	_	_	?	waste-water
+5	handles	5
+What	is	_	handled	_	_	_	?	sewerage from nearby Hadspen
+
+WIKI2_54	3
+Havelock , who as a child had been one of the few survivors of the massacre at Lidice , has a special bond with Matthias , a fellow Czech who had advised him in graduate school .
+19	has	19
+Who	does	someone	have	something	with	_	?	Matthias
+None	had	6
+What	_	_	had	someone	_	do	_	been one of the few survivors of the massacre at Lidice
+31	advised	31
+Where	was	someone	advised	_	_	_	?	in graduate school
+
+WIKI2_55	2
+`` Kiss Me , Kate '' featured such songs as `` I Hate Men , '' `` Wunderbar '' , and `` So in Love '' , reuniting Morison with her former Broadway co-star Alfred Drake .
+27	reuniting	27
+What	_	_	reunited	someone	with	someone	?	`` Kiss Me , Kate ''
+6	featured	6
+What	is	_	featured	_	_	_	?	such songs as `` I Hate Men , '' `` Wunderbar '' , and `` So in Love ''
+
+WIKI2_56	2
+Civilian authorities in New Orleans had reason to fear Jackson .
+8	fear	8
+Where	was	someone	feared	_	_	_	?	New Orleans
+5	had	5
+Where	was	something	had	_	_	_	?	New Orleans
+
+WIKI2_57	2
+It was decided that Heaton Park would be a suitable site for the museum and proposals were made to the Parks Department of Manchester City Council .
+17	made	17
+Why	was	something	made	_	_	_	?	It was decided that Heaton Park would be a suitable site for the museum
+2	decided	2
+What	was	_	decided	_	_	_	?	that Heaton Park would be a suitable site for the museum
+

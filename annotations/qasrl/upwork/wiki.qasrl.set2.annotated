@@ -1,0 +1,774 @@
+WIKI2_0	1
+Humans have the largest amount of NM , while it is in lesser amount in other non-human primates , and totally absent in other species .
+1	have	1
+What	does	someone	have	_	_	_	?	the largest amount of NM
+
+WIKI2_1	4
+Milt Bailey , one of Liston 's cornermen , recalled , `` In the first round Sonny could n't catch up with Clay , and I thought we might have some trouble . ''
+9	recalled	9
+What	was	_	recalled	_	by	someone	?	`` In the first round Sonny could n't catch up with Clay , and I thought we might have some trouble . ''
+26	thought	26
+What	did	someone	thinck	_	of	_	?	we might have some trouble
+19	catch	19
+Who	was	someone	catching	_	up	_	?	Clay
+29	have	29
+What 	might	someone 	have	_	_	_	?	some trouble
+
+WIKI2_2	5
+The film was produced , directed , written and edited by John Hanson and Rob Nilsson , and starred Joe Spano , Robert Behlen , Sue Lynch and Michel Wagner .
+9	edited	9
+Who	_	_	edited	something	_	_	?	John Hanson and Rob Nilsson
+18	starred	18
+Where	did	someone	star	_	_	_	?	The film
+3	produced	3
+Who	_	_	produced	something	_	_	?	John Hanson and Rob Nilsson
+5	directed	5
+Who	_	_	directed	something	_	_	?	John Hanson and Rob Nilsson
+7	written	7
+Who	_	_	wrote	something	_	_	?	John Hanson and Rob Nilsson
+
+WIKI2_3	2
+Some financial institutions have set up additional security steps for access , but there is no consistency to the approach adopted .
+20	adopted	20
+What	was	_	adopted	_	_	_	?	approach
+4	set	4
+What	did	someone	set	_	up	_	?	additional security steps for access
+
+WIKI2_4	4
+Baidar and Kadan ravaged the southern part of Poland , moving to Chmielnik , Kraków , Bytom , Opole and finally , Legnica , before leaving Polish lands heading west and south .
+25	leaving	25
+What 	did	someone	leave	_	_	_	?	Polish lands
+10	moving	10
+Who	_	_	moved	_	_	somewhere	?	Baidar and Kadan
+3	ravaged	3
+What	did	someone	ravage	_	_	_	?	the southern part of Poland , moving to Chmielnik , Kraków , Bytom , Opole and finally , Legnica , before leaving Polish lands heading west and south
+28	heading	28
+Who	_	_	headed	_	_	somewhere	?	Baidar and Kadan
+
+WIKI2_5	5
+James W. Carey defines the transmission view in terms of imparting , sending , transmitting and giving information to others .
+16	giving	16
+Who	is	_	given	something	_	_	?	others
+10	imparting	10
+Who	is	_	imparted	something	_	_	?	others
+3	defines	3
+How	does	someone	define	something	_	_	?	in terms of imparting , sending , transmitting and giving information to others
+12	sending	12
+Who	is	_	sent	something	_	_	?	others
+14	transmitting	14
+Who 	is	_	transmitted	something	_	_	?	others
+
+WIKI2_6	3
+Those early pioneering recording sessions at the EMI studios at Homebush in primitive conditions , produced some of the finest singer / guitarist music ever recorded anywhere , timeless recordings that will live on forever .
+32	live	32
+How	will	something	live	_	on	_	?	forever
+25	recorded	25
+What	was	_	recorded	_	_	_	?	some of the finest singer / guitarist music
+15	produced	15
+What	did	someone	produce	_	_	_	?	some of the finest singer / guitarist music ever recorded anywhere
+
+WIKI2_7	2
+Part of the rationale behind the PacRim network was to bring much of the region 's telecommunications traffic to Australia , forming a regional telecommunications and technology hub .
+10	bring	10
+What	should	_	have been brought	_	_	_	?	much of the region 's telecommunications traffic to Australia
+21	forming	21
+What	will	_	be formed	_	_	_	?	a regional telecommunications and technology hub
+
+WIKI2_8	1
+It was released in June 2003 as the first single from her album `` Martina '' .
+2	released	2
+When	was 	something	released	_	_	_	?	in June 2003
+
+WIKI2_9	2
+Upon returning , Palmer found Whitley face down on his bed , fully clothed .
+4	found	4
+When	did	someone 	find	someone	_	_	?	Upon returning
+6	face	6
+How	is 	someone	faced	_	_	_	?	_
+
+WIKI2_10	1
+After the end of World War II , he was sentenced to life imprisonment by the International Military Tribunal for the Far East .
+10	sentenced	10
+Who	_	_	sentenced	someone	_	_	?	the International Military Tribunal
+
+WIKI2_11	2
+Her parents had founded Brauweiler , but the original church was modestly furnished , which was incompatible with the dynasty 's territorial objectives .
+3	founded	3
+What	did	someone	found	_	_	_	?	Brauweiler
+12	furnished	12
+How	was	something	furnished	_	_	_	?	modestly
+
+WIKI2_12	1
+Also arrested were arms dealer Douglas Bernhardt and a South African diplomat , Daniel Storm .
+1	arrested	1
+Who	were	_	arrested	_	_	_	?	arms dealer Douglas Bernhardt and a South African diplomat , Daniel Storm
+
+WIKI2_13	1
+The first Divine Liturgy was celebrated in the new church temple on the Orthodox Feast of Palm Sunday , 2011 .
+5	celebrated	5
+When	was	something	celebrated	_	_	_	?	on the Orthodox Feast of Palm Sunday
+
+WIKI2_14	1
+During that period , he also held discussions with Rabbi Menachem Mendel Schneerson of Lubavitch , Rabbi Joel Teitelbaum of Satmar , and other prominent rabbis .
+6	held	6
+What	did	someone	hold	_	_	_	?	discussions with Rabbi Menachem Mendel Schneerson of Lubavitch , Rabbi Joel Teitelbaum of Satmar , and other prominent rabbis
+
+WIKI2_15	3
+Spencer began his professional career at Plymouth Albion , before moving to Saracens , competing in the English Premiership .
+1	began	1
+When	did	someone	begin	something	_	_	?	before moving to Saracens
+10	moving	10
+Where 	did	someone	move	_	_	_	?	to Saracens
+14	competing	14
+Where	did	someone	compete	_	_	_	?	in the English Premiership
+
+WIKI2_16	2
+In December 1905 , the club moved into new premises at Four East 60th Street , in a building designed by renowned Beaux Arts architect , Stanford White of McKim , Meade & White .
+19	designed	19
+What 	did	someone	design	_	_	_	?	a building
+6	moved	6
+Where	did	something	move	_	_	_	?	into new premises at Four East 60th Street , in a building designed by renowned Beaux Arts architect , Stanford White of McKim , Meade & White
+
+WIKI2_17	2
+Thus , in 1900 , Malyavin traveled to Paris , and took France by storm .
+11	took	11
+How	did	someone	take	something	_	_	?	by storm
+6	traveled	6
+When 	did	someone	travel	_	_	somewhere	?	in 1900
+
+WIKI2_18	3
+The Admiralty ordered a further twelve of the class on 14 June 1859 with this new classification , including the `` Mullett '' , and they received their names on 24 September .
+2	ordered	2
+What	did	someone	order	_	_	_	?	this new classification
+26	received	26
+When	did	someone	receive	something	_	_	?	on 24 September
+18	including	18
+Who	was	_	included	_	on	something	?	the `` Mullett ''
+
+WIKI2_19	1
+During World War I he worked as a medical minder with the Royal Army Medical Corps .
+5	worked	5
+When 	did	someone	work	_	as	something	?	During World War I
+
+WIKI2_20	3
+After leaving The Dean Team , Pising suffered a major crash in his first race with his new team , a crash which may or may not have been caused by Learner .
+1	leaving	1
+What	did	someone 	leave	_	_	_	?	The Dean Team
+29	caused	29
+What	might	_	have caused	_	by	someone	?	a crash
+7	suffered	7
+Where 	did	someone	suffer	something	_	_	?	in his first race with his new team
+
+WIKI2_21	1
+The annual event takes place on a number of stages in Skagen in the far north of Jutland over the first weekend of July .
+3	takes	3
+When	does	something	take	_	_	_	?	over the first weekend of July
+
+WIKI2_22	4
+Although most international versions of the show still continue to use the Strachan score , in 2010 the US version retired it altogether in favour of a new musical score , with cues composed by Jeff Lippencott and Mark T. Williams .
+8	continue	8
+What	does	something	continue	_	_	_	?	to use the Strachan score
+33	composed	33
+What	did	someone	compose	_	_	_	?	cues
+10	use	10
+What	_	_	uses	something	_	_	?	most international versions of the show
+20	retired	20
+What	was	_	retired	_	_	_	?	it altogether
+
+WIKI2_23	4
+Under the Kennedy and Johnson administrations , funding was provided for the United States Public Health Service to gain a `` Division of Indian Health '' which would help provide a stronger federal commitment to health care .
+9	provided	9
+Why	was	something	provided	_	to	something	?	to gain a `` Division of Indian Health '' which would help provide a stronger federal commitment to health care
+18	gain	18
+What	will 	something	gain	_	_	_	?	a `` Division of Indian Health ''
+28	help	28
+What	would	_	help	something	_	_	?	a `` Division of Indian Health ''
+29	provide	29
+What	would	_	be provided	_	_	_	?	a stronger federal commitment to health care
+
+WIKI2_24	2
+He is best known for winning the bronze medal in the men 's 100 m backstroke and the men 's 4 x 100m medley relay at the 1997 FINA Short Course World Championships in Gothenburg , Sweden .
+3	known	3
+Where	is	someone	known	_	for	something	?	at the 1997 FINA Short Course World Championships in Gothenburg , Sweden
+5	winning	5
+Where	did	someone	win	something	_	_	?	at the 1997 FINA Short Course World Championships in Gothenburg , Sweden
+
+WIKI2_25	3
+After the emergence of gay liberation in 1969 , belief in the Homintern faded because after the Stonewall riots , many gay people came out of the closet so it was more difficult to postulate this conspiracy theory .
+34	postulate	34
+What	is	_	postulated	_	_	_	?	this conspiracy theory
+13	faded	13
+Why	did	something	fade	_	_	_	?	because after the Stonewall riots , many gay people came out of the closet so it was more difficult to postulate this conspiracy theory
+23	came	23
+Where	did	someone	came	_	out	_	?	the closet
+
+WIKI2_26	2
+Feng shui , an influence from Filipino Chinese culture , is also not classified as witchcraft , and it is seen as a separate realm of belief altogether .
+20	seen	20
+How	is	something	seen	_	as	_	?	a separate realm of belief altogether
+13	classified	13
+What 	is n't	_	classified	_	as	something	?	Feng shui
+
+WIKI2_27	1
+He also writes essays and theoretical reflections on the process of creation and the nature of images .
+2	writes	2
+What	does	someone	write	_	_	_	?	essays and theoretical reflections on the process of creation and the nature of images
+
+WIKI2_28	5
+The story also say that the salt inside the boat which Subramanya used to cross the river was not ending upon measuring it .
+19	ending	19
+What	was n't	_	ending	_	_	_	?	the salt inside the boat which Subramanya used to cross the river
+3	say	3
+What	does	something	say	_	_	_	?	that the salt inside the boat which Subramanya used to cross the river was not ending upon measuring it
+12	used	12
+Where	did	someone 	use	something	_	_	?	to cross the river
+21	measuring	21
+What	was	_	measured	_	_	_	?	it
+14	cross	14
+What	was	_	crossed	_	_	_	?	the river
+
+WIKI2_29	2
+`` TS-19 '' received favorable reception from television commentators , who praised the development of various characters as well as the performances of several actors and actresses .
+11	praised	11
+What	did	someone	praise	_	_	_	?	the development of various characters as well as the performances of several actors and actresses
+3	received	3
+What	did	something	receive	_	_	_	?	favorable reception from television commentators
+
+WIKI2_30	2
+Bungie.net serves as the main official portal for interaction between company staff and the community surrounding Bungie 's games .
+1	serves	1
+What	does	something	serve	_	as	_	?	the main official portal for interaction between company staff and the community surrounding Bungie 's games
+15	surrounding	15
+What	does	someone	surround	_	_	_	?	Bungie 's games
+
+WIKI2_31	1
+In two case reports , IVTA of 4 mg allowed a transitory reduction of retinal edema , with variable or no increase in VA. .
+9	allowed	9
+What	did	something	allow	_	_	_	?	a transitory reduction of retinal edema , with variable or no increase in VA
+
+WIKI2_32	1
+Prior to that they played in Tampa Stadium since their establishment .
+4	played	4
+When	did	someone	play	_	_	somewhere	?	since their establishment
+
+WIKI2_33	2
+He stood in the same riding for the same party in the Canadian federal election , 2011 , coming in fifth out of six candidates .
+1	stood	1
+When	did 	someone	stand	_	in	something	?	2011
+18	coming	18
+Who	_	_	came	_	in	doing something	?	He
+
+WIKI2_34	2
+Jeremy is Dennis Waterman 's theatrical agent who , while on the phone , at the slightest hint of disagreement , shouts the last word and hangs up the phone .
+26	hangs	26
+What	did	someone	hang	_	up	_	?	the phone
+21	shouts	21
+What	did	someone	shout	_	_	_	?	the last word
+
+WIKI2_35	1
+It earned an addition $ 6 million in rentals during its home video release .
+1	earned	1
+When	did	something	earn	something	_	_	?	during its home video release
+
+WIKI2_36	2
+`` Green Lantern '' # 25 expanded on the `` emotional spectrum '' concept and introduced five new color-based corps of similar structure to the Green Lanterns and the Sinestro Corps .
+6	expanded	6
+What	did	something	expand	_	on	_	?	the `` emotional spectrum '' concept
+15	introduced	15
+What	did	something	introduce	_	_	_	?	five new color-based corps of similar structure to the Green Lanterns and the Sinestro Corps
+
+WIKI2_37	2
+After independence in October 1964 he became the country 's first Vice-President , serving for three years under Kenneth Kaunda .
+13	serving	13
+Who	did	someone	serve	_	under	_	?	Kenneth Kaunda
+6	became	6
+When	did	someone	become	something	_	_	?	After independence in October 1964
+
+WIKI2_38	1
+The meaning of an action in a game resides in the relationship between action and outcome '' .
+8	resides	8
+What	does	something	reside	_	in 	_	?	the relationship between action and outcome
+
+WIKI2_39	5
+They offered advice to the four players competing in a match of Blitz , gave developer insight to making the game and distributed a few free copies of `` Monday Night Combat '' .
+1	offered	1
+What	did	someone	offer	_	_	_	?	advice to the four players competing in a match of Blitz
+18	making	18
+What	does	someone	makes	_	_	_	?	the game
+22	distributed	22
+What	did	someone	distribute	_	_	_	?	a few free copies of `` Monday Night Combat ''
+14	gave	14
+Who	_	_	gave	something	_	_	?	They
+7	competing	7
+Where	is	someone	competing	_	_	_	?	in a match of Blitz
+
+WIKI2_40	2
+Kansas City , Missouri moved to build a new airport away from the river for Mid-Continent and TWA , whose main overhaul base was in a former B-25 bomber factory at Fairfax .
+4	moved	4
+Why	did	something	move	_	_	_	?	to build a new airport away from the river for Mid-Continent and TWA , whose main overhaul base was in a former B-25 bomber factory at Fairfax
+6	build	6
+What	will	_	be built	_	_	_	?	a new airport away from the river for Mid-Continent and TWA
+
+WIKI2_41	2
+In response , both sides increased their efforts to develop long-range missiles .
+9	develop	9
+What	will	_	be developed	_	_	_	?	long-range missiles
+5	increased	5
+What	did	someone	increase	_	_	_	?	their efforts to develop long-range missiles
+
+WIKI2_42	1
+It is administered as part of the Neryungrinsky District , 80 km south of its administrative centre Neryungri .
+2	administered	2
+What	is	_	administered	_	as	something	?	It
+
+WIKI2_43	2
+Clem was raised in Willits , California , where he submitted his first story for the Willits News at age 13 .
+2	raised	2
+Where	was	someone	raised	_	_	_	?	in Willits , California
+10	submitted	10
+When	did	someone	submit	something	_	_	?	at age 13
+
+WIKI2_44	4
+The show also featured a collection of supercars sponsored by St. Louis Motorsports , Inc. , including cars manufactured by Bentley , Lamborghini , Lotus , Maserati , and Rolls-Royce .
+8	sponsored	8
+What	did	someone	sponsor	_	_	_	?	a collection of supercars
+16	including	16
+What	are	_	included	_	_	_	?	cars manufactured by Bentley , Lamborghini , Lotus , Maserati , and Rolls-Royce
+18	manufactured	18
+What	is	_	manufactured	_	by	someone	?	cars
+3	featured	3
+What	was	_	featured	_	_	_	?	a collection of supercars sponsored by St. Louis Motorsports , Inc. , including cars manufactured by Bentley , Lamborghini , Lotus , Maserati , and Rolls-Royce
+
+WIKI2_45	2
+Eric has a small incident on a rope swing and injures a bird .
+1	has	1
+What	does	someone	had	_	_	_	?	a small incident on a rope swing
+10	injures	10
+What	_	_	injured	someone	_	_	?	a small incident on a rope swing
+
+WIKI2_46	5
+CS6 allows background saving , which means that while another document is compiling and archiving itself , it is possible to simultaneously edit an image .
+1	allows	1
+What	is	_	being allowed	_	by	something	?	background saving
+22	edit	22
+What	will	_	be edited	_	_	_	?	an image
+12	compiling	12
+What	is	_	being compiled	_	_	_	?	itself
+14	archiving	14
+What	is	_	being archived	_	_	_	?	itself
+6	means	6
+What	does	something	mean	_	_	_	?	that while another document is compiling and archiving itself , it is possible to simultaneously edit an image
+
+WIKI2_47	2
+Included in the terms was an armistice which neither side , mistrusting the other 's intentions , fully intended to respect .
+18	intended	18
+What	is	_	intended	_	_	_	?	to respect
+11	mistrusting	11
+What	is	_	being mistrusted	_	_	_	?	other 's intentions
+
+WIKI2_48	4
+Bakikhanov was known for organizing a folk instruments ensemble , which still exists and is named after him .
+12	exists	12
+What	_	_	exists	_	_	_	?	a folk instruments ensemble
+2	known	2
+What	was	someone	known	_	for	_	?	organizing a folk instruments ensemble
+4	organizing	4
+Who	_	_	organized	something	_	_	?	Bakikhanov
+15	named	15
+What	is 	_	named	_	after	someone	?	a folk instruments ensemble
+
+WIKI2_49	3
+Kenny Peeples of Soundtrack Central enjoyed the album , saying that it features `` a nice moody blend of techno , hip-hop , and rock musical styles .
+9	saying	9
+What	did	someone	say	_	_	_	?	that it features `` a nice moody blend of techno , hip-hop , and rock musical styles
+12	features	12
+What	does	something	feature	_	_	_	?	nice moody blend of techno , hip-hop , and rock musical styles
+5	enjoyed	5
+What	did	someone	enjoy	_	_	_	?	the album
+
+WIKI2_50	3
+The library has a collection of books relating to Information Technology , and subscribes to over 100 national and international journals .
+2	has	2
+What	does	something	have	_	_	_	?	a collection of books relating to Information Technology
+13	subscribes	13
+What	does	something	subscribe	_	to	_	?	over 100 national and international journals
+7	relating	7
+What	does	something	relate	_	to	_	?	Information Technology
+
+WIKI2_51	3
+If the breeding records show that one parent is of a breed other than Holstein-Friesian , Holstein , or Friesian , then such parent must be a purebred animal fully registered in a herd book of a dairy breed society recognised by the Society .
+40	recognised	40
+Who	_	_	recognises	something	_	_	?	the Society
+4	show	4
+What	does	something	show	_	_	_	?	that one parent is of a breed other than Holstein-Friesian , Holstein , or Friesian
+30	registered	30
+Where	is	something	registered	_	_	_	?	in a herd book of a dairy breed society recognised by the Society
+
+WIKI2_52	4
+Through these committees , the Council works to solve problems and facilitate opportunities in varying market conditions .
+8	solve	8
+Who	_	_	solves	something	_	_	?	the Council
+11	facilitate	11
+What	does	someone	facilitate	_	_	_	?	opportunities in varying market conditions
+14	varying	14
+What	is	_	varying	_	_	_	?	market conditions
+6	works	6
+What	does	someone	work	_	for	_	?	to solve problems and facilitate opportunities in varying market conditions
+
+WIKI2_53	3
+In October 1913 Trent Motor Traction Company was founded and commenced operating a bus service between Derby and Ashbourne .
+8	founded	8
+When	was	something	founded	_	_	_	?	In October 1913
+10	commenced	10
+What	did	something	commence	_	_	_	?	operating a bus service between Derby and Ashbourne
+11	operating	11
+What	is	_	being operated	_	_	_	?	a bus service between Derby and Ashbourne
+
+WIKI2_54	5
+Most homeless people rely on shelters until they can find a permanent home , but due to the increase of homeless people , shelters have had to deny people and families a place to stay because they are over the limit and do n't have room for them .
+27	deny	27
+Who	are	_	denied	_	of	something	?	people and families
+9	find	9
+What	does	someone	find	_	_	_	?	a permanent home
+3	rely	3
+What	does	someone	rely	_	on	_	?	shelters
+None	have	44
+What	does n't	_	have	something	_	_	?	shelters
+25	had	25
+What	does	something	had	_	to	do	?	deny people and families a place to stay
+
+WIKI2_55	1
+`` Howdy Doody '' spent most of its run on weekday afternoons .
+4	spent	4
+When	does	someone	spend	something	_	_	?	on weekday afternoons
+
+WIKI2_56	3
+The Saloon , constructed immediately after William Kent 's return from Rome in December 1719 , has survived in the most intact condition ; it was the first Kentian interior carried out in England. ; its plaster putti above the pedimented doorcases were probably by Giovanni Battista Guelfi .
+17	survived	17
+What	did	something	survive	_	_	_	?	the most intact condition
+3	constructed	3
+When	was	something	constructed	_	_	_	?	immediately after William Kent 's return from Rome in December 1719
+30	carried	30
+Where	was	something	carried	_	out	_	?	in England
+
+WIKI2_57	2
+In 1850 he ran again for president , but was defeated by General Mariano Arista .
+10	defeated	10
+Who	_	_	defeated	someone	_	_	?	General Mariano Arista
+3	ran	3
+What	did	someone	ran	_	for	_	?	president
+
+WIKI2_58	1
+Undoubtedly , the list of his books supplies the most valuable information .
+7	supplies	7
+What	does	something	supply	_	_	_	?	the most valuable information
+
+WIKI2_59	2
+He tried professional racing as a `` stagiaire '' , or apprentice , with the Française des Jeux team in 1997 , riding at the Élite 2 level .
+1	tried	1
+When	did 	someone	try	something	_	_	?	in 1997
+22	riding	22
+Who	_	_	rode	something	_	_	?	He
+
+WIKI2_60	1
+It was one of the works of famous Catalan architect Antoni Gaudí , better known for the Sagrada Familia .
+14	known	14
+What	was	someone	known	_	for	_	?	the Sagrada Familia
+
+WIKI2_61	2
+She attended Jackson State University in Jackson , Mississippi , where she graduated with a Bachelor of Science degree in Meteorology .
+1	attended	1
+Where	did	someone	attend	_	_	_	?	Jackson State University in Jackson , Mississippi
+12	graduated	12
+What	did	someone	graduate	_	with	_	?	a Bachelor of Science degree in Meteorology
+
+WIKI2_62	1
+In June 2010 , Judt and his son Daniel wrote a dialogue about Barack Obama , politics and corporate behaviour for the `` New York Times '' .
+9	wrote	9
+What	did	someone	wrote	_	_	_	?	a dialogue about Barack Obama , politics and corporate behaviour for the `` New York Times ''
+
+WIKI2_63	2
+It has marched this route since 1807 , when the area was sparsely populated .
+2	marched	2
+When	has	something	marched	_	_	somewhere	?	since 1807
+13	populated	13
+How	was	something	populated	_	_	_	?	sparsely
+
+WIKI2_64	3
+Thankfully , Shamie is able to find them in his car , announcing that he has been looking for Brenda .
+17	looking	17
+Who	did	someone	look	_	for	_	?	Brenda
+12	announcing	12
+What 	did	someone	announce	_	_	_	?	that he has been looking for Brenda
+6	find	6
+Where	did	someone	find	someone	_	_	?	in his car
+
+WIKI2_65	1
+In the Icelandic version of `` LazyTown '' , the character is called Solla Stirða .
+12	called	12
+What	was	someone	called	_	_	_	?	Solla Stirða
+
+WIKI2_66	1
+16 faculty members and 16 alumni of the school have won Nobel Prizes .
+10	won	10
+What	did	someone	won	_	_	_	?	Nobel Prizes
+
+WIKI2_67	3
+She admired the greeting card line , noted the name of the publisher , and called the company for an interview .
+1	admired	1
+What	did	someone	admire	_	_	_	?	the greeting card line
+15	called	15
+Why	did	someone	call	someone	_	_	?	for an interview
+7	noted	7
+What 	did	someone	note	_	_	_	?	the name of the publisher
+
+WIKI2_68	3
+Among non-living things , snowflakes have striking sixfold symmetry : each flake is unique , its structure forming a record of the varying conditions during its crystallisation , with nearly the same pattern of growth on each of its six arms .
+17	forming	17
+What	does	something	form	_	_	_	?	a record of the varying conditions during its crystallisation , with nearly the same pattern of growth on each of its six arms
+5	have	5
+What	does	something	have	_	_	_	?	striking sixfold symmetry
+22	varying	22
+What	is	_	varying	_	_	_	?	conditions during its crystallisation
+
+WIKI2_69	2
+Proposition 13 limits property tax assessment increases to 2.0 % of previously assessed value or the inflation rate over the previous year , whichever is lower .
+12	assessed	12
+What	has	_	been assessed	_	_	_	?	value
+6	increases	6
+How much	does	something	increase	_	_	_	?	2.0 %
+
+WIKI2_70	3
+The report concluded : `` the emphasis is now on increased offensive air power , and an ability to operate the largest possible range of aircraft in the widest possible range of roles .
+2	concluded	2
+What	did	something	conclude	_	_	_	?	the emphasis is now on increased offensive air power , and an ability to operate the largest possible range of aircraft in the widest possible range of roles
+19	operate	19
+What	can	_	be operated	_	_	_	?	the largest possible range of aircraft
+10	increased	10
+What	is	_	increased	_	_	_	?	offensive air power
+
+WIKI2_71	2
+Fitzgerald had planned to compete in additional Winston Cup Series races for Hendrick during the 1988 season .
+2	planned	2
+What	did	someone	plan	_	_	_	?	to compete in additional Winston Cup Series races for Hendrick during the 1988 season
+4	compete	4
+When	might	someone	compete	_	_	_	?	during the 1988 season
+
+WIKI2_72	2
+They fired shells that weighed with a muzzle velocity of .
+1	fired	1
+What	did	someone	fire	_	_	_	?	shells
+4	weighed	4
+What	_	_	weighed	something	_	_	?	shell
+
+WIKI2_73	1
+Alford T. Welch holds that Muhammad was able to be so influential and successful because of his firm belief in his vocation .
+3	holds	3
+What	does	someone	hold	_	_	_	?	that Muhammad was able to be so influential and successful because of his firm belief in his vocation
+
+WIKI2_74	1
+In the Northern summer of 1945 , together with the headquarters of the Separate Coastal Army , located in the Crimea , it was reorganised as the new but short-lived Tavria Military District .
+24	reorganised	24
+How	was	something	reorganised	_	as	_	?	the new but short-lived Tavria Military District
+
+WIKI2_75	3
+The firm was best known for its portable Van Neck press camera which became widely used by press photographers until the 1950s .
+4	known	4
+How	was	something	known	_	for	_	?	its portable Van Neck press camera
+13	became	13
+What	_	_	became	something	_	_	?	portable Van Neck press camera
+15	used	15
+When	did	someone	used	something	_	_	?	until the 1950s
+
+WIKI2_76	3
+Although not as popular as the band 's debut single Reconnect , the single charted in Ireland at number twenty-six , and went on to spend three weeks in the Irish Singles Chart .
+25	spend	25
+Where	did	something	spend	_	_	_	?	in the Irish Singles Chart
+22	went	22
+Where	did	something	went	_	in	_	?	the Irish Singles Chart
+14	charted	14
+Where	did	something	chart	_	_	_	?	in Ireland
+
+WIKI2_77	1
+Following the release of the album , the band went back out on tour .
+9	went	9
+Where	did	someone	went	_	_	_	?	back out on tour
+
+WIKI2_78	1
+Arrested along with eleven other newspapermen and writers , among them Slavici , he was accused of `` collaboration with the enemy '' for his anti-Entente activities .
+15	accused	15
+What	was	someone	accused	_	of	_	?	 `` collaboration with the enemy '' for his anti-Entente activities
+
+WIKI2_79	2
+Vocalist Raine Maida reportedly contacted Cook and they have since written some songs together .
+10	written	10
+How	did	someone	wrote	something	_	_	?	together
+4	contacted	4
+Who	was	_	contacted	_	by	someone	?	Cook
+
+WIKI2_80	4
+The Doctor leaves on his own to locate the Cybermen at the store but Craig shortly follows , bringing Alfie along .
+16	follows	16
+Who	_	_	follows	_	_	_	?	Craig
+2	leaves	2
+Why	did	someone	leave	_	_	_	?	to locate the Cybermen at the store
+18	bringing	18
+Who	was	_	brought	_	by	someone	?	Alfie
+7	locate	7
+Who	_	_	locates	something	_	_	?	The Doctor
+
+WIKI2_81	5
+Rollo saves him and exits the place , too exhausted to continue searching , and cries for Daria one last time before passing out in front of the mob .
+15	cries	15
+When	did	someone	cry	_	for	someone	?	before passing out in front of the mob
+1	saves	1
+Who	_	_	have been saved	_	by	someone	?	him
+11	continue	11
+What	would	someone	continue	_	_	_	?	searching
+22	passing	22
+Where	did	someone	pass	_	out	_	?	in front of the mob
+9	exhausted	9
+Who	is	_	exhausted	_	to	do something	?	Rollo
+
+WIKI2_82	2
+Some Serbian family names include prefixes of Turkish origin such as `` Uzun - '' meaning tall , or `` Kara - '' , black .
+4	include	4
+What	does	something	include	_	_	_	?	prefixes of Turkish origin such as `` Uzun - '' meaning tall , or `` Kara - '' , black
+15	meaning	15
+What	does	something	mean	_	_	_	?	tall
+
+WIKI2_83	1
+Kennedy 's film `` Last Days in Vietnam '' debuted at the Sundance Film Festival in January 2014 .
+9	debuted	9
+When	did	something	debut	_	_	_	?	in January 2014
+
+WIKI2_84	1
+The church consists only of one central nave with lateral chapels adjacent to the walls .
+2	consists	2
+What	does	something	consist	_	of	_	?	one central nave with lateral chapels adjacent to the walls
+
+WIKI2_85	2
+In November 2006 , FINCA Afghanistan received a $ 10 million grant from USAID as part of an $ 80 million rural microfinance project to promote development and stability in Afghanistan .
+25	promote	25
+What	is	_	being promoted	_	by	something	?	development and stability in Afghanistan
+6	received	6
+How much	did	someone	receive	_	_	_	?	a $ 10 million grant
+
+WIKI2_86	2
+Dedication and blessing of a new convent on Tompkins Street took place in 1963 and the church rectory , located at 207 Tompkins Street , was dedicated in 1967 .
+10	took	10
+When	did	something	take	_	_	_	?	in 1963
+26	dedicated	26
+What	was	_	dedicated	_	_	_	?	the church rectory
+
+WIKI2_87	5
+Brower accepted , sent the twins on to the Texan , and then waited several days for the deeds before realizing that he had been swindled .
+1	accepted	1
+Who	_	_	accepted	something	_	_	?	Brower
+3	sent	3
+Where	did	someone	send	someone	_	_	?	on to the Texan
+20	realizing	20
+What	did	someone	realize	_	_	_	?	that he had been swindled
+13	waited	13
+How 	did	someone	wait	_	for	something	?	several days
+25	swindled	25
+Who	had	_	been swindled	_	_	_	?	he
+
+WIKI2_88	1
+In addition he has published 12 scientific articles on other perception-related topics , and 6 on human memory .
+4	published	4
+How much	was	_	published	_	by	someone	?	12 scientific articles on other perception-related topics
+
+WIKI2_89	2
+The mission was only partially successful , and Ansgar returned two years later to Germany , after Harald had been driven out of his kingdom .
+9	returned	9
+Where	did	someone	return	_	_	_	?	to Germany
+20	driven	20
+Where	was	someone	driven	_	out	_	?	his kingdom
+
+WIKI2_90	1
+From the first sides Kirk made in Kansas City , Williams was on board as pianist and arranger .
+5	made	5
+Where	did	someone	make	something	_	_	?	Kansas City
+
+WIKI2_91	2
+However the set and location of the bar has changed multiple times , most of the time explained within story .
+9	changed	9
+How much	did	something	change	_	_	_	?	multiple times
+17	explained	17
+Where	is	something	explained	_	_	_	?	within story
+
+WIKI2_92	2
+The W&OD Trail closed for a year in the project area while the power company constructed its underground lines .
+3	closed	3
+How	was	something	closed	_	_	_	?	_
+15	constructed	15
+What	did	someone	construct	_	_	_	?	its underground lines
+
+WIKI2_93	3
+Thales Raytheon Systems was also involved of the further expansion of the system that was delivered in 2008 and still carries out further upgrades of the system .
+20	carries	20
+What	is	_	carried	_	out	_	?	further upgrades of the system
+5	involved	5
+What	was	someone	involved	_	of	_	?	the further expansion of the system that was delivered in 2008
+15	delivered	15
+What	was	_	delivered	_	_	_	?	the further expansion of the system
+
+WIKI2_94	1
+SJHS 's chorus club has a 50 year first place winning streak .
+4	has	4
+What	does	something	have	_	_	_	?	a 50 year first place winning streak
+
+WIKI2_95	5
+In 1977 , Cheryl became a star , replacing Farrah Fawcett in the television series `` Charlie 's Angels '' , and David , having always been interested in the behind-the-scenes of the industry , began to turn his attention toward producing .
+8	replacing	8
+When	was	someone	replaced	_	_	_	?	In 1977
+41	producing	41
+Who	will	_	be producing	_	_	_	?	David
+35	began	35
+What	did	someone	begin	_	to	do	?	turn his attention toward producing
+4	became	4
+What	did	someone	become	_	_	_	?	a star
+37	turn	37
+Where	did	someone	turn	_	to	do something	?	toward producing
+
+WIKI2_96	3
+The painting was ordered by the socialist leadership of East Germany , who regarded Müntzer as a revolutionary and thus as one of their forebears ; work on it went on between 1975 and 1987 .
+3	ordered	3
+Who	_	_	ordered	something	_	_	?	the socialist leadership of East Germany
+13	regarded	13
+How	is	someone	regarded	_	_	_	?	as a revolutionary and thus as one of their forebears
+29	went	29
+When	did	something	gone	_	on	_	?	between 1975 and 1987
+
+WIKI2_97	4
+The verifier 's role is to ensure that the source proxy is only presented with the business information using the simple data format it is expecting .
+25	expecting	25
+Who	_	_	expects	something	_	_	?	it
+18	using	18
+What	is	_	being used	_	by	something	?	the simple data format it is expecting
+13	presented	13
+What	is	_	presented	_	to	something	?	the business information using the simple data format it is expecting
+6	ensure	6
+Who	_	_	ensures	something	_	_	?	The verifier
+
+WIKI2_98	3
+The album has 184,167 copies sold in its first week , which puts the album in first place in the Oricon Weekly charts .
+2	has	2
+How much	does	something	have	_	_	_	?	184,167 copies
+12	puts	12
+Where	is	something	been put	_	_	_	?	in first place in the Oricon Weekly charts
+5	sold	5
+When	was	something	sold	_	_	_	?	in its first week
+
+WIKI2_99	4
+Two songs were ultimately left off the album : the dance track `` Voluptas '' and the melancholic , autobiographical ballad `` Glad to Be Alive '' , also known as `` Sixties Survivor '' , paying tribute to Andy Warhol , John Lennon , Nico and other celebrities Lear knew herself .
+36	paying	36
+Who	is	_	being paid	_	with	something	?	Andy Warhol , John Lennon , Nico and other celebrities
+50	knew	50
+Who	did	someone	knew	_	_	_	?	herself
+4	left	4
+Where	were	something	left	_	off	_	?	the album
+29	known	29
+What 	is	something	known	_	as	_	?	Sixties Survivor
+
