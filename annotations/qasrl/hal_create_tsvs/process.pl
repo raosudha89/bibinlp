@@ -3,14 +3,17 @@ use strict;
 
 my %d = ();
 
+#foreach my $type ('train', 'dev', 'test') {
+#  %{$d{$type}} = ();
+# open F, "original/wiki1.$type.qa" or die;
 foreach my $type ('train', 'dev', 'test') {
   %{$d{$type}} = ();
-  open F, "original/wiki1.$type.qa" or die;
+  open F, "original/wiki2.$type.qa" or die;
   while (<F>) {
     chomp;
     if (/^\s*$/) { next; }
     die if not /^WIKI/;
-    my ($id, $pred_count) = split;
+    my ($sent_id, $pred_count) = split;
     my $sent = <F>; chomp $sent;
     #print "sent=$sent\n";
     my @sent = split /\s+/, $sent;
@@ -27,7 +30,7 @@ foreach my $type ('train', 'dev', 'test') {
         my @q0 = split /\t/, $_;
         #print STDERR "    q=$_\n";
 
-        my $full_id = "$id.$pred_id.$q_id";
+        my $full_id = "$sent_id.$pred_id.$q_id";
         my $prefix = '';
         my $suffix = '';
 
@@ -69,8 +72,10 @@ foreach my $type ('train', 'dev', 'test') {
 }
 
 
+#foreach my $type ('train', 'dev', 'test') {
+#  open O, "> tsv/wiki1.$type.tsv" or die;
 foreach my $type ('train', 'dev', 'test') {
-  open O, "> tsv/wiki1.$type.tsv" or die;
+  open O, "> tsv/wiki2.$type.tsv" or die;
 
   print O "#id\tprefix\tpredicate\tsuffix\tquestion\tanswer\n";
 
@@ -85,6 +90,7 @@ foreach my $type ('train', 'dev', 'test') {
     my $j = int(rand() * (@d-$i));
     print O $d[$j];
     $d[$j] = $d[$i];
+    #print O $d[$i];
   }
   close O;
 }

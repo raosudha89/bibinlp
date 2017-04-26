@@ -1,0 +1,2602 @@
+WIKI2_200	2
+On 12 December 1941 , the most distinguished members of the Paris Jewish community , including doctors , academics , scientists and writers , were rounded up .
+25	rounded	3
+who	was	_	rounded	_	up	_	?	the most distinguished members of the Paris Jewish community , including doctors , academics , scientists and writers
+how	was	someone	rounded	_	_	_	?	up
+when	was	someone	rounded	_	up	_	?	On 12 December 1941
+15	including	3
+who	was	_	included	_	with	something	?	doctors , academics , scientists and writers
+when	was	someone	included	_	with	something	?	On 12 December 1941
+what	was	someone	included	_	with	_	?	the most distinguished members of the Paris Jewish community
+
+WIKI2_201	3
+He has been a frequent guest on radio programs and hosted his own radio program , `` IN THE MOOD , '' playing music of the 1930s , 1940s , and 1950s .
+1	has	2
+who	_	_	has	something	_	_	?	He
+what	_	_	has	someone	_	_	?	a frequent guest on radio programs
+10	hosted	3
+who	_	_	hosted	something	_	_	?	He
+what	has	someone	hosted	_	_	_	?	his own radio program , `` IN THE MOOD , ''
+what	does	something	hosted	_	_	do	?	playing music of the 1930s , 1940s , and 1950s
+22	playing	2
+what	is	_	played	_	on	something	?	music of the 1930s , 1940s , and 1950s
+what	_	_	plays	something	_	_	?	his own radio program , `` IN THE MOOD , ''
+
+WIKI2_202	1
+In some cases , it is not even necessary to convince people of abortion 's dangers .
+10	convince	4
+who	might not	_	be convinced	_	of 	something	?	people
+what	might not	someone	be convinced	_	of 	_	?	abortion 's dangers
+when	might not	someone	be convinced	_	of 	something	?	In some cases
+why	might not	someone	be convinced	_	of 	something	?	it is not even necessary
+
+WIKI2_203	2
+Have you ever met a critic who you wanted to party with ?
+8	wanted	3
+who	might	_	want	something	_	_	?	you
+what	might	someone	want	_	_	_	?	to party
+who	might	someone	want	something	with	_	?	a critic
+3	met	2
+who	might	someone	meet	_	_	_	?	a critic who you wanted to party with
+who	might	_	meet	someone	_	_	?	you
+
+WIKI2_204	5
+He had let it be known that he would serve as a Democrat if elected , and was sworn in as a Democrat on January 3 , 1973 .
+9	serve	3
+who	would	_	serve	_	as	something	?	He
+what	would	someone	serve	_	as	_	?	a Democrat
+when	would	someone	serve	_	as	something	?	if elected
+2	let	2
+who	_	_	let	something	_	_	?	He
+what	did	someone 	let	_	_	_	?	it be known
+18	sworn	3
+who	was	_	sworn	_	in	_	?	he
+when	was	someone	sworn	_	in	_	?	January 3 , 1973
+how 	was	someone	sworn	_	in	_	?	as a Democrat
+5	known	2
+who	_	something	be known	_	_	_	?	He
+what	did	someone	be known	_	_	_	?	that he would serve as a Democrat if elected
+14	elected	1
+who	might	_	be elected	_	_	_	?	he
+
+WIKI2_205	1
+Then sailed between Suva , Fiji Islands , and Auckland , New Zealand , from 9 June to 13 August on similar duty .
+1	sailed	3
+where	did	someone	sail	_	_	_	?	between Suva , Fiji Islands , and Auckland , New Zealand
+when	did	someone	sail	_	_	_	?	from 9 June to 13 August
+how	did	someone	sail	_	_	_	?	on similar duty
+
+WIKI2_206	1
+At Stella Azzura began his career as a professional coach Valerio Bianchini , the rector of the Italian coaching .
+3	began	3
+who	_	_	began	something	_	_	?	Azzura
+what	did	someone	begin	_	_	_	?	his career as a professional coach
+where	did	someone	begin	something	_	_	?	At Stella
+
+WIKI2_207	4
+The founding members included guitarist Phiroj Shyangden , bassist Nirakar Yakthumba , drummer Bhanu A. During the early days the band used to play various genres including hard rock , heavy metal , rock and blues .
+26	including	2
+what	was	_	included	_	with	something	?	hard rock , heavy metal , rock and blues
+what	was	something	included	_	with	_	?	various genres
+3	included	2
+what	_	_	included	something	_	_	?	The founding members
+who	was	_	included	_	with	something	?	guitarist Phiroj Shyangden , bassist Nirakar Yakthumba , drummer Bhanu A
+21	used	3
+who	_	_	used	_	to	do something	?	the band
+what	did	someone	used	_	to	do 	?	play various genres including hard rock , heavy metal , rock and blues
+when	did	someone	used	_	to	do something	?	During the early days
+23	play	3
+what	did	someone	play	_	_	_	?	various genres including hard rock , heavy metal , rock and blues
+who	_	_	played	something	_	_	?	the band
+when	did	someone	play	something	_	_	?	During the early days
+
+WIKI2_208	2
+However their books were returned and there was widespread publicity in leading newspapers of Turkey leading to the government lifting the ban on the Bahá ' ís .
+19	lifting	3
+what	was	_	lifted	_	_	_	?	the ban on the Bahá ' ís
+who	_	_	lifted	something	_	_	?	the government
+why	was	something	lifted	_	_	_	?	there was widespread publicity in leading newspapers of Turkey
+4	returned	2
+what	was	_	returned	_	_	_	?	books
+who 	had	something	returned	_	_	_	?	their
+
+WIKI2_209	3
+Rotman has also built his own 6 camera live internet studio called the Streamin ' Garage and currently broadcasts 4 shows including Stupid For Movies , Stupid For Fantasy Football , Stupid For Dexter , and Stripped Down Live .
+11	called	2
+what	was	something	called	_	_	_	?	the Streamin ' Garage
+what	was	_	called	something	_	_	?	his own 6 camera live internet studio
+3	built	2
+who	_	_	built	something	_	_	?	Rotman
+what	did	someone	build	_	_	_	?	his own 6 camera live internet studio
+21	including	4
+what	is	_	included	_	with	something	?	Stupid For Movies , Stupid For Fantasy Football , Stupid For Dexter , and Stripped Down Live
+what	is	something	included	_	with	_	?	4 shows
+when	is	something	included	_	_	_	?	currently
+where	is	something	included	_	_	_	?	the Streamin ' Garage
+
+WIKI2_210	1
+The period also saw the hijacking of TWA Flight 847 in 1985 , and the Lebanon hostage crisis from 1982 to 1992 .
+3	saw	3
+what	_	_	saw	something	_	_	?	The period
+what	was	_	seen	_	_	_	?	the hijacking of TWA Flight 847 in 1985 , and the Lebanon hostage crisis from 1982 to 1992
+when	was	something	seen	_	_	_	?	1985
+
+WIKI2_211	1
+She taught high school English in Utah and in upstate New York .
+1	taught	3
+who	_	_	taught	something	_	_	?	She
+what 	did	someone	teach	_	_	_	?	high school English
+where	did	someone	teach	something	_	_	?	Utah and in upstate New York
+
+WIKI2_212	1
+Her keel was laid down on 16 October 1917 by the Fore River Shipbuilding Company in Quincy , Massachusetts .
+3	laid	6
+what	was	_	laid	_	down	_	?	Her keel
+when	was	something	laid	_	down	_	?	on 16 October 1917
+who	had	something	laid	_	down	_	?	Her keel
+where 	was	something	laid	_	down	_	?	in Quincy , Massachusetts
+how 	was	something	laid	_	_	_	?	down
+who	_	_	laid	something	down	_	?	the Fore River Shipbuilding Company
+
+WIKI2_213	1
+He died in April 1871 , in his eighty-second year .
+1	died	2
+who	_	_	died	_	_	_	?	He
+when	did	someone	die 	_	_	_	?	in April 1871
+
+WIKI2_214	5
+This reaction was coupled with the backlash LaMarche received from fellow Canadian comedians who LaMarche describes as discouraging him from pursuing a career outside of Canada .
+8	received	3
+who	_	_	received	something	_	_	?	LaMarche
+what	did	someone	receive 	_	_	_	?	backlash
+who	did	someone	receive	something	from	_	?	fellow Canadian comedians
+17	discouraging	3
+who	was	_	discouraged	_	from	something	?	LaMarche
+what	was	someone	discouraged	_	from	doing	?	pursuing a career outside of Canada
+who	_	_	discouraged	someone	from	doing something	?	fellow Canadian comedians
+3	coupled	2
+what	was	_	coupled	_	with	something	?	This reaction
+what	was	something	coupled	_	with	_	?	the backlash LaMarche received
+20	pursuing	4
+what	might	someone	pursue	_	_	_	?	a career outside of Canada
+where	might	someone	pursue	something	_	_	?	outside of Canada
+who	might	_	pursue	something	_	_	?	LaMarche
+why	might not	someone	pursue	something	_	_	?	discouraging him
+15	describes	2
+who	_	_	describes	something	_	_	?	LaMarche
+what	did	someone	describe	something	as	_	?	discouraging him from pursuing a career outside of Canada
+
+WIKI2_215	1
+Vittorio Emanuele II was the first King of a united Italy .
+9	united	1
+what	was	_	united	_	_	_	?	Italy
+
+WIKI2_216	2
+These negotiations began in February 1919 and each country had distinct negotiating preferences about Smyrna .
+2	began	2
+what	_	_	began	_	_	_	?	These negotiations
+when	did	something	begin	_	_	_	?	February 1919
+11	negotiating	3
+who	was	_	negotiating	_	_	_	?	Each country
+what	did	someone	negotiate	_	_	_	?	preferences about Smyrna
+when	did	someone	negotiate	_	_	_	?	February 1919
+
+WIKI2_217	2
+The building was built in 1926 and had been added to the National Register of Historic Places on February 22 , 1991 .
+9	added	3
+what	was	_	added	_	to	something	?	The building
+what	was	something	added	_	to	_	?	the National Register of Historic Places
+when	was	something	added	_	to	something	?	on February 22 , 1991
+3	built	2
+what	was	_	built	_	_	_	?	The building
+when	was	something	built	_	_	_	?	in 1926
+
+WIKI2_218	1
+During the last week of December of that year , a series of winter storm pounded the mountainside with 12 inches of rain .
+15	pounded	4
+what	_	_	pounded	something	_	_	?	a series of winter storm
+what	was	_	pounded	_	by	something	?	the mountainside
+what	was	something	pounded	_	with	_	?	12 inches of rain
+when	was	something	pounded	_	_	_	?	During the last week of December of that year
+
+WIKI2_219	3
+Samoset spent the night in Plymouth and agreed to arrange a meeting with some of Massasoit 's men .
+1	spent	3
+who	_	_	spent	something	_	_	?	Samoset
+what	did	someone	spend	_	_	_	?	the night
+where	did	someone	spend	something	_	_	?	in Plymouth
+9	arrange	3
+who	might	_	arrange	something	_	_	?	Samoset
+what	might	someone	arrange	_	_	_	?	a meeting
+who	might 	someone	arrange	something	with	_	?	some of Massasoit 's men
+7	agreed	2
+who 	_	_	agreed	_	to	something	?	Samoset
+what	did	someone	agree 	_	to	do	?	to arrange a meeting with some of Massasoit 's men
+
+WIKI2_220	1
+It is owned by the Los Angeles County Metropolitan Transportation Authority .
+2	owned	2
+what	is	_	owned	_	by	someone	?	It
+who	_	_	owns	something	_	_	?	the Los Angeles County Metropolitan Transportation Authority
+
+WIKI2_221	3
+Say Anything is a popular political and current events blog created and run by Rob Port of Minot , ND who has proclaimed the website to be `` North Dakota 's most popular political blog . ''
+10	created	2
+who	_	_	created	something	_	_	?	Rob Port
+what	was	_	created	_	by	someone	?	a popular political and current events blog
+12	run	2
+who	_	_	runs	something	_	_	?	Rob Port
+what	is	something	run 	_	by	someone	?	a popular political and current events blog
+22	proclaimed	3
+who	_	_	proclaimed	something	_	_	?	Rob Port
+what	did	someone	proclaim 	_	about	_	?	the website
+what	did	someone	proclaim	something	to	_	?	the website to be `` North Dakota 's most popular political blog . ''
+
+WIKI2_222	3
+Ajay and Kitty have worked in Chandru 's previous films , but both backed out citing prior commitments .
+4	worked	2
+who	_	_	worked	_	in	something	?	Ajay and Kitty
+what	did	someone	work 	_	in	_	?	Chandru 's previous films
+13	backed	3
+what	did	someone	back	_	_	_	?	out
+who	_	_	backed	_	out	_	?	Ajay and Kitty
+why	did	someone	back	_	out	_	?	prior commitments
+15	citing	3
+what	was	_	cited	_	_	_	?	prior commitments
+who	_	_	cited	something	_	_	?	Ajay and Kitty
+why	was	something	cited	_	_	_	?	both backed out
+
+WIKI2_223	7
+The film , which did not have a theatrical release in Japan and was one of several made commemorating the 70th anniversary of the events of Nanjing , met with vociferous opposition from right-wing nationalists in Japan who even released a number of Japanese films claiming that the Nanking Massacre never occurred .
+6	have	3
+what	did n't	something	have	_	_	_	?	a theatrical release
+what	did n't	_	have	something	_	_	?	The film
+where	did n't	something	have	something	_	_	?	in Japan
+39	released	4
+what	was	_	released	_	_	_	?	Japanese films claiming that the Nanking Massacre never occurred
+who	_	_	released	something	_	_	?	right-wing nationalists
+where	was	something	released	_	_	_	?	in Japan
+how much 	were	_	released	_	_	_	?	a number
+45	claiming	3
+who	_	_	claimed	something	_	_	?	right-wing nationalists in Japan
+what	was	_	claimed	_	_	_	?	that the Nanking Massacre never occurred
+how 	was	something	claimed	_	_	_	?	released a number of Japanese films
+17	made	3
+what	was	_	made	_	_	_	?	The film
+how much	were	_	made	_	_	_	?	several
+why	was	something	made	_	_	_	?	commemorating the 70th anniversary of the events of Nanjing
+18	commemorating	3
+what	did	something	commemorate	_	_	_	?	the 70th anniversary of the events of Nanjing
+what	_	_	commemorated	something	_	_	?	The film
+how much	_	_	commemorated	something	_	_	?	several
+51	occurred	2
+what	_	_	occurred	_	_	_	?	the Nanking Massacre
+when	might	something	have occurred	_	_	_	?	never
+28	met	5
+what	was	something	met	_	with	_	?	The film
+what	_	_	met	_	with	something	?	vociferous opposition
+who	_	_	met	something	with	something	?	right-wing nationalists
+where	was	something	met	_	with	something	?	in Japan
+why	was	something	met	_	with	something	?	claiming that the Nanking Massacre never occurred
+
+WIKI2_224	1
+In 1951 , Newcombe was the first black pitcher to win twenty games in one season .
+10	win	3
+who	_	_	won 	something	_	_	?	Newcombe
+what 	did	someone	win	_	_	_	?	twenty games in one season
+when	did	someone	win	something	_	_	?	in 1951
+
+WIKI2_225	1
+Instead , a study of the impact of sexual abuse by clergy was authorized almost unanimously .
+13	authorized	2
+what	was	_	authorized	_	_	_	?	a study of the impact of sexual abuse by clergy
+how	was	something	authorized	_	_	_	?	almost unanimously
+
+WIKI2_226	1
+Saddam Hussein himself was captured on 13 December 2003 by the U.S. Army 's 4th Infantry Division and members of Task Force 121 during Operation Red Dawn .
+4	captured	3
+who	was	_	captured	_	_	_	?	Saddam Hussein
+when	was	someone	captured	_	_	_	?	13 December 2003
+who	_	_	captured	someone	_	_	?	the U.S. Army 's 4th Infantry Division and members of Task Force 121
+
+WIKI2_227	2
+An official application to move was sent to the Norwegian Ice Hockey Association on 26 January .
+4	move	1
+why	might	something	move	_	_	_	?	An official application
+6	sent	4
+what	was	_	sent	_	to	someone	?	An official application to move
+where	was	something	sent	_	_	_	?	the Norwegian Ice Hockey Association
+when	was	something	sent	_	_	_	?	on 26 January
+why	was	something	sent	_	_	_	?	to move
+
+WIKI2_228	3
+This particular hairstyle is used as the first sign identifying this portrait type of Augustus as the Prima Porta type , the second and most popular of three official portrait types : other hairstyles of Augustus may be seen on the Ara Pacis , for example .
+9	identifying	3
+what	_	_	identifies	something	_	_	?	particular hairstyle
+what	does	something	identify	_	_	_	?	portrait type of Augustus as the Prima Porta type
+how	does	something	identify	something	_	_	?	first sign
+4	used	2
+what	is	_	used	_	for	something	?	particular hairstyle
+what	is	something	used	_	for	_	?	first sign identifying this portrait type of Augustus as the Prima Porta typ
+38	seen	2
+what	may	_	be seen	_	_	_	?	other hairstyles of Augustu
+where	might	something	be seen	_	_	_	?	on the Ara Pacis
+
+WIKI2_229	1
+Over the past 30 years several noteworthy creations have been given to the parish .
+10	given	3
+what	has	_	been given	_	_	_	?	several noteworthy creations
+where	has	something	been given	_	to	_	?	the parish
+when	has	something	been given	_	_	_	?	Over the past 30 years
+
+WIKI2_230	5
+So , he decided to dare that impious enchanter to show publicly and prove baldly he who professed the rightest creed .
+17	professed	2
+who	_	_	professed	something	_	_	?	he
+what	did	someone	profess 	_	_	_	?	the rightest creed
+10	show	3
+who	might	_	show	something	_	_	?	impious enchanter
+how 	might	someone	show	something	_	_	?	publicly
+why	might	someone	show	something	_	_	?	dare
+3	decided	2
+who	_	_	decided	_	to	do something	?	he
+what	did	someone	decided	_	to	do  	?	dare that impious enchanter
+5	dare	3
+who	_	_	dared	someone	_	_	?	he
+who	was	_	dared	_	by	someone	?	impious enchanter
+what	was	someone	dared	_	to	do	?	to show publicly and prove baldly he who professed the rightest creed
+13	prove	3
+who	might	_	prove	something	_	_	?	impious enchanter
+how	might	someone	prove	something	_	_	?	baldly
+what	might	someone	prove	_	_	_	?	he who professed the rightest creed
+
+WIKI2_231	2
+He married Almeria Antoniazzi in 1964 , which also marked release of his last novel , `` Un amore '' .
+1	married	3
+who	_	_	married	someone	_	_	?	he
+who	did	someone	marry	_	_	_	?	Almeria Antoniazzi
+when	did	someone	marry	someone	_	_	?	in 1964
+9	marked	3
+what	was	_	marked	_	_	_	?	release of his last novel , `` Un amore ''
+who	had	something	marked	_	_	_	?	He
+when	was	something	marked	_	_	_	?	in 1964
+
+WIKI2_232	1
+Golo Footwear had its original manufacturing and design facilities in Dunmore until 1957 .
+2	had	4
+who	_	_	had	something	_	_	?	Golo Footwear
+what	did	someone	have	_	_	_	?	its original manufacturing and design facilities
+where	did	someone	have	something	_	_	?	in Dunmore
+when	did	someone	have	something	_	_	?	until 1957
+
+WIKI2_233	3
+On his return , Ausculture said that he was looking shady and sporting an evil goatee .
+9	looking	3
+who	was	_	looking	something	_	_	?	Ausculture
+what	was	someone	looking	_	_	_	?	shady
+when	was	someone	looking	something	_	_	?	On his return
+12	sporting	3
+what	was	someone	sporting	_	_	_	?	an evil goatee
+who	was	_	sporting	something	_	_	?	Ausculture
+when	was	someone	sporting	something	_	_	?	On his return
+5	said	3
+who	_	_	said	something	_	_	?	Ausculture
+when	did	someone	say	something	_	_	?	On his return
+what 	did	someone	say	_	_	_	?	that he was looking shady and sporting an evil goatee
+
+WIKI2_234	2
+According to NASA Astronaut Michael J. Massimino , who took part in the Hubble Space Telescope Servicing Missions STS-109 and STS-125 , `` nothing was out of place , nothing was missing .
+9	took	2
+who	_	_	took	something	_	_	?	Michael J. Massimino
+what	did	someone	take	_	_	_	?	part
+31	missing	1
+what	was	_	missing	_	_	_	?	nothing
+
+WIKI2_235	1
+Agar played for Featherstone Rovers , Dewsbury and Widnes , where he played 16 games in 2001 and won an NFP Grand Final winners medal .
+18	won	3
+who	_	_	won	something	_	_	?	he
+what	did	someone	win	_	_	_	?	an NFP Grand Final winners medal
+when	did	someone	win	something	_	_	?	in 2001
+
+WIKI2_236	5
+When a shady businessman shows up with false records claiming that he is Constance 's father , Mr. Benedict is compelled to use the Whisperer to uncover her short past .
+9	claiming	3
+what	is	_	claiming	something	_	_	?	false records
+what	is	something	claiming	_	_	_	?	that he is Constance 's father
+who	is	_	claiming	something	_	_	?	a shady businessman
+26	uncover	2
+what	might	someone	uncover	_	_	_	?	her short past
+who	might	_	uncover	something	_	_	?	the Whisperer
+4	shows	2
+who	_	_	shows	_	up	somewhere	?	a shady businessman
+how	did	someone	show 	_	_	_	?	up
+22	use	3
+who	might	_	use	someone	for	something	?	Mr. Benedict
+who	might	_	be used	_	for	something	?	the Whisperer
+what	might	someone	be used	_	for	_	?	to uncover her short past
+20	compelled	3
+who	is	_	compelled	_	to	do something	?	Mr. Benedict
+what	is	someone	compelled	_	to	do  	?	use the Whisperer
+why	is	someone	compelled	_	to	do something	?	a shady businessman shows up with false records claiming that he is Constance 's father
+
+WIKI2_237	3
+Brooke briefly clashed with Sam over a boy named Jack spent the night .
+8	named	2
+who	was	_	named	something	_	_	?	a boy
+what	was	someone	named	_	_	_	?	Jack
+2	clashed	4
+who	_	_	clashed	_	with	someone	?	Brooke
+who	did	someone	clash 	_	with	_	?	Sam
+why	did	someone	clash	_	with	someone	?	a boy named Jack
+how	did	someone	clash	_	with	someone	?	briefly
+10	spent	2
+who	_	_	spent	something	_	_	?	Jack
+what	did	someone	spend	_	_	_	?	the night
+
+WIKI2_238	1
+At the age of 12 he attended Kennett Junior High School in nearby Conway , New Hampshire .
+6	attended	4
+who	_	_	attended	something	_	_	?	he
+what	did	someone	attend 	_	_	_	?	Kennett Junior High School
+where	did	someone	attend	something	_	_	?	in nearby Conway , New Hampshire
+when	did	someone	attend	something	_	_	?	At the age of 12
+
+WIKI2_239	4
+The cabinet controlled a large part of the trade unions through the Social Democratic Party and the communists wanted to regain the power their parliamentary organization Finnish People 's Democratic League had lost in the 1948 legislative election .
+32	lost	3
+who	_	_	lost	something	_	_	?	parliamentary organization Finnish People 's Democratic League
+what	did	someone	lose	_	_	_	?	power
+when	did	someone	lose	something	_	_	?	in the 1948 legislative election
+2	controlled	3
+who	_	_	controlled	something	_	_	?	The cabinet
+what	did	someone	control 	_	_	_	?	a large part of the trade unions
+where	did	someone	control	something	_	_	?	the Social Democratic Party
+20	regain	2
+who	might	_	regain	something	_	_	?	the communists
+what	might	someone	regain	_	_	_	?	the power their parliamentary organization Finnish People 's Democratic League had lost
+18	wanted	2
+who	_	_	wanted	something	_	_	?	the communists
+what	did	someone	want 	_	_	_	?	to regain the power their parliamentary organization Finnish People 's Democratic League had lost
+
+WIKI2_240	4
+As Riggs began studying the history of American racism and homophobia , he became interested in communicating his ideas about these subjects through film .
+16	communicating	3
+who	might	_	communicate	something	_	_	?	he
+what	might	someone	communicate	_	_	_	?	his ideas about these subjects
+how	might	someone	communicate	something	_	_	?	through film
+2	began	2
+who	_	_	began	something	_	_	?	Riggs
+what	did	someone	begin	_	_	_	?	studying the history of American racism and homophobia
+3	studying	2
+who	_	_	studied	something	_	_	?	Riggs
+what	did	someone	study	_	_	_	?	the history of American racism and homophobia
+13	became	2
+who	_	_	became	something	_	_	?	he
+what	did	someone	become	_	_	_	?	interested in communicating his ideas about these subjects through film
+
+WIKI2_241	2
+Further consideration is needed for the strength of the ore as well as the surrounding rock .
+3	needed	2
+what	is	_	needed	_	_	_	?	Further consideration
+what	is	something	needed	_	for	_	?	for the strength of the ore
+14	surrounding	1
+what	is	_	surrounding	something	_	_	?	rock
+
+WIKI2_242	4
+Settlers migrated to the new village , and before a year had passed the name of the town was changed from Athol to Keller , honoring John C. Keller , a foreman on the railroad .
+1	migrated	2
+who	_	_	migrated	_	_	somewhere	?	Settlers
+where	did	someone	migrate 	_	to	_	?	the new village
+19	changed	4
+what	_	_	changed	_	_	_	?	the name of the town
+what	was	something	changed	_	to	_	?	Keller
+what	was	something	changed	_	from	_	?	Athol
+when	did	something	change 	_	_	_	?	before a year had passed
+12	passed	1
+what	had	_	passed	_	_	_	?	a year
+25	honoring	2
+who	was	_	honored	_	_	_	?	John C. Keller
+how	was	someone	honored	_	_	_	?	the name of the town was changed from Athol to Keller
+
+WIKI2_243	1
+MacKenzie was inducted into the Sport Australia Hall of Fame in 1985 .
+2	inducted	3
+who	was	_	inducted	_	into	something	?	MacKenzie
+what	was	someone	inducted	_	into	_	?	the Sport Australia Hall of Fame
+when	was	someone	inducted	_	into	something	?	in 1985
+
+WIKI2_244	3
+During his career he made several theater set designs , and had many solo and group exhibitions .
+11	had	4
+what	did	someone	have	_	_	_	?	solo and group exhibitions
+how much	did	someone	have	_	_	_	?	many
+who	_	_	had	something	_	_	?	his
+when	did	someone	have	something	_	_	?	During his career
+4	made	3
+who	_	_	made	something	_	_	?	his
+what	did	someone	make	_	_	_	?	several theater set designs
+when	did	someone	make	something	_	_	?	During his career
+7	set	3
+what	_	_	set	_	_	_	?	designs
+what	_	_	set	_	_	_	?	theater
+how much	_	_	set	_	_	_	?	several
+
+WIKI2_245	2
+On April 8 , 2011 , Likens left the Ice Tigers after one season and joined ERC Ingolstadt on a one-year deal .
+15	joined	4
+what	did	someone	join	_	_	_	?	ERC Ingolstadt
+who	_	_	joined	something	_	_	?	Likens
+when	did	someone	join 	something	_	_	?	On April 8 , 2011
+how	did	someone	join	something	_	_	?	on a one-year deal
+7	left	3
+who	_	_	left	something	_	_	?	Likens
+what	did	someone	leave	_	_	_	?	the Ice Tigers
+when	did	someone	leave	something	_	_	?	On April 8 , 2011
+
+WIKI2_246	4
+It was the first all-concrete elevated tank used by a municipality in the United States ; even though it was replaced in 1960 , it remains standing as an icon of the town .
+25	remains	3
+what	_	_	remains	something	_	_	?	the first all-concrete elevated tank
+what	does	something	remain 	_	_	_	?	standing
+how	does	something	remain	_	_	_	?	as an icon of the town
+26	standing	2
+what	is	_	standing	_	_	_	?	the first all-concrete elevated tank
+why	is	something	standing	_	_	_	?	as an icon of the town
+20	replaced	2
+what	was	_	replaced	_	_	_	?	the first all-concrete elevated tank
+when	was	something	replaced	_	_	_	?	in 1960
+7	used	2
+what	was	_	used	_	by	someone	?	the first all-concrete elevated tank
+who	_	_	used	something	_	_	?	a municipality in the United States
+
+WIKI2_247	2
+Recent years have found Freed collaborating with some of today 's most accomplished musicians .
+3	found	3
+who	was	_	found	_	_	doing something	?	Freed
+what	was	someone	found	_	_	doing  	?	collaborating with some of today 's most accomplished musicians
+when	was	someone	found	_	_	doing something	?	Recent years
+5	collaborating	3
+when	is	someone	collaborating	_	with	someone	?	Recent years
+who	is	_	collaborating	_	with	someone	?	Freed
+who	is	someone	collaborating	_	with	_	?	today 's most accomplished musicians
+
+WIKI2_248	4
+She uses Kronsteen 's plans to obtain the Lektor , a decoding device , and kill Bond .
+1	uses	3
+who	_	_	uses	something	_	_	?	She
+what 	does	someone	use	_	_	_	?	Kronsteen 's plans
+what	does	someone	use	something	for	_	?	to obtain the Lektor , a decoding device
+11	decoding	1
+what	might	_	decode	something	_	_	?	device
+6	obtain	4
+who	might	_	obtain	something	_	_	?	She
+what	might	someone	obtain	_	_	_	?	the Lektor , a decoding device
+how	might	someone	obtain	something	_	_	?	Kronsteen 's plans
+why	might	someone	obtain	something	_	_	?	kill Bond
+15	kill	2
+who	might	_	be killed	_	_	_	?	Bond
+who	might	_	kill	someone	_	_	?	She
+
+WIKI2_249	3
+They would have also made plans for obtaining a dispensation to confer the degrees on willing and deserving candidates .
+11	confer	1
+what	might	_	be conferred	_	_	_	?	the degrees on willing and deserving candidates
+4	made	3
+who	might	_	have made	something	_	_	?	They
+what	might	someone	have made	_	_	_	?	plans for obtaining a dispensation
+why	might	someone	have made	something	_	_	?	to confer the degrees on willing and deserving candidates
+7	obtaining	3
+what	might	someone	obtain	_	_	_	?	a dispensation
+who	might	_	obtain	something	_	_	?	They
+why	might	someone	obtain	something	_	_	?	to confer the degrees on willing and deserving candidates
+
+WIKI2_250	3
+This strategy is facilitated by the Brazilian general perception of the `` Playboy '' magazine as a tasteful medium for nude pictorials , as opposed to other adult magazines published in the country .
+24	opposed	2
+what	is	something	opposed	_	to	_	?	other adult magazines published in the country
+what	is	_	opposed	_	to	something	?	`` Playboy '' magazine as a tasteful medium for nude pictorials
+3	facilitated	2
+what	is	_	facilitated	_	by	someone	?	This strategy
+who	is	something	facilitated	_	by	_	?	the Brazilian general perception
+29	published	2
+where	is	something	published	_	_	_	?	in the country
+what	is	_	published	_	_	_	?	adult magazines
+
+WIKI2_251	1
+No Death Certificates for Arthur Eric Williams and Erica D'Anitoff Williams have been found .
+13	found	1
+what	has n't	_	found	_	_	_	?	Death Certificates for Arthur Eric Williams and Erica D'Anitoff Williams
+
+WIKI2_252	1
+Jacques Joli-Coeur of the Renouveau municipal de Québec party served as interim mayor between Boucher 's death and the by-election .
+9	served	3
+who	_	_	served	_	as	something	?	Jacques Joli-Coeur
+what	did	someone	serve	_	as	_	?	interim mayor
+when	did	someone	serve	_	as	something	?	between Boucher 's death and the by-election
+
+WIKI2_253	2
+In 2001 , Vampire at Chessington World of Adventures was modified to use Vekoma 's floorless trains .
+10	modified	3
+what	was	_	modified	_	_	_	?	Vampire at Chessington World of Adventures
+when	was	something	modified	_	_	_	?	in 2001
+why	was	something	modified	_	_	_	?	to use Vekoma 's floorless trains
+12	use	4
+what	_	_	uses	something	_	_	?	Vampire at Chessington World of Adventures
+what	does	something	use 	_	_	_	?	Vekoma 's floorless trains
+when	did	something	use	something	_	_	?	in 2001
+why	does	something	use	something	_	_	?	modified
+
+WIKI2_254	2
+In 1996 , Espuelas envisioned the portal that would `` unite '' Latin America : Starmedia .
+10	unite	2
+what	might	_	be united	_	_	_	?	Latin America
+how 	might	something	be united	_	_	_	?	Starmedia
+4	envisioned	3
+who	_	_	envisioned	something	_	_	?	Espuelas
+when	did	someone	envision	something	_	_	?	In 1996
+what	did	someone	envision	_	_	_	?	the portal that would `` unite '' Latin America
+
+WIKI2_255	3
+He also handed the delivery of the key new factory in Castle Bromwich , that was contracted to deliver 1,000 new Supermarine Spitfires to the RAF by the end of 1940 , to Lord Nuffield .
+16	contracted	3
+what	was	something	contracted	_	to	do	?	deliver 1,000 new Supermarine Spitfires to the RAF
+what	was	_	contracted	_	to	do something	?	the key new factory in Castle Bromwich
+when	was	something	contracted	_	to	do something	?	by the end of 1940
+2	handed	3
+who	_	_	handed	something	_	_	?	He
+what	did	someone	hand	_	_	_	?	the delivery of the key new factory in Castle Bromwich
+who	did	someone	hand	something	to	_	?	Lord Nuffield
+18	deliver	5
+what	should	_	be delivered	_	_	_	?	1,000 new Supermarine Spitfires
+when	should	something	be delivered	_	_	_	?	by the end of 1940
+who	should	_	deliver	something	_	_	?	new factory in Castle Bromwic
+why	should	something	be delivered	_	_	_	?	was contracted
+who	should	something	be delivered	_	to	_	?	the RAF
+
+WIKI2_256	2
+Roxhill is mostly residential areas , with a focal point of retail commerce but a great place to raise a family , if your financial situation allows for it .
+18	raise	2
+what	might	_	be raised	_	_	_	?	a family
+where	might	something	be raised	_	_	_	?	Roxhill
+26	allows	2
+what	might	_	allow	_	for	something	?	your financial situation
+what	might	something	allow	_	for	_	?	raise a family
+
+WIKI2_257	2
+Gostkowski also had to contend with having three different holders during the season .
+2	had	3
+who	_	_	had	_	to	do something	?	Gostkowski
+what	did	someone	have	_	to	do	?	contend with having three different holders
+when	did	someone	have	_	to	do something	?	during the season
+4	contend	3
+who	had	_	contend	_	with	something	?	Gostkowski
+what	did	someone	contend	_	with	_	?	having three different holders
+when	did	someone	contend	_	with	something	?	during the season
+
+WIKI2_258	2
+When a variable rate , such as virus spread within a human population , exceeds its normal infection rate then preventative or emergency measures can be introduced .
+26	introduced	2
+what	can	_	be introduced	_	_	_	?	preventative or emergency measures
+why	might	something	be introduced	_	_	_	?	a variable rate , such as virus spread within a human population , exceeds its normal infection rate
+14	exceeds	2
+what	might	_	be exceeded	_	_	_	?	its normal infection rate
+what	might	_	exceed	something	_	_	?	a variable rate
+
+WIKI2_259	1
+In the Colorado Plateau , it occurs across uniformly thin soils .
+6	occurs	3
+where	does	something	occur	_	_	_	?	In the Colorado Plateau
+what	_	_	occurs	_	_	somewhere	?	it
+how	does	something	occur	_	_	_	?	across uniformly thin soils
+
+WIKI2_260	4
+The following morning , Xiahou Dun gathered his surviving soldiers and retreated back to Xuchang .
+8	surviving	2
+who	_	_	survived	_	_	_	?	soldiers
+what	did	someone	survived	_	_	do	?	retreated back to Xuchang
+1	following	1
+what	_	_	followed	_	_	_	?	morning
+11	retreated	3
+where	did	someone	retreat	_	_	_	?	to Xuchang
+who	_	_	retreated	_	_	somewhere	?	Xiahou Dun
+when	did	someone	retreat	_	_	_	?	The following morning
+6	gathered	3
+who	_	_	gathered	something	_	_	?	Xiahou Dun
+what	did	someone	gather 	_	_	_	?	his surviving soldiers
+when	did	someone	gather	something	_	_	?	The following morning
+
+WIKI2_261	2
+Mansfield and New Zealand-born singer-songwriter Sharon O'Neill met on Dragon 's Body And The Beat tour : they later became domestic and professional partners .
+19	became	3
+who	_	_	became	something	_	_	?	they
+what	did	someone	become	_	_	_	?	domestic and professional partners
+when	did	someone	become	something	_	_	?	later
+7	met	2
+who	_	_	met	_	_	somewhere	?	Mansfield
+where	did	someone	meet	_	_	_	?	on Dragon 's Body And The Beat tour
+
+WIKI2_262	3
+Hanya Holm directed and choreographed the production , and sopranos Dolores Wilson and Leyna Gabriele alternated in the title role .
+2	directed	2
+who	_	_	directed	something	_	_	?	Hanya Holm
+what	did	someone	direct 	_	_	_	?	the production
+4	choreographed	2
+who	_	_	choreographed 	something	_	_	?	Hanya Holm
+what	did	someone	choreograph 	_	_	_	?	the production
+15	alternated	2
+who	_	_	alternated	something	_	_	?	sopranos Dolores Wilson and Leyna Gabriele
+what	did	someone	alternate 	_	in	_	?	the title role
+
+WIKI2_263	1
+The tradition of feather Christmas trees was brought to the United States by German immigrants in places such as Pennsylvania and Texas .
+7	brought	3
+what	was	_	brought	_	_	somewhere	?	The tradition of feather Christmas trees
+where	was	something	brought	_	_	_	?	to the United States
+who	_	_	brought	something	_	somewhere	?	by German immigrants
+
+WIKI2_264	4
+The next day , he occupied the town of Corrientes , instituted a provisional government of his Argentine partisans , and announced that Paraguay had annexed Corrientes Province and Argentinas Entre Ríos Province .
+25	annexed	2
+what	_	_	annexed	something	_	_	?	Paraguay
+what	was	_	annexed	_	_	_	?	Corrientes Province and Argentinas Entre Ríos Province
+11	instituted	3
+who	_	_	instituted	something	_	_	?	he
+what	did	someone	institute	_	_	_	?	a provisional government of his Argentine partisans
+when	did	someone	institute	something	_	_	?	The next day
+5	occupied	3
+who	_	_	occupied	something	_	_	?	he
+what	did	someone	occupy	_	_	_	?	the town of Corrientes
+when	did	someone	occupy	something	_	_	?	The next day
+21	announced	3
+who	_	_	announced	something	_	_	?	he
+what	did	someone	announce	_	_	_	?	that Paraguay had annexed Corrientes Province and Argentinas Entre Ríos Province
+when	did	someone	announce	something	_	_	?	The next day
+
+WIKI2_265	3
+In 174 BC , a major incident occurred involving Liu Chang , the Prince of chen , who was then Emperor Wen 's only living brother .
+8	involving	3
+what	_	_	involved	someone	_	_	?	a major incident
+when	did	something	involve	someone	_	_	?	In 174 BC
+who	did	something	involve	_	_	_	?	Liu Chang , the Prince of chen , who was then Emperor Wen 's only living brother
+24	living	2
+when	was	someone	living	_	_	_	?	then
+who	was	_	living	_	_	_	?	Liu Chang , the Prince of chen
+7	occurred	3
+what	_	_	occurred	_	_	_	?	a major incident
+when	did	something	occur	_	_	_	?	In 174 BC
+who	did	something	occur	_	to	_	?	Liu Chang , the Prince of chen , who was then Emperor Wen 's only living brother
+
+WIKI2_266	1
+Two months later , Macon was given a raise from his $ 57,651 salary to an undisclosed amount .
+6	given	3
+who	was	_	given	something	_	_	?	Macon
+what	was	someone	given	_	_	_	?	a raise from his $ 57,651 salary to an undisclosed amount
+when	was	someone	given	something	_	_	?	Two months later
+
+WIKI2_267	2
+According to the BBC , Fawaz al-Nashimi claimed to have been the `` 20th hijacker '' .
+9	have	2
+who	May	_	have	something	_	_	?	Fawaz al-Nashimi
+what	might	someone	have	_	_	_	?	the `` 20th hijacker ''
+7	claimed	2
+who	might	_	have claimed	something	_	_	?	Fawaz al-Nashimi
+what	might	someone	have claimed	_	_	_	?	to have been the `` 20th hijacker ''
+
+WIKI2_268	3
+Her views and beliefs held no attraction for disaffected politicians , so no independent movement formed to adopt her as champion .
+17	adopt	3
+who	May	_	have been adopted	_	as	something	?	her
+what	May	someone	have been adopted	_	as	_	?	champion
+why	was n't	someone	adopted	_	as	something	?	Her views and beliefs held no attraction for disaffected politicians
+4	held	2
+what	did n't	_	hold	something	_	_	?	Her views and beliefs
+what	did n't	something	hold	_	_	_	?	attraction for disaffected politicians
+15	formed	3
+what	did n't	_	form	_	_	_	?	independent movement
+what	did n't	something	form	_	to	do	?	adopt her as champion
+why	did n't	something	form	_	_	_	?	Her views and beliefs held no attraction for disaffected politicians
+
+WIKI2_269	4
+Nicola pushed Jimmy away but was intrigued when Rodney told her Jimmy may not be as broke as she thought .
+1	pushed	3
+who	_	_	pushed	someone	_	_	?	Nicola
+where	did	someone	push	someone	_	_	?	away
+who	was	_	pushed	_	_	_	?	Jimmy
+19	thought	2
+who	_	_	thought	something	_	_	?	she
+who	did	someone	thinck	something	about	_	?	Jimmy
+6	intrigued	4
+who	was	_	intrigued	_	_	_	?	Nicola
+when	was	someone	intrigued	_	_	_	?	when Rodney told her Jimmy may not be as broke as she thought
+why	was	someone	intrigued	_	_	_	?	Rodney told her Jimmy may not be as broke as she thought
+who	was	someone	intrigued	_	about	_	?	Jimmy
+9	told	4
+who	_	_	told	someone	_	something	?	Rodney
+what	did	someone	tell	someone	_	_	?	Jimmy may not be as broke as she thought
+who	did	someone	tell	something	to	_	?	her
+who	did	someone	tell	something	about	_	?	Jimmy
+
+WIKI2_270	1
+`` Hadronector '' belongs to the group of coelacanth fishes and it is the type genus in the family of Hadronectoridae .
+3	belongs	2
+what	_	_	belongs	_	to	something	?	`` Hadronector ''
+what	does	something	belong	_	to	_	?	the group of coelacanth fishes
+
+WIKI2_271	2
+Haynes scored 34 not out from 29 balls in the third match at the death , pushing Australia to 7/238 .
+16	pushing	3
+who	_	_	pushed	something	_	_	?	Haynes
+what	did	someone	push	_	_	_	?	Australia
+what	did	someone	push	something	to	_	?	7/238
+1	scored	4
+who	_	_	scored	something	_	_	?	Haynes
+what	did	someone	score	_	_	_	?	34 not out from 29 balls
+where	did	someone	score	something	_	_	?	at the death
+when	did	someone	score	something	_	_	?	in the third match
+
+WIKI2_272	1
+McNerney married Parmelia Marie `` Charlotte '' Moeckel in 1961 .
+1	married	3
+who	_	_	married	someone	_	_	?	McNerney
+who	did	someone	marry	_	_	_	?	Parmelia Marie `` Charlotte '' Moeckel
+when	did	someone	marry	someone	_	_	?	in 1961
+
+WIKI2_273	2
+On 16 June 2009 he left Karlsruher SC and signed a three year contract with Axpo Super League club FC Aarau .
+9	signed	4
+who	_	_	signed	something	_	_	?	he
+what	did	someone	sign	_	_	_	?	a three year contract
+who	did	someone	sign	something	with	_	?	Axpo Super League club FC Aarau
+when	did	someone	sign	something	_	_	?	On 16 June 2009
+5	left	3
+who	_	_	left	something	_	_	?	he
+what	did	someone	leave	_	_	_	?	Karlsruher SC
+when	did	someone	leave	something	_	_	?	On 16 June 2009
+
+WIKI2_274	2
+The DOJ challenged NAR 's MLS rules that inhibited competition from Internet-based brokers .
+8	inhibited	2
+what	_	_	inhibited	something	_	_	?	NAR 's MLS rules
+what	did	something	inhibit	_	_	_	?	competition from Internet-based brokers
+2	challenged	2
+what	_	_	challenged	something	_	_	?	The DOJ
+what	did	something	challenge	_	_	_	?	NAR 's MLS rules that inhibited competition from Internet-based brokers
+
+WIKI2_275	1
+Season 3 and 4 starred Patrick James , Indigo Felton , Paul Layton , Adam George , Sarah Louella , Matthew C Clarke and Francis Mossman .
+4	starred	2
+what	_	_	starred	someone	_	_	?	Season 3 and 4
+who	did	something	star	_	_	_	?	Patrick James , Indigo Felton , Paul Layton , Adam George , Sarah Louella , Matthew C Clarke and Francis Mossman
+
+WIKI2_276	3
+The country in question has to answer a detailed questionnaire , on the basis of which a self-assessment is completed .
+19	completed	2
+what	is	_	completed	_	_	_	?	a self-assessment
+what	is	something	completed	_	about	_	?	a detailed questionnaire
+4	has	2
+what	_	_	has	_	to	do something	?	The country in question
+what	does	something	have	_	to	do	?	answer a detailed questionnaire , on the basis of which a self-assessment is completed
+6	answer	2
+what	must	_	answer	something	_	_	?	The country in question
+what	must	something	answer	_	_	_	?	a detailed questionnaire , on the basis of which a self-assessment is completed
+
+WIKI2_277	2
+It is limited to the west coast of the United States of America and Mexico , ranging from western Washington state to northern Baja California .
+16	ranging	3
+where	does	something	range	_	from	_	?	western Washington state
+where	does	something	range	_	to	_	?	northern Baja California
+what	is	_	ranging	_	_	_	?	It
+2	limited	2
+what	is	_	limited	_	_	_	?	It
+where	is	something	limited	_	to	_	?	the west coast of the United States of America and Mexico , ranging from western Washington state to northern Baja California
+
+WIKI2_278	3
+A union source stated : `` It is likely to be an all-out strike first , then rolling strikes in the run up to Christmas '' , while the CWU has dismissed the offer of an 8.6 % rise over three years as `` misleading and unacceptable '' .
+17	rolling	2
+what	May	_	be rolling	_	_	_	?	strikes
+when	May	something	be rolling	_	_	_	?	in the run up to Christmas
+3	stated	3
+what	_	_	stated	something	_	_	?	A union source
+what	did	something	state	_	_	_	?	`` It is likely to be an all-out strike first , then rolling strikes in the run up to Christmas ''
+when	did	something	state	something	_	_	?	while the CWU has dismissed the offer of an 8.6 % rise over three years as `` misleading and unacceptable ''
+31	dismissed	3
+what	has	_	dismissed	something	_	_	?	the CWU
+what	has	something	dismissed	_	_	_	?	the offer of an 8.6 % rise over three years
+how	has	something	been dismissed	_	_	_	?	as `` misleading and unacceptable ''
+
+WIKI2_279	4
+Mind-wandering has been shown to be related to goal orientation ; people with higher working memory capacity keep their goals more accessible than those who have lower working memory capacity , thus allowing these goals to better guide their behavior and keep them on task .
+32	allowing	3
+what	is	_	allowed	_	to	do something	?	these goals
+what	is	something	allowed	_	to	do	?	better guide their behavior and keep them on task
+why	is	something	allowed	_	to	do something	?	people with higher working memory capacity keep their goals more accessible than those who have lower working memory capacity
+3	shown	2
+what	has	_	been shown	_	to	something	?	Mind-wandering
+what	has	something	been shown	_	to	_	?	related to goal orientation
+37	guide	4
+what	_	_	guides	something	_	_	?	these goals
+what	does	something	guide	_	_	_	?	their behavior
+how	does	something	guide	something	_	_	?	better
+why	does	something	guide	something	_	_	?	people with higher working memory capacity keep their goals more accessible than those who have lower working memory capacity
+6	related	2
+what	is	_	related	_	to	something	?	Mind-wandering
+what	is	something	related	_	to	_	?	goal orientation
+
+WIKI2_280	4
+Bun Lai began removing seafood from the menu at Miya 's that was farmed or caught in a way that was not good for the environment in 2004 .
+2	began	4
+who	_	_	began	_	_	doing something	?	Bun Lai
+what	did	someone	begin	_	_	doing	?	removing seafood from the menu at Miya 's that was farmed or caught in a way that was not good for the environment
+where	did	someone	begin	_	_	doing something	?	at Miya 's
+when	did	someone	begin	_	_	doing something	?	in 2004
+3	removing	4
+who	was	_	removing	something	_	_	?	Bun Lai
+what	was	_	being removed	_	_	_	?	seafood from the menu at Miya 's that was farmed or caught in a way that was not good for the environment
+where	was	something	being removed	_	from	_	?	the menu at Miya 's
+when	was	someone	removing	something	_	_	?	in 2004
+13	farmed	2
+what	was	_	farmed	_	_	_	?	seafood
+how	was	something	farmed	_	_	_	?	in a way that was not good for the environment
+15	caught	2
+what	was	_	caught	_	_	_	?	seafood
+how	was	something	caught	_	_	_	?	in a way that was not good for the environment
+
+WIKI2_281	1
+The tournament was hosted by Angola from July 29 to August 6 1999 .
+3	hosted	3
+what	was	_	hosted	_	_	_	?	The tournament
+when	was	something	hosted	_	_	_	?	from July 29 to August 6 1999
+who	was	something	hosted	_	by	_	?	Angola
+
+WIKI2_282	4
+A marvelous athlete who made full use of his natural talents , a demeanor on the court a coach admires , and a life off the court and after his basketball career ended that has been very successful . ''
+32	ended	1
+what	_	_	ended	_	_	_	?	his basketball career
+34	has	2
+what	_	_	has	something	_	_	?	a life off the court and after his basketball career ended
+how	_	_	has	something	_	_	?	very successful
+19	admires	2
+who	_	_	admires	something	_	_	?	a coach
+what	does	someone	admire	_	_	_	?	a demeanor on the court
+4	made	2
+who	_	_	made	something	_	_	?	A marvelous athlete
+what	did	someone	make	_	_	_	?	full use of his natural talents
+
+WIKI2_283	2
+In September 2005 , rumors arose that Brasnford had been let out of her contract with the show .
+10	let	2
+who	has	_	been let	_	out	something	?	Brasnford
+what	has	someone	been let	_	out	_	?	her contract with the show
+5	arose	2
+what	_	_	arose	_	_	_	?	rumors
+when	did	something	arise	_	_	_	?	In September 2005
+
+WIKI2_284	2
+Invasions from France under Louis XIV led to the loss of most of what is now Nord-Pas-de-Calais to France , while the remainder finally became the `` Austrian Netherlands '' .
+24	became	3
+what	_	_	became	something	_	_	?	the remainder
+what	did	something	become	_	_	_	?	the `` Austrian Netherlands ''
+when	did	something	become	something	_	_	?	finally
+6	led	2
+what	_	_	led	_	to	something	?	Invasions from France under Louis XIV
+what	did	something	lead	_	to	_	?	the loss of most of what is now Nord-Pas-de-Calais to France
+
+WIKI2_285	3
+Branigin agreed and campaigned earnestly as a Hoosier candidate representing Hoosiers .
+1	agreed	1
+who	_	_	agreed	_	_	_	?	Branigin
+3	campaigned	4
+who	_	_	campaigned	_	_	_	?	Branigin
+how	did	someone	campaign	_	_	_	?	earnestly
+what	did	someone	campaign	_	as	_	?	a Hoosier candidate representing Hoosiers
+why	did	someone	campaign	_	_	_	?	Branigin agreed
+9	representing	4
+who	_	_	represented	something	_	_	?	Branigin
+what	did	someone	represent	_	_	_	?	Hoosiers
+what	did	someone	represent	something	as	_	?	a Hoosier candidate
+why	did	someone	represent	something	_	_	?	Branigin agreed
+
+WIKI2_286	4
+Eight couples were chosen for the show , including Wood , Spivey , and Davis , to perform the Big Apple during a three-week engagement that began on September 3 , 1937 .
+8	including	2
+what	_	_	included	something	_	_	?	Eight couples
+who	did	something	include	_	_	_	?	Wood , Spivey , and Davis
+17	perform	3
+who	would	_	perform	_	_	_	?	Eight couples
+where	would	someone	perform	_	_	_	?	the Big Apple
+when	would	someone	perform	_	_	_	?	during a three-week engagement that began on September 3 , 1937
+26	began	2
+what	_	_	began	_	_	_	?	a three-week engagement
+when	did	something	begin	_	_	_	?	on September 3 , 1937
+3	chosen	3
+who	was	_	chosen	_	_	_	?	Eight couples
+what	was	someone	chosen	_	for	_	?	the show
+why	was	someone	chosen	_	for	something	?	to perform the Big Apple during a three-week engagement that began on September 3 , 1937
+
+WIKI2_287	6
+We recognize that our system of tariff taxation is intimately connected with the business of the country , and we favor the ultimate attainment of the principles we advocate by legislation that will not injure or destroy legitimate industry .
+1	recognize	2
+who	_	_	recognizes	something	_	_	?	We
+what	does	someone	recognize	_	_	_	?	that our system of tariff taxation is intimately connected with the business of the country
+34	injure	2
+what	wo n't	_	injure	something	_	_	?	legislation
+what	wo n't	something	injure	_	_	_	?	legitimate industry
+36	destroy	2
+what	wo n't	_	destroy	something	_	_	?	legislation
+what	wo n't	something	destroy	_	_	_	?	legitimate industry
+10	connected	3
+what	is	_	connected	_	with	something	?	our system of tariff taxation
+what	is	something	connected	_	with	_	?	the business of the country
+how	is	something	connected	_	_	_	?	intimately
+20	favor	2
+who	_	_	favors	something	_	_	?	we
+what	does	someone	favor	_	_	_	?	the ultimate attainment of the principles we advocate by legislation that will not injure or destroy legitimate industry
+28	advocate	2
+who	_	_	advocates	something	_	_	?	we
+what	does	someone	advocate	_	_	_	?	the principles
+
+WIKI2_288	2
+He still ranks third in career receptions and fifth in receiving yards .
+2	ranks	3
+who	_	_	ranks	_	_	somewhere	?	He
+where	does	someone	rank	_	_	_	?	third in career receptions and fifth in receiving yards
+when	does	someone	rank	_	_	somewhere	?	still
+10	receiving	2
+who	_	_	receives	something	_	_	?	He
+what	does	someone	receive	_	_	_	?	yards
+
+WIKI2_289	2
+Promised Land was signed by Pete Tong 's ffrr label , recording their self-titled debut album for Epic Records in the US .
+11	recording	2
+who	_	_	recorded	something	_	_	?	Promised Land
+what	did	someone	record	_	_	_	?	their self-titled debut album for Epic Records in the US
+3	signed	2
+what	was	_	signed	_	_	_	?	Promised Land
+what	was	something	signed	_	by	_	?	Pete Tong 's ffrr label
+
+WIKI2_290	1
+Legge was recalled to London in 1776 due to the complaints against him .
+2	recalled	4
+who	was	_	recalled	_	_	_	?	Legge
+where	was	someone	recalled	_	to	_	?	London
+when	was	someone	recalled	_	_	_	?	in 1776
+why	was	someone	recalled	_	_	_	?	due to the complaints against him
+
+WIKI2_291	0
+For instance , a book scout can not represent two or more romance novel publishers , but is free to represent a business publisher and a science publisher for the same particular market .
+
+WIKI2_292	2
+Fitzpatrick relocated to Los Angeles in 1983 to work for record producer Richard Perry of Planet Records ' and Studio 55 .
+8	work	3
+who	_	_	worked	_	_	_	?	Fitzpatrick
+where	did	someone	work	_	_	_	?	Los Angeles
+who	did	someone	work	_	for	_	?	record producer Richard Perry of Planet Records ' and Studio 55
+1	relocated	4
+who	_	_	relocated	_	_	_	?	Fitzpatrick
+where	did	someone	relocate	_	to	_	?	Los Angeles
+when	did	someone	relocate	_	_	_	?	in 1983
+why	did	someone	relocate	_	_	_	?	to work for record producer Richard Perry of Planet Records ' and Studio 55
+
+WIKI2_293	3
+After the meeting came to an end , it was felt to necessity of a zoo to house these animals .
+17	house	2
+what	must	_	house	something	_	_	?	a zoo
+what	must	something	house	_	_	_	?	these animals
+10	felt	2
+what	was	_	felt	_	_	_	?	to necessity of a zoo to house these animals
+when	was	something	felt	_	_	_	?	After the meeting came to an end
+3	came	2
+what	_	_	came	_	to	something	?	the meeting
+what	did	something	come	_	to	_	?	an end
+
+WIKI2_294	5
+In many instances , the leash can do more harm than good to a surfer , catching and holding them underwater and diminishing their opportunities to fight towards the surface .
+16	catching	3
+what	can	_	catch	something	_	_	?	the leash
+who	can	something	catch	_	_	_	?	them
+when	can	something	catch	someone	_	_	?	In many instances
+18	holding	4
+what	can	_	hold	something	_	_	?	the leash
+what	can	something	hold	_	_	_	?	them
+where	can	something	hold	someone	_	_	?	underwater
+when	can	something	hold	someone	_	_	?	In many instances
+26	fight	4
+who	might	_	fight	_	towards	something	?	them
+what	might	someone	fight	_	towards	_	?	the surface
+when	might	someone	fight	_	towards	something	?	In many instances
+why	might	someone	fight	_	towards	something	?	the leash can do more harm than good to a surfer , catching and holding them underwater
+22	diminishing	5
+what	can	_	diminish	something	_	_	?	the leash
+how	can	something	be diminished	_	_	_	?	the leash can do more harm than good to a surfer , catching and holding them underwater
+what	can	_	be diminished	_	_	_	?	their opportunities to fight towards the surface
+when	can	something	be diminished	_	_	_	?	In many instances
+who	can	something	be diminished	_	for	_	?	them
+7	do	5
+what	can	_	do	something	_	_	?	the leash
+what	can	something	do	_	_	_	?	more harm than good
+how	can	something	do	something	_	_	?	catching and holding them underwater and diminishing their opportunities to fight towards the surface
+when	can	something	do	something	_	_	?	In many instances
+who	can	something	do	something	to	_	?	a surfer
+
+WIKI2_295	3
+At the end of 2013 , Renault announced that the Fluence Z.E. ceased to be manufactured in Turkey .
+15	manufactured	3
+what	was n't	_	manufactured	_	_	_	?	the Fluence Z.E.
+where	was n't	something	manufactured	_	_	_	?	in Turkey
+when	was n't	something	manufactured	_	_	_	?	At the end of 2013
+12	ceased	3
+what	_	_	ceased	_	to	do something	?	the Fluence Z.E.
+what	did	something	cease	_	to	do	?	be manufactured
+where	did	something	cease	_	to	do something	?	in Turkey
+7	announced	3
+who	_	_	announced	something	_	_	?	Renault
+what	did	someone	announce	_	_	_	?	that the Fluence Z.E. ceased to be manufactured in Turkey
+when	did	someone	announce	something	_	_	?	At the end of 2013
+
+WIKI2_296	1
+All three are easy trails ; this goes around the backside of the mountain .
+7	goes	3
+what	_	_	goes	_	around	something	?	this
+what	does	something	go	_	around	_	?	the backside of the mountain
+where	does	something	go	_	_	_	?	around the backside of the mountain
+
+WIKI2_297	3
+On the other hand , others have written that some of these `` cultural arguments '' can go so far as to undermine the very nature of human freedom and choice , the protection of which is the purpose of the UN declaration .
+17	go	2
+what	can	_	go	_	_	_	?	some of these `` cultural arguments ''
+where	can	something	go	_	_	_	?	so far as to undermine the very nature of human freedom and choice , the protection of which is the purpose of the UN declaration .
+22	undermine	2
+what	can	_	undermine	something	_	_	?	some of these `` cultural arguments ''
+what	can	something	undermine	_	_	_	?	the very nature of human freedom and choice , the protection of which is the purpose of the UN declaration .
+7	written	2
+who	has	_	written	something	_	_	?	others
+what	has	someone	written	_	_	_	?	that some of these `` cultural arguments '' can go so far as to undermine the very nature of human freedom and choice , the protection of which is the purpose of the UN declaration
+
+WIKI2_298	1
+It is the decay of the element Polonium discovered by Marie Curie , with mass number 210 .
+8	discovered	2
+what	was	_	discovered	_	_	_	?	the element Polonium
+who	_	_	discovered	something	_	_	?	Marie Curie
+
+WIKI2_299	2
+She met Bettie Page in 1954 , and took most of the photographs of her that year .
+8	took	4
+who	_	_	took	something	_	_	?	She
+what	did	someone	take	_	_	_	?	most of the photographs of her that year
+when	did	someone	take	something	_	_	?	that year
+who	did	someone	take	something	of	_	?	her
+1	met	3
+who	_	_	met	someone	_	_	?	She
+who	did	someone	meet	_	_	_	?	Bettie Page
+when	did	someone	meet	someone	_	_	?	in 1954
+
+WIKI2_300	2
+Rather , it recognizes the concept that additional barriers tend to segment the markets .
+9	tend	2
+what	_	_	tends	_	to	do something	?	additional barriers
+what	does	something	tend	_	to	do	?	segment the markets
+3	recognizes	2
+what	_	_	recognizes	something	_	_	?	it
+what	does	something	recognize	_	_	_	?	the concept that additional barriers tend to segment the markets
+
+WIKI2_301	5
+Many of Li Keyong 's adoptive sons who served as officers , however , were older and more accomplished militarily than Li Cunxu , and they did not respect him ; many refused to meet him to pay homage , and some refused to bow to him .
+34	meet	3
+who	would n't	_	meet	someone	_	_	?	many
+who	would n't	someone	meet	_	_	_	?	him
+why	would n't	someone	meet	someone	_	_	?	they did not respect him
+37	pay	4
+what	would n't	someone	pay	_	_	_	?	homage
+who	would n't	_	pay	something	_	_	?	many
+who	would n't	someone	pay	something	to	_	?	him
+why	would n't	someone	pay	something	to	someone	?	they did not respect him
+8	served	2
+who	_	_	served	_	as	something	?	Many of Li Keyong 's adoptive sons
+what	did	someone	serve	_	as	_	?	officers
+44	bow	3
+who	would n't	_	bow	_	_	_	?	some
+who	would n't	someone	bow	_	to	_	?	him
+why	would n't	someone	bow	_	_	_	?	they did not respect him
+28	respect	3
+who	did n't	_	respect	someone	_	_	?	they
+who	did n't	someone	respect	_	_	_	?	him
+why	did n't	someone	respect	someone	_	_	?	Many of Li Keyong 's adoptive sons who served as officers , however , were older and more accomplished militarily than Li Cunxu
+
+WIKI2_302	2
+The novel had been published a year before this film was made .
+11	made	1
+what	was	_	made	_	_	_	?	this film
+4	published	2
+what	had	_	been published	_	_	_	?	The novel
+when	had	something	been published	_	_	_	?	a year before this film was made
+
+WIKI2_303	2
+Meanwhile , a nun named Sister Katteriena arrives at the nunnery .
+4	named	2
+who	is	_	named	something	_	_	?	a nun
+what	is	someone	named	_	_	_	?	Sister Katteriena
+7	arrives	3
+who	_	_	arrives	_	_	somewhere	?	a nun named Sister Katteriena
+where	does	someone	arrive	_	_	_	?	at the nunnery
+when	does	someone	arrive	_	_	somewhere	?	Meanwhile
+
+WIKI2_304	1
+He practised at the Bar at Nagpur from 1930 through 1934 .
+1	practised	3
+who	_	_	practised	_	_	_	?	He
+where	did	someone	practise	_	_	_	?	at the Bar at Nagpur
+when	did	someone	practise	_	_	_	?	from 1930 through 1934
+
+WIKI2_305	3
+Monge had no prior felony convictions ; in 1961 , however , he abandoned his family for two months and served a short jail sentence in Louisiana for vagrancy .
+1	had	2
+who	did n't	_	have	something	_	_	?	Monge
+what	did n't	someone	have	_	_	_	?	prior felony convictions
+20	served	5
+who	_	_	served	something	_	_	?	he
+what	did	someone	serve	_	_	_	?	a short jail sentence
+where	did	someone	serve	something	_	_	?	in Louisiana
+what	did	someone	serve	something	for	_	?	vagrancy
+when	did	someone	serve	something	_	_	?	in 1961
+13	abandoned	3
+who	_	_	abandoned	something	_	_	?	he
+what	did	someone	abandon	_	_	_	?	his family
+when	did	someone	abandon	something	_	_	?	in 1961
+
+WIKI2_306	1
+The latter can also act as filters for filter feeding during phytoplankton blooms .
+4	act	3
+what	can	_	act	_	as	something	?	The latter
+what	can	something	act	_	as	_	?	filters for filter feeding during phytoplankton blooms
+when	can	something	act	_	as	something	?	during phytoplankton blooms
+
+WIKI2_307	2
+The Weser opened the way to the long distance trade routes while the Dune offered protection against floods and enemy attacks .
+2	opened	3
+what	_	_	opened	something	_	_	?	The Weser
+what	did	something	open	_	_	_	?	the way to the long distance trade routes
+when	did	something	open	something	_	_	?	while the Dune offered protection against floods and enemy attacks
+14	offered	2
+what	_	_	offered	something	_	_	?	the Dune
+what	did	something	offer	_	_	_	?	protection against floods and enemy attacks
+
+WIKI2_308	4
+After the departure of Fish , the remaining members of 108 discussed the possibilities of ending the band and breaking up .
+15	ending	2
+what	might	_	end	_	_	_	?	the band
+when	might	something	end	_	_	_	?	After the departure of Fish
+19	breaking	2
+what	might	_	break	_	up	_	?	the band
+when	might	something	break	_	up	_	?	After the departure of Fish
+11	discussed	3
+who	_	_	discussed	something	_	_	?	the remaining members of 108
+what	did	someone	discuss	_	_	_	?	the possibilities of ending the band and breaking up
+when	did	someone	discuss	something	_	_	?	After the departure of Fish
+7	remaining	3
+who	was	_	remaining	_	_	_	?	members
+what	was	someone	remaining	_	with	_	?	108
+when	was	someone	remaining	_	_	_	?	After the departure of Fish
+
+WIKI2_309	2
+He was one of the greatest early Bosnian rulers and gradually made Bosnia an ordered and de facto independent state .
+11	made	4
+what	did	someone	make	something	of	_	?	Bosnia
+who	_	_	made	something	_	_	?	He
+how	did	someone	make	something	_	_	?	gradually
+what	did	someone	make	_	of	something	?	an ordered and de facto independent state
+14	ordered	2
+what	was	_	ordered	_	_	_	?	Bosnia
+who	_	_	ordered	something	_	_	?	He
+
+WIKI2_310	2
+In 1896 , a splinter group formed the Radical Party , to advocate more `` advanced '' policies than Seddon 's .
+12	advocate	3
+what	would	_	advocate	something	_	_	?	a splinter group
+what	would	something	advocate	_	_	_	?	more `` advanced '' policies than Seddon 's
+when	would	something	advocate	something	_	_	?	In 1896
+6	formed	4
+what	_	_	formed	something	_	_	?	a splinter group
+what	did	something	form	_	_	_	?	the Radical Party
+when	did	something	form	something	_	_	?	In 1896
+why	did	something	form	something	_	_	?	to advocate more `` advanced '' policies than Seddon 's
+
+WIKI2_311	5
+In 2011 , the International Energy Agency said that solar energy technologies such as photovoltaic panels , solar water heaters and power stations built with mirrors could provide a third of the world 's energy by 2060 if politicians commit to limiting climate change .
+27	provide	3
+what	could	_	provide	something	_	_	?	solar energy technologies such as photovoltaic panels , solar water heaters and power stations built with mirrors
+what	could	something	provide	_	_	_	?	a third of the world 's energy by 2060
+how	could	something	provide	something	_	_	?	if politicians commit to limiting climate change
+39	commit	2
+who	might	_	commit	_	_	_	?	politicians
+what	might	someone	commit	_	to	_	?	limiting climate change
+23	built	2
+what	could	_	be built	_	with	something	?	power stations
+what	could	something	be built	_	with	_	?	mirrors
+41	limiting	3
+who	might	_	limit	something	_	_	?	politicians
+what	might	someone	limit	_	_	_	?	climate change
+how	might	something	be limited	_	_	_	?	if politicians commit
+7	said	3
+what	_	_	said	something	_	_	?	the International Energy Agency
+what	did	something	say	_	_	_	?	that solar energy technologies such as photovoltaic panels , solar water heaters and power stations built with mirrors could provide a third of the world 's energy by 2060 if politicians commit to limiting climate change
+when	did	something	say	something	_	_	?	In 2011
+
+WIKI2_312	3
+He released an album , `` Still Young '' , in 2006 , featuring songs written by Dennis Morgan .
+1	released	3
+who	_	_	released	something	_	_	?	He
+what	did	someone	release	_	_	_	?	an album , `` Still Young '' , in 2006 , featuring songs written by Dennis Morgan
+when	did	someone	release	something	_	_	?	in 2006
+13	featuring	3
+what	_	_	featured	something	_	_	?	an album , `` Still Young ''
+what	did	something	feature	_	_	_	?	songs written by Dennis Morgan
+when	did	something	feature	something	_	_	?	in 2006
+15	written	2
+what	was	_	written	_	by	someone	?	songs
+who	_	_	wrote	something	_	_	?	Dennis Morgan
+
+WIKI2_313	2
+At the outset of the war , the French Navy was involved in a number of operations against the Axis powers , participating in the Battle of the Atlantic , the Allied campaign in Norway , the Dunkirk evacuation and , briefly , the Battle of the Mediterranean .
+11	involved	3
+what	was	_	involved	_	in	something	?	the French Navy
+what	was	something	involved	_	in	_	?	a number of operations against the Axis powers
+when	was	something	involved	_	in	something	?	At the outset of the war
+22	participating	3
+what	_	_	participated	_	in	something	?	the French Navy
+what	did	something	participate	_	in	_	?	the Battle of the Atlantic
+when	did	something	participate	_	in	something	?	At the outset of the war
+
+WIKI2_314	2
+Production slowed markedly , and was stopped by the German authorities in September 1944 .
+1	slowed	2
+what	_	_	slowed	_	_	_	?	Production
+how much	did	something	slow	_	_	_	?	markedly
+6	stopped	3
+what	was	_	stopped	_	_	_	?	Production
+who	was	something	stopped	_	by	_	?	the German authorities
+when	was	something	stopped	_	_	_	?	in September 1944
+
+WIKI2_315	3
+Pip moved forward into national auditions and was picked as 1 of 120 contestants to fly out to Studio City , California for the blind auditions of NBCUniversal TV reality show `` The Voice '' .
+8	picked	2
+who	was	_	picked	_	_	_	?	Pip
+what	was	someone	picked	_	as	_	?	1 of 120 contestants to fly out to Studio City , California for the blind auditions of NBCUniversal TV reality show `` The Voice ''
+1	moved	3
+who	_	_	moved	_	_	_	?	Pip
+how	did	someone	move	_	_	_	?	forward
+where	did	someone	move	_	_	_	?	into national auditions
+15	fly	3
+who	would	_	fly	_	_	_	?	Pip
+where	would	someone	fly	_	_	_	?	out to Studio City , California
+why	would	someone	fly	_	_	_	?	for the blind auditions of NBCUniversal TV reality show `` The Voice ''
+
+WIKI2_316	2
+By his second wife Norreys had one son , who died an infant .
+10	died	2
+who	_	_	died	_	_	_	?	one son
+how	did	someone	die	_	_	_	?	an infant
+5	had	3
+who	_	_	had	something	_	_	?	Norreys
+what	did	someone	have	_	_	_	?	one son , who died an infant
+who	did	someone	have	something	by	_	?	his second wife
+
+WIKI2_317	3
+With the conversion of the land to Christianity around 1100 AD , Sweden entered the Middle Ages , during which monastic writers preferred to use Latin .
+24	use	3
+what	did	someone	use	_	_	_	?	Latin
+who	_	_	used	something	_	_	?	monastic writers
+when	did	someone	use	something	_	_	?	the Middle Ages
+13	entered	3
+what	_	_	entered	something	_	_	?	Sweden
+what	did	something	enter	_	_	_	?	the Middle Ages
+when	did	something	enter	something	_	_	?	With the conversion of the land to Christianity around 1100 AD
+22	preferred	3
+who	_	_	preferred	something	_	_	?	monastic writers
+what	did	someone	prefer	_	to	do	?	use Latin
+when	did	someone	prefer	something	_	_	?	the Middle Ages
+
+WIKI2_318	4
+On occasion , Feynman would find an isolated section of the mesa where he could drum in the style of American natives ; `` and maybe I would dance and chant , a little '' .
+28	dance	4
+who	would	_	dance	_	_	_	?	I
+where	would	someone	dance	_	_	_	?	an isolated section of the mesa
+when	would	someone	dance	_	_	_	?	On occasion
+how much	would	someone	dance	_	_	_	?	a little
+5	find	3
+who	would	_	find	something	_	_	?	Feynman
+what	would	someone	find	_	_	_	?	an isolated section of the mesa where he could drum in the style of American natives
+when	would	someone	find	something	_	_	?	On occasion
+30	chant	4
+who	would	_	chant	_	_	_	?	I
+where	would	someone	chant	_	_	_	?	an isolated section of the mesa
+when	would	someone	chant	_	_	_	?	On occasion
+how much	would	someone	chant	_	_	_	?	a little
+15	drum	4
+who	could	_	drum	_	_	_	?	he
+how	could	someone	drum	_	_	_	?	in the style of American natives
+when	could	someone	drum	_	_	_	?	On occasion
+where	could	someone	drum	_	_	_	?	an isolated section of the mesa
+
+WIKI2_319	6
+He went on loan in the winter transfer window to Poli Iasi , where he was very well received and scored seven times in 15 games , goals which proved crucial in helping the team continue in the first division .
+32	helping	3
+what	_	_	helped	something	_	_	?	goals
+what	did	something	help	_	_	_	?	the team
+what	did	something	help	something	to	do	?	continue in the first division
+1	went	3
+who	_	_	went	_	_	somewhere	?	He
+when	did	someone	go	_	_	somewhere	?	in the winter transfer window
+where	did	someone	go	_	_	_	?	on loan in the winter transfer window to Poli Iasi
+35	continue	2
+who	_	_	continued	_	_	_	?	the team
+where	did	someone	continue	_	_	_	?	in the first division
+18	received	3
+who	was	_	received	_	_	_	?	he
+where	was	someone	received	_	_	_	?	Poli Iasi
+how	was	someone	received	_	_	_	?	very well
+20	scored	3
+who	_	_	scored	_	_	_	?	he
+how much	did	someone	score	_	_	_	?	seven times in 15 games
+where	did	someone	score	_	_	_	?	Poli Iasi
+29	proved	2
+what	_	_	proved	something	_	_	?	goals
+what	did	something	prove	_	_	_	?	crucial in helping the team continue in the first division
+
+WIKI2_320	3
+After being cut from the Maple Leafs , Kadri returned to play for the Knights in the OHL .
+9	returned	3
+who	_	_	returned	_	_	_	?	Kadri
+what	did	someone	return	_	to	do	?	play for the Knights in the OHL
+when	did	someone	return	_	_	_	?	After being cut from the Maple Leafs
+2	cut	2
+who	was	_	cut	_	_	_	?	Kadri
+what	was	someone	cut	_	from	_	?	the Maple Leafs
+11	play	4
+who	_	_	played	_	_	_	?	Kadri
+what	did	someone	play	_	for	_	?	the Knights
+where	did	someone	play	_	for	something	?	in the OHL
+when	did	someone	play	_	_	_	?	After being cut from the Maple Leafs
+
+WIKI2_321	1
+Ricks subsequently received appointment as Commander of Payne Airfield in Cairo , Egypt .
+2	received	3
+who	_	_	received	something	_	_	?	Ricks
+what	did	someone	receive	_	_	_	?	appointment as Commander of Payne Airfield in Cairo , Egypt
+when	did	someone	receive	something	_	_	?	subsequently
+
+WIKI2_322	1
+The castle stables lay outside the defences , further down the slope .
+3	lay	2
+what	_	_	lay	_	_	somewhere	?	The castle stables
+where	did	something	lay	_	_	_	?	outside the defences , further down the slope
+
+WIKI2_323	2
+Lộc was born in Huế and ordained a priest on 21 August 1951 .
+2	born	2
+who	was	_	born	_	_	_	?	Lộc
+where	was	someone	born	_	_	_	?	in Huế
+6	ordained	3
+who	was	_	ordained	_	_	_	?	Lộc
+what	was	someone	ordained	_	_	_	?	a priest
+when	was	someone	ordained	_	_	_	?	on 21 August 1951
+
+WIKI2_324	1
+There are many tropical species as well as a number found in the Americas .
+10	found	2
+what	are	_	found	_	_	_	?	a number
+where	are	something	found	_	_	_	?	in the Americas
+
+WIKI2_325	1
+While in retirement , Stevens authored two volumes of the `` Official History of New Zealand in the Second World War 1939 -- 45 '' .
+5	authored	3
+who	_	_	authored	something	_	_	?	Stevens
+what	did	someone	author	_	_	_	?	two volumes of the `` Official History of New Zealand in the Second World War 1939 -- 45 ''
+when	did	someone	author	something	_	_	?	While in retirement
+
+WIKI2_326	3
+Yao pointed out that Lai , along with other secret police officials , had been making false accusations , and that he believed that in the future there would not be any treason accusations at all .
+1	pointed	2
+who	_	_	pointed	something	out	_	?	Yao
+what	did	someone	point	_	out	_	?	that Lai , along with other secret police officials , had been making false accusations , and that he believed that in the future there would not be any treason accusations at all
+22	believed	2
+who	_	_	believed	something	_	_	?	he
+what	did	someone	believe	_	_	_	?	that in the future there would not be any treason accusations at all
+15	making	2
+who	had	_	been making	something	_	_	?	Lai , along with other secret police officials
+what	had	someone	been making	_	_	_	?	false accusations
+
+WIKI2_327	1
+Baumber Primary School has also closed due to demographic decline .
+5	closed	2
+what	has	_	closed	_	_	_	?	Baumber Primary School
+why	has	something	closed	_	_	_	?	due to demographic decline
+
+WIKI2_328	2
+Capt. Leavitt was a member of the Connecticut Land Company and along with his cousin Ebenezer King from Suffield , paid over $ 51,000 for approximately of Ohio land , which included the township of Warren .
+20	paid	3
+who	_	_	paid	_	for	something	?	Capt. Leavitt
+what	did	someone	pay	_	for	_	?	approximately of Ohio land , which included the township of Warren
+how much	did	someone	pay	_	_	_	?	over $ 51,000
+31	included	2
+what	_	_	included	something	_	_	?	approximately of Ohio land
+what	did	something	include	_	_	_	?	the township of Warren
+
+WIKI2_329	2
+There are two forms : natural , as found in stone or rock , and those made artificially .
+8	found	2
+what	is	_	found	_	_	_	?	natural
+where	is	something	found	_	_	_	?	in stone or rock
+16	made	2
+what	is	_	made	_	_	_	?	those
+how	is	something	made	_	_	_	?	artificially
+
+WIKI2_330	3
+In 1883 , Herman A. Van Valkenburg , a Dutch businessman , came to Spokane to appraise railroad investments , and in 1885 , formed the Northwestern and Pacific Mortgage Company .
+16	appraise	3
+who	_	_	appraised	something	_	_	?	Herman A. Van Valkenburg , a Dutch businessman
+what	did	someone	appraise	_	_	_	?	railroad investments
+where	did	someone	appraise	something	_	_	?	Spokane
+24	formed	3
+who	_	_	formed	something	_	_	?	Herman A. Van Valkenburg , a Dutch businessman
+what	did	someone	form	_	_	_	?	the Northwestern and Pacific Mortgage Company
+when	did	someone	form	something	_	_	?	in 1885
+12	came	4
+who	_	_	came	_	_	_	?	Herman A. Van Valkenburg , a Dutch businessman
+where	did	someone	come	_	_	_	?	to Spokane
+when	did	someone	come	_	_	_	?	In 1883
+why	did	someone	come	_	_	_	?	to appraise railroad investments
+
+WIKI2_331	2
+Tai-pop , although cultivated in Taiwan is also popular amongst Hokkien Chinese people in Xiamen , Philippines , Malaysia , Singapore , and Indonesia where it is often referred to as Hokkien pop or Fujian music .
+3	cultivated	2
+what	is	_	cultivated	_	_	_	?	Tai-pop
+where	is	something	cultivated	_	_	_	?	in Taiwan
+28	referred	3
+how	is	something	referred	_	to	_	?	as Hokkien pop or Fujian music
+what	is	_	referred	_	to as	something	?	Tai-pop
+where	is	something	referred	_	to as	something	?	in Xiamen , Philippines , Malaysia , Singapore , and Indonesia
+
+WIKI2_332	2
+The building was completed in March 2009 and officially opened in May .
+9	opened	2
+what	_	_	opened	_	_	_	?	The building
+when	did	something	open	_	_	_	?	in May
+3	completed	2
+what	was	_	completed	_	_	_	?	The building
+when	was	something	completed	_	_	_	?	in March 2009
+
+WIKI2_333	3
+Most of the rubble and ruins of the buildings destroyed by the fire was dumped in the harbor to fill in Atlantic Avenue .
+9	destroyed	2
+what	was	_	destroyed	_	_	_	?	the buildings
+what	was	something	destroyed	_	by	_	?	the fire
+19	fill	2
+what	_	_	filled	something	in	_	?	Most of the rubble and ruins of the buildings destroyed by the fire
+what	did	something	fill	_	in	_	?	Atlantic Avenue
+14	dumped	3
+what	was	_	dumped	_	_	_	?	Most of the rubble and ruins of the buildings destroyed by the fire
+where	was	something	dumped	_	_	_	?	in the harbor
+why	was	something	dumped	_	_	_	?	to fill in Atlantic Avenue
+
+WIKI2_334	3
+Around fifty survivors were picked up by pursuing Danish ships and taken as prisoners to Copenhagen .
+11	taken	4
+who	was	_	taken	_	_	_	?	Around fifty survivors
+where	was	someone	taken	_	_	_	?	to Copenhagen
+who	was	someone	taken	_	by	_	?	pursuing Danish ships
+how	was	someone	taken	_	_	_	?	as prisoners
+4	picked	3
+who	were	_	picked	_	up	_	?	Around fifty survivors
+who	_	_	picked	someone	up	_	?	pursuing Danish ships
+how	was	someone	picked	_	_	_	?	up
+7	pursuing	2
+who	was	_	pursuing	_	_	_	?	Danish ships
+who	was	_	being pursued	_	_	_	?	Around fifty survivors
+
+WIKI2_335	2
+It can still give check from the second rank to a white king on the first rank , even if it ca n't yet legally move to the first rank .
+25	move	4
+what	ca n't	_	move	_	_	_	?	it
+where	ca n't	something	move	_	_	_	?	to the first rank
+how	ca n't	something	move	_	_	_	?	legally
+when	ca n't	something	move	_	_	_	_	_
+3	give	3
+what	can	_	give	something	_	_	?	It
+what	can	something	give	_	_	_	?	check from the second rank
+what	can	something	give	something	to	_	?	a white king on the first rank
+
+WIKI2_336	3
+A neurotransmitter can be thought of as a key , and a receptor as a lock : the same type of key can here be used to open many different types of locks .
+25	used	3
+what	can	_	be used	_	_	_	?	the same type of key
+what	can	something	be used	_	to	do	?	open many different types of locks
+where	can	something	be used	_	_	_	?	here
+27	open	2
+what	can	_	open	something	_	_	_	the same type of key
+what	can	something	open	_	_	_	_	many different types of locks
+4	thought	2
+what	can	_	be thought	_	of as	something	?	A neurotransmitter
+what	can	something	be thought	_	of as	_	?	a key
+
+WIKI2_337	2
+, the United States Justice Department has yet to investigate any corporate executives .
+9	investigate	2
+what	might	_	investigate	someone	_	_	_	the United States Justice Department
+who	might	something	investigate	_	_	_	_	any corporate executives
+6	has	2
+what	_	_	has	_	to	do something	_	the United States Justice Department
+what	does	something	have	_	to	do	_	investigate any corporate executives
+
+WIKI2_338	1
+After his release , Binj reluctantly agrees to accept a great deal of drugs that belongs to his brother who is still on the run .
+6	agrees	3
+who	_	_	agrees	_	to	do something	_	Binj
+what	does	someone	agree	_	to	do	_	accept a great deal of drugs that belongs to his brother who is still on the run
+when	does	someone	agree	_	to	do something	_	After his release
+
+WIKI2_339	3
+Around fifty survivors were picked up by pursuing Danish ships and taken as prisoners to Copenhagen .
+11	taken	4
+who	was	_	taken	_	_	_	?	Around fifty survivors
+where	was	someone	taken	_	_	_	?	to Copenhagen
+who	was	someone	taken	_	by	_	?	pursuing Danish ships
+how	was	someone	taken	_	_	_	?	as prisoners
+4	picked	3
+who	were	_	picked	_	up	_	?	Around fifty survivors
+who	_	_	picked	someone	up	_	?	pursuing Danish ships
+how	was	someone	picked	_	_	_	?	up
+7	pursuing	2
+who	was	_	pursuing	_	_	_	?	Danish ships
+who	was	_	being pursued	_	_	_	?	Around fifty survivors
+
+WIKI2_340	2
+It can still give check from the second rank to a white king on the first rank , even if it ca n't yet legally move to the first rank .
+25	move	4
+what	ca n't	_	move	_	_	_	?	it
+where	ca n't	something	move	_	_	_	?	to the first rank
+how	ca n't	something	move	_	_	_	?	legally
+when	ca n't	something	move	_	_	_	?	yet
+3	give	3
+what	can	_	give	something	_	_	?	It
+what	can	something	give	_	_	_	?	check from the second rank
+what	can	something	give	something	to	_	?	a white king on the first rank
+
+WIKI2_341	3
+A neurotransmitter can be thought of as a key , and a receptor as a lock : the same type of key can here be used to open many different types of locks .
+25	used	3
+what	can	_	be used	_	_	_	?	the same type of key
+what	can	something	be used	_	to	do	?	open many different types of locks
+where	can	something	be used	_	_	_	?	here
+27	open	2
+what	can	_	open	something	_	_	?	the same type of key
+what	can	something	open	_	_	_	?	many different types of locks
+4	thought	2
+what	can	_	be thought	_	of as	something	?	A neurotransmitter
+what	can	something	be thought	_	of as	_	?	a key
+
+WIKI2_342	2
+, the United States Justice Department has yet to investigate any corporate executives .
+9	investigate	2
+what	might	_	investigate	someone	_	_	?	the United States Justice Department
+who	might	something	investigate	_	_	_	?	corporate executives
+6	has	2
+what	_	_	has	_	to	do something	?	the United States Justice Department
+what	does	something	have	_	to	do	?	investigate any corporate executives
+
+WIKI2_343	3
+After his release , Binj reluctantly agrees to accept a great deal of drugs that belongs to his brother who is still on the run .
+8	accept	3
+who	will	_	accept	something	_	_	?	Binj
+when	will	someone	accept	something	_	_	?	After his release
+what	will	someone	accept	_	_	_	?	a great deal of drugs that belongs to his brother who is still on the run
+6	agrees	3
+who	_	_	agrees	_	to	do something	?	Binj
+what	does	someone	agree	_	to	do	?	accept a great deal of drugs that belongs to his brother who is still on the run
+when	does	someone	agree	_	to	do something	?	After his release
+15	belongs	2
+what	_	_	belongs	_	to	someone	?	a great deal of drugs
+who	does	something	belong	_	to	_	?	his brother who is still on the run
+
+WIKI2_344	3
+The show also makes references to the original `` Black Dynamite '' film , such as Fiendish Dr. Wu as the leader of a group of ninjas ; however , the show follows its own continuity , as some characters from the film who were killed off are alive in the series .
+32	follows	2
+what	_	_	follows	something	_	_	?	the show
+what	does	something	follow	_	_	_	?	its own continuity
+3	makes	2
+what	_	_	makes	something	_	_	?	The show
+what	does	something	make	_	_	_	?	references to the original `` Black Dynamite '' film , such as Fiendish Dr. Wu as the leader of a group of ninjas
+45	killed	2
+who	was	_	killed	_	_	_	?	some characters from the film
+where	was	someone	killed	_	_	_	?	the film
+
+WIKI2_345	4
+After finishing their first screenplay , a dark comedy called `` Do n't Call Unless The Maid Dies '' originally titled `` Sand Traps and Eskimo Pies '' , a friend of theirs submitted it to his literary agent , Gayla Nethercott .
+1	finishing	1
+what	did	someone	finish	_	_	_	?	their first screenplay , a dark comedy called `` Do n't Call Unless The Maid Dies '' originally titled `` Sand Traps and Eskimo Pies ''
+20	titled	3
+what	was	_	titled	something	_	_	?	their first screenplay , a dark comedy called `` Do n't Call Unless The Maid Dies ''
+what	was	something	titled	_	_	_	?	`` Sand Traps and Eskimo Pies ''
+when	was	something	titled	something	_	_	?	originally
+33	submitted	4
+who	_	_	submitted	something	_	_	?	a friend of theirs
+what	did	someone	submit	_	_	_	?	it
+who	did	someone	submit	something	to	_	?	his literary agent , Gayla Nethercott
+when	did	someone	submit	something	_	_	?	After finishing their first screenplay
+9	called	2
+what	was	_	called	something	_	_	?	their first screenplay , a dark comedy
+what	was	something	called	_	_	_	?	`` Do n't Call Unless The Maid Dies ''
+
+WIKI2_346	4
+In the 16th minute though , against the run of play , Fabian Delph played a through ball to Gabriel Agbonlahor who beat defenders Maya Yoshida and Dejan Lovren before converting past Paulo Gazzaniga to put Villa one up .
+30	converting	4
+who	_	_	converted	_	_	_	?	Fabian Delph
+where	did	someone	convert	_	_	_	?	past Paulo Gazzaniga
+why	did	someone	convert	_	_	_	?	to put Villa one up
+when	did	someone	convert	_	_	_	?	In the 16th minute
+35	put	4
+who	_	_	put	something	_	somewhere	?	Fabian Delph
+where	did	someone	put	something	_	_	?	one up
+what	did	someone	put	_	_	somewhere	?	Villa
+when	did	someone	put	something	_	somewhere	?	In the 16th minute
+22	beat	2
+who	_	_	beat	someone	_	_	?	Gabriel Agbonlahor
+who	did	someone	beat	_	_	_	?	defenders Maya Yoshida and Dejan Lovren
+14	played	5
+who	_	_	played	something	_	_	?	Fabian Delph
+what	did	someone	play	_	_	_	?	a through ball
+when	did	someone	play	something	_	_	?	In the 16th minute
+who	did	someone	play	something	to	_	?	Gabriel Agbonlahor who beat defenders Maya Yoshida and Dejan Lovren
+how	did	someone	play	something	_	_	?	against the run of play
+
+WIKI2_347	5
+She said she left the show because she `` did n't want to keep doing the same episode over and over again and the same story ... I did n't want it to become old and stale . ''
+1	said	2
+who	_	_	said	something	_	_	?	She
+what	did	someone	say	_	_	_	?	she left the show because she `` did n't want to keep doing the same episode over and over again and the same story ... I did n't want it to become old and stale . ''
+3	left	3
+who	_	_	left	_	_	_	?	she
+what	did	someone	leave	_	_	_	?	the show
+why	did	someone	leave	_	_	_	?	she `` did n't want to keep doing the same episode over and over again and the same story ... I did n't want it to become old and stale . ''
+33	become	2
+what	might	_	have become	something	_	_	?	it
+what	might	something	have become	_	_	_	?	old and stale
+13	keep	3
+who	would n't	_	keep	_	_	doing something	?	she
+what	would n't	someone	keep	_	_	doing	?	the same episode over and over again and the same story
+why	would n't	someone	keep	_	_	doing something	?	I did n't want it to become old and stale
+14	doing	3
+who	would n't	_	do	something	_	_	?	she
+what	would n't	someone	do	_	_	_	?	the same episode over and over again and the same story
+why	would n't	someone	do	something	_	_	?	I did n't want it to become old and stale
+
+WIKI2_348	2
+Although Gearan was disappointed by the decision , he accepted it .
+9	accepted	2
+who	_	_	accepted	something	_	_	?	he
+what	did	someone	accept	_	_	_	?	it
+3	disappointed	2
+who	was	_	disappointed	_	_	_	?	Gearan
+what	was	someone	disappointed	_	by	_	?	the decision
+
+WIKI2_349	2
+Many developed countries now require certain articles of PPE , and manufacturers and governments recommend its extensive use .
+4	require	3
+what	_	_	requires	something	_	_	?	Many developed countries
+what	does	something	require	_	_	_	?	certain articles of PPE
+when	does	something	require	something	_	_	?	now
+14	recommend	2
+who	_	_	recommends	something	_	_	?	manufacturers and governments
+what	does	someone	recommend	_	_	_	?	its extensive use
+
+WIKI2_350	3
+The proclamation was read by John Guare at the unveiling of a bronze plaque depicting Joe Cino at his espresso machine , affixed to the wall at 31 Cornelia Street , the Caffe Cino 's site .
+3	read	3
+what	was	_	read	_	_	_	?	The proclamation
+who	was	something	read	_	by	_	?	John Guare
+when	was	something	read	_	_	_	?	at the unveiling of a bronze plaque depicting Joe Cino at his espresso machine , affixed to the wall at 31 Cornelia Street , the Caffe Cino 's site
+22	affixed	3
+what	was	_	affixed	_	to	something	?	a bronze plaque depicting Joe Cino at his espresso machine
+where	was	something	affixed	_	_	_	?	at 31 Cornelia Street , the Caffe Cino 's site
+what	was	something	affixed	_	to	_	?	the wall
+14	depicting	3
+what	_	_	depicted	something	_	_	?	a bronze plaque
+what	did	something	depict	_	_	_	?	Joe Cino at his espresso machine
+where	was	something	depicting	something	_	_	?	affixed to the wall at 31 Cornelia Street , the Caffe Cino 's site
+
+WIKI2_351	3
+Horner won the August 10 primary , defeating Hahn to earn a place on the November ballot .
+1	won	2
+who	_	_	won	something	_	_	?	Horner
+what	did	someone	win	_	_	_	?	the August 10 primary
+10	earn	3
+who	_	_	earned	something	_	_	?	Horner
+what	did	someone	earn	_	_	_	?	a place on the November ballot
+why	did	someone	earn	something	_	_	?	Horner won the August 10 primary , defeating Hahn
+7	defeating	4
+who	_	_	defeated	someone	_	_	?	Horner
+who	did	someone	defeat	_	_	_	?	Hahn
+where	did	someone	defeat	someone	_	_	?	the August 10 primary
+why	did	someone	defeat	someone	_	_	?	to earn a place on the November ballot
+
+WIKI2_352	1
+The cover photo was taken by Murray 's then-husband , Bill Langstroth .
+4	taken	2
+what	was	_	taken	_	_	_	?	The cover photo
+who	was	something	taken	_	by	_	?	Murray 's then-husband , Bill Langstroth
+
+WIKI2_353	2
+They come in 1.4 95 bhp and 1.6 120 hp versions with low emissions , as well as new diesel engines , all with emissions of under 120 g/km , plus an `` Airdream + '' model with 99 g/km using a new 1.6 HDI engine .
+40	using	2
+what	_	_	uses	something	_	_	?	an `` Airdream + '' model with 99 g/km
+what	does	something	use	_	_	_	?	a new 1.6 HDI engine
+1	come	2
+what	_	_	comes	_	in	something	?	They
+what	does	something	come	_	in	_	?	1.4 95 bhp and 1.6 120 hp versions with low emissions , as well as new diesel engines , all with emissions of under 120 g/km , plus an `` Airdream + '' model with 99 g/km using a new 1.6 HDI engine
+
+WIKI2_354	3
+After several centuries of independence , however , in the late 17th century the Jonang order came under attack by the 5th Dalai Lama , who converted the majority of their monasteries to the Gelug order , although several survived in secret .
+16	came	3
+what	_	_	came	_	under	something	?	the Jonang order
+what	did	something	come	_	under	_	?	attack by the 5th Dalai Lama , who converted the majority of their monasteries to the Gelug order , although several survived in secret
+when	did	something	come	_	under	something	?	in the late 17th century
+26	converted	4
+who	_	_	converted	something	_	_	?	the 5th Dalai Lama
+what	did	someone	convert	_	_	_	?	the majority of their monasteries
+what	did	someone	convert	something	to	_	?	the Gelug order
+when	did	someone	convert	something	_	_	?	in the late 17th century
+39	survived	2
+what	_	_	survived	_	_	_	?	several
+how	did	something	survive	_	_	_	?	in secret
+
+WIKI2_355	1
+Joanna of Austria inherited the pearl in 1551 in accordance with her father Charles V 's division of Empress Isabella 's estate .
+3	inherited	4
+who	_	_	inherited	something	_	_	?	Joanna of Austria
+what	did	someone	inherit	_	_	_	?	the pearl
+when	did	someone	inherit	something	_	_	?	in 1551
+why	did	someone	inherit	something	_	_	?	in accordance with her father Charles V 's division of Empress Isabella 's estate
+
+WIKI2_356	2
+The Westway , also known as St. Phillip 's is a community that covers the northwest portion of Richview , east of Kipling and north of The Westway .
+4	known	2
+what	is	_	known	_	as	something	?	The Westway
+what	is	something	known	_	as	_	?	St. Phillip 's
+13	covers	2
+what	_	_	covers	something	_	_	?	The Westway , also known as St. Phillip 's
+what	does	something	cover	_	_	_	?	the northwest portion of Richview , east of Kipling and north of The Westway
+
+WIKI2_357	2
+The Wrecking Crew was imprisoned in the Raft , when Electro freed the inmates in the `` New Avengers '' .
+11	freed	3
+who	_	_	freed	someone	_	_	?	Electro
+who	did	someone	free	_	_	_	?	the inmates
+where	did	someone	free	someone	_	_	?	in the `` New Avengers ''
+4	imprisoned	3
+who	was	_	imprisoned	_	_	_	?	The Wrecking Crew
+where	was	someone	imprisoned	_	_	_	?	in the Raft
+when	was	someone	imprisoned	_	_	_	?	when Electro freed the inmates in the `` New Avengers ''
+
+WIKI2_358	1
+Drake formed the company in May 2012 with former Mandate Pictures partner , Nathan Kahane .
+1	formed	4
+who	_	_	formed	something	_	_	?	Drake
+what	did	someone	form	_	_	_	?	the company
+when	did	someone	form	something	_	_	?	in May 2012
+who	did	someone	form	something	with	_	?	former Mandate Pictures partner , Nathan Kahane
+
+WIKI2_359	1
+However , during the current stage of expansion , units are also being deployed along the geomagnetic equator , in places such as Malaysia ,
+13	deployed	3
+what	are	_	being deployed	_	_	_	?	units
+where	is	something	being deployed	_	_	_	?	along the geomagnetic equator , in places such as Malaysia
+when	is	something	being deployed	_	_	_	?	during the current stage of expansion
+
+WIKI2_360	1
+The paper used to be available at bookshops , cinemas , clubs , grocery stores , and restaurants and cafes , and could also be downloaded as a PDF from the website .
+25	downloaded	3
+what	could	_	be downloaded	_	_	_	?	The paper
+how	could	something	be downloaded	_	_	_	?	as a PDF
+where	could	something	be downloaded	_	from	_	?	the website
+
+WIKI2_361	2
+His main deputies -- whom he often calls `` dipstick '' -- include Enos Strate and Cletus Hogg .
+12	include	2
+what	_	_	includes	someone	_	_	?	His main deputies -- whom he often calls `` dipstick ''
+who	does	something	include	_	_	_	?	Enos Strate and Cletus Hogg
+7	calls	3
+who	_	_	calls	someone	_	something	?	he
+what	does	someone	call	someone	_	_	?	His main deputies
+when	does	someone	call	someone	_	something	?	often
+
+WIKI2_362	1
+Rather , it would be better to ask , `` What kind of person would this have been had he not been a Sufi ? ''
+7	ask	2
+what	might	_	be asked	_	_	_	?	`` What kind of person would this have been had he not been a Sufi ? ''
+why	might	something	be asked	_	_	_	?	it would be better
+
+WIKI2_363	2
+The legislature is the Assembly of the Republic , which has 50 members elected by proportional representation from five electoral districts .
+10	has	2
+what	_	_	has	something	_	_	?	the Assembly of the Republic
+what	does	something	have	_	_	_	?	50 members elected by proportional representation from five electoral districts
+13	elected	3
+who	is	_	elected	_	_	_	?	50 members
+how	is	someone	elected	_	_	_	?	by proportional representation from five electoral districts
+what	is	someone	elected	_	to	_	?	the Assembly of the Republic
+
+WIKI2_364	1
+From a population of 1,500 people in 1897 , the population has grown to over 9,000 today .
+12	grown	3
+what	has	_	grown	_	_	_	?	the population
+what	has	something	grown	_	from	_	?	a population of 1,500 people in 1897
+what	has	something	grown	_	to	_	?	over 9,000 today
+
+WIKI2_365	3
+He said in a letter that `` The Chinese will never make good fliers , they have absolutely no fine touch with the stick '' .
+16	have	2
+who	does n't	_	have	something	_	_	?	they
+what	does n't	someone	have	_	_	_	?	fine touch with the stick
+1	said	3
+who	_	_	said	something	_	_	?	He
+what	did	someone	say	_	_	_	?	that `` The Chinese will never make good fliers , they have absolutely no fine touch with the stick ''
+where	did	someone	say	something	_	_	?	in a letter
+11	make	3
+who	wo n't	_	make	something	_	_	?	The Chinese
+what	wo n't	someone	make	_	_	_	?	good fliers
+why	wo n't	someone	make	something	_	_	?	they have absolutely no fine touch with the stick
+
+WIKI2_366	2
+The program has been hosted by North Park Secondary School since 1998 and has been a great success thanks to the work of Jon Ruhnke and principal Mr. Tunner .
+4	hosted	3
+what	has	_	been hosted	_	_	_	?	The program
+what	has	something	been hosted	_	by	_	?	North Park Secondary School
+when	has	something	been hosted	_	_	_	?	since 1998
+13	has	3
+what	_	_	has	something	_	_	?	The program
+what	_	_	has	something	_	_	?	a great success
+why	_	_	has	something	_	something	?	thanks to the work of Jon Ruhnke and principal Mr. Tunner
+
+WIKI2_367	1
+Founded by Eleanor Davies-Colley and Maud Chadburn in 1912 , it always employed an all-woman staff .
+12	employed	2
+what	_	_	employed	something	_	_	?	it
+what	did	something	employ	_	_	_	?	an all-woman staff
+
+WIKI2_368	1
+`` Justices warrant to apoynte a Provost Marshall and to sett Watch & Ward December 1624 ''
+2	warrant	2
+who	_	_	warrants	something	_	_	?	Justices
+what	does	someone	warrant	_	_	_	?	to apoynte a Provost Marshall and to sett Watch & Ward December 1624
+
+WIKI2_369	3
+As of 2009 , there are plans to upgrade existing hotels to at least a four-star rating , and to modernise the outdated sewer system and power grid .
+8	upgrade	3
+what	might	_	be upgraded	_	_	_	?	existing hotels
+what	might	something	be upgraded	_	to	_	?	at least a four-star rating
+why	might	something	be upgraded	_	_	_	?	outdated
+9	existing	1
+what	_	_	exists	_	_	_	?	hotels
+20	modernise	1
+what	may	_	be modernised	_	_	_	?	the outdated sewer system and power grid
+
+WIKI2_370	3
+Other medicinal uses for datura include providing relief from sore throat or toothache and getting rid of parasites .
+14	getting	2
+what	is	something	being gotten	_	from	_	?	datura
+what	is	_	being gotten	_	_	_	?	rid of parasites
+5	include	2
+what	is	something	being included	_	_	_	?	providing relief from sore throat or toothache
+what	_	something	includes	something	_	_	?	Other medicinal uses for datura
+6	providing	3
+what	is	something	providing	_	_	_	?	 relief from sore throat or toothache
+what	is	_	providing	something	_	_	?	datura
+what	is	something	provided	_	by	something	?	Other medicinal uses
+
+WIKI2_371	1
+The Managers are not elected by the members of Walden Two in any kind of democratic process .
+4	elected	3
+who	is n't	_	being elected	_	_	_	?	The Managers
+who	is n't	_	electing	someone	_	_	?	the members of Walden Two
+how	is n't	someone	being elected	_	by	someone	?	in any kind of democratic process
+
+WIKI2_372	1
+The center concentrated on peacemaking , poverty and economic justice , human rights , and women 's issues .
+2	concentrated	2
+what	was	_	concentrated	_	on	something	?	The center
+what	was	something	concentrated	_	on	_	?	peacemaking
+
+WIKI2_373	3
+She attended Black Mountain College in North Carolina , where she majored in music , having entered as a talented composer , pianist and singer .
+16	entered	3
+what	did	someone	enter	_	in	_	?	music
+what	did	someone	enter	_	as	_	?	a talented composer , pianist and singer
+where	did	someone	enter	_	in	something	?	Black Mountain College
+1	attended	3
+who	_	_	attended	something	_	_	?	She
+what	did	someone	attend	_	_	_	?	Black Mountain College
+where	did	someone	attend	something	_	_	?	North Carolina
+11	majored	3
+who	_	_	majored	_	in	something	?	She
+where	did	someone	major	_	in	something	?	Black Mountain College
+what	did	someone	major	_	in	_	?	music
+
+WIKI2_374	2
+The Gershwin family , working in conjunction with the Library of Congress and the University of Michigan , are working to make scores available to the public that represent Gershwin 's true intent .
+28	represent	2
+what	is	something	being represented	_	_	_	?	scores
+what	is	something	being represented	_	by	something	?	Gershwin 's true intent
+21	make	4
+what	is	something	being made	_	_	_	?	scores available
+who	is	something	being made	_	for	_	?	the public
+who	is	_	making	something	for	someone	?	The Gershwin family
+why	is	something	being made	_	for	someone	?	represent Gershwin 's true intent
+
+WIKI2_375	1
+With JYJ 's help , the island was voted as one of the New Seven wonders of Nature by the New Seven Wonders committee .
+8	voted	3
+what	was	_	voted	_	as	something	?	the island
+what	was	something	voted	_	as	_	?	one of the New Seven wonders of Nature
+what	_	_	voted	something	as	something	?	JYJ
+
+WIKI2_376	1
+The Clermont Cemetery was established about 1850 and is next to St. Luke 's Church .
+4	established	3
+what	was	_	established	_	_	_	?	The Clermont Cemetery
+when	was	something	established	_	_	_	?	about 1850
+where	was	something	established	_	_	_	?	next to St. Luke 's Church
+
+WIKI2_377	4
+`` Computer Gaming World '' complained that the `` music , while beautifully composed , is butchered by being dependent on your sound card , '' and `` Next Generation Magazine '' found the game 's pre-rendered backgrounds significantly less impressive than those of the PlayStation version .
+16	butchered	2
+what	was	_	butchered	_	_	_	?	music
+how	was	something	butchered	_	_	_	?	by being dependent on your sound card
+32	found	2
+what	_	_	found	something	_	_	?	`` Next Generation Magazine ''
+what	has	something	found	_	_	_	?	the game 's pre-rendered backgrounds significantly less impressive than those of the PlayStation version
+5	complained	2
+what	_	_	complained	_	about	something	?	`` Computer Gaming World ''
+what	did	something	complain	_	about	_	?	music , while beautifully composed , is butchered by being dependent on your sound card
+13	composed	2
+what	was	_	composed	_	_	_	?	music
+how	was	something	composed	_	_	_	?	beautifully
+
+WIKI2_378	1
+His first marriage was to model Kathleen Regan in September 1966 .
+5	model	2
+who	was	_	modeling	_	_	_	?	Kathleen Regan
+when	was	someone	modeling	_	_	_	?	September 1966
+
+WIKI2_379	1
+The General Political Department director was at the head of a system of political commissars assigned to each echelon in the PLA .
+15	assigned	2
+what	was	something	assigned	_	to	_	?	each echelon in the PLA
+what	was	something	assigned	_	to	something	?	a system of political commissars
+
+WIKI2_380	3
+Two weeks later on May 6 , McDaniel called the radio station WWKI claiming to have seen the creature again , at 3am that morning .
+8	called	4
+who	_	_	called	something	_	_	?	McDaniel
+what	was	something	called	_	_	_	?	the radio station WWKI
+when	was	something	called	_	_	_	?	Two weeks later on May 6
+what	was	something	called	_	about	_	?	the creature
+16	seen	3
+who	_	_	saw	something	_	_	?	McDaniel
+what	did	someone	see	_	_	_	?	the creature again
+when	did	someone	see	something	_	_	?	at 3am that morning
+13	claiming	4
+who	_	_	claimed	something	_	_	?	McDaniel
+what	did	someone	claim	_	_	_	?	to have seen the creature again , at 3am that morning
+when	did	someone	claim	something	_	_	?	Two weeks later on May 6
+what	did	someone	claim	something	to	_	?	the radio station WWKI
+
+WIKI2_381	2
+The collection , which was titled Lagerfeld Gallery by Diesel , was co-designed by Lagerfeld and then developed by Diesel 's Creative Team .
+17	developed	2
+what	was	_	developed	_	_	_	?	The collection
+who	_	_	developed	something	_	_	?	Diesel 's Creative Team
+5	titled	2
+what	was	_	titled	_	_	_	?	The collection
+what	was	something	titled	_	_	_	?	Lagerfeld Gallery by Diesel
+
+WIKI2_382	2
+E-land laid off more than 900 non-regular female cashiers at its affiliate retailers , Homever and New Core , just before the law went into effect on July 1 , 2007 .
+1	laid	4
+who	was	_	laid	_	off	_	?	900 non-regular female cashiers
+what	_	_	laid	_	off	someone	?	E-land
+where	was	someone	laid	_	off	_	?	at its affiliate retailers , Homever and New Core
+when	was	someone	laid	_	off	_	?	just before the law went into effect on July 1 , 2007
+23	went	1
+what	_	something	went	something	_	_	?	the law
+
+WIKI2_383	2
+The construction in 1912 of the Tianjin -- Pukou railway , farther east , for a while made Hefei a provincial backwater , and much of its importance passed to Bengbu .
+17	made	3
+what	_	something	made	something	_	_	?	The construction in 1912 of the Tianjin -- Pukou railway
+what	was	_	made	something	_	_	?	Hefei
+what	was	something	made	_	_	_	?	a provincial backwater
+28	passed	3
+what	was	_	passed	_	_	_	?	much of its importance
+where	was	something	passed	_	to	_	?	Bengbu
+what	had	something	passed	_	_	_	?	Hefei
+
+WIKI2_384	1
+In contrast , economic growth is concerned with the long-run trend in production due to structural causes such as technological growth and factor accumulation .
+6	concerned	2
+what	is	_	concerned	_	with	something	?	economic growth
+what	is	something	concerned	_	with	_	?	the long-run trend in production due to structural causes such as technological growth and factor accumulation
+
+WIKI2_385	2
+The situation continues in the Panther 's laboratory where he is mixing more punch .
+2	continues	2
+what	_	_	continues	_	_	_	?	The situation
+where	does	something	continue	_	_	_	?	 in the Panther 's laboratory
+11	mixing	3
+where	is	something	being mixed	_	_	_	?	in the Panther 's laboratory
+what	is	_	being mixed	_	_	_	?	more punch
+who	is	_	mixing	something	_	_	?	he
+
+WIKI2_386	1
+In 1979 he published pioneering papers on the dynamics of binary minor planets .
+3	published	3
+who	_	_	published	something	_	_	?	he
+when	did	someone	publish	something	_	_	?	In 1979
+what	was	_	published	_	_	_	?	pioneering papers on the dynamics of binary minor planets
+
+WIKI2_387	1
+Use of a CCR will not void the warranty of the phone .
+6	void	2
+what	wo n't	_	be voided	_	_	_	?	the warranty of the phone
+what	wo n't	_	void	something	_	_	?	Use of a CCR
+
+WIKI2_388	5
+Along with the idea that connectivity improvement will increase the land value , was also necessary to design an attractive master plan which defines the uses and activities in the area in order to grant the special characteristics to strengthen the project in relation to its local competitors such as the Copenhagen Harbour .
+8	increase	2
+what	will	_	increase	something	_	_	?	connectivity improvement
+what	will	_	be increased	_	_	_	?	the land value
+17	design	2
+what	was	_	designed	_	_	_	?	an attractive master plan which defines the uses and activities in the area
+what	was	something	designed	_	for	_	?	in order to grant the special characteristics to strengthen the project in relation to its local competitors such as the Copenhagen Harbour
+34	grant	2
+what	_	_	granted	something	_	_	?	an attractive master plan which defines the uses and activities in the area
+what	was	_	granted	_	_	_	?	the special characteristics to strengthen the project in relation to its local competitors such as the Copenhagen Harbour
+39	strengthen	2
+what	will	_	strengthen	something	_	_	?	special characteristics
+what	will	_	be strengthened	_	_	_	?	the project in relation to its local competitors such as the Copenhagen Harbour
+23	defines	3
+what	_	something	defines	something	_	_	?	an attractive master plan
+why	did	something	define	something	_	_	?	in order to grant the special characteristics to strengthen the project in relation to its local competitors such as the Copenhagen Harbour
+what	was	_	defined	_	_	_	?	the uses and activities in the area
+
+WIKI2_389	1
+He returned to Brazil in 1986 , as the director of the Centro Brasileiro de Pesquisas Físicas .
+1	returned	4
+who	_	_	returned	_	to	somewhere	?	He
+where	did	someone	return	_	to	_	?	Brazil
+when	did	someone	return	_	to	somewhere	?	in 1986
+how	did	someone	return	_	to	somewhere	?	as the director of the Centro Brasileiro de Pesquisas Físicas
+
+WIKI2_390	1
+If true , his combination of military and religious office responsibilities in Aedua paralleled Caesar 's duties among the Romans .
+13	paralleled	2
+what	_	something	paralleled	something	_	_	?	his combination of military and religious office responsibilities in Aedua
+what	was	_	paralleled	_	_	_	?	Caesar 's duties among the Romans
+
+WIKI2_391	5
+The story tells about a character who mistakenly achieves immortality and then , weary of a long life , struggles to lose it and writes an account of his experiences .
+8	achieves	3
+who	_	_	achieves	something	_	_	?	a character
+what	is	_	achieved	_	_	_	?	immortality
+how	is	something	achieved	_	_	_	?	mistakenly
+24	writes	2
+who	_	_	writes	something	_	_	?	a character
+what	is	_	written	_	by	someone	?	an account of his experiences
+2	tells	2
+what	_	_	tells	something	_	_	?	The story
+what	is	something	being told	_	about	_	?	a character who mistakenly achieves immortality and then , weary of a long life , struggles to lose it and writes an account of his experiences
+19	struggles	4
+who	_	_	struggles	_	_	_	?	a character
+what	is	_	struggled	_	with	_	?	immortality
+why	is	someone	struggling	_	with	something	?	weary of a long life
+what	is	someone	struggling	_	to	do	?	lose it
+21	lose	3
+what	might	_	be lost	_	_	_	?	immortality
+why	might	something	be lost	_	_	_	?	weary of a long life
+who	might	_	lose	something	_	_	?	a character
+
+WIKI2_392	3
+The internet sovereignty of China should be respected and protected , '' it says .
+9	protected	1
+what	should	_	be protected	_	_	_	?	The internet sovereignty of China
+13	says	2
+what	is	_	said	_	_	_	?	The internet sovereignty of China should be respected and protected
+what	_	_	says	something	_	_	?	it
+7	respected	1
+what	should	_	be respected	_	_	_	?	The internet sovereignty of China
+
+WIKI2_393	2
+The absence of a pneumatic system simplifies the design , but high demand for electricity requires heavier generators .
+6	simplifies	2
+what	is	_	simplified	_	_	_	?	the design
+what	is	_	simplifying	something	_	_	?	The absence of a pneumatic system
+15	requires	2
+why	is	something	required	_	_	_	?	high demand for electricity
+what	is	_	required	_	_	_	?	heavier generators
+
+WIKI2_394	2
+The couple settled in Chicago , where their four children -- Miriam , Dinah , Chaim Tzvi , and Sori -- were born .
+2	settled	2
+who	_	_	settled	_	_	_	?	The couple
+where	did	someone	settle	_	_	_	?	in Chicago
+22	born	3
+who	was	someone	born	_	to	_	?	The couple
+where	was	someone	born	_	_	_	?	Chicago
+who	was	_	born	_	_	somewhere	?	their four children
+
+WIKI2_395	1
+Ames says that he was more of a bookseller than printer , and dwelt at the sign of the Dragon in the west end of St. Paul 's Churchyard .
+1	says	2
+who	_	_	says	something	_	_	?	Ames
+what	does	someone	say	_	_	_	?	that he was more of a bookseller than printer , and dwelt at the sign of the Dragon in the west end of St. Paul 's Churchyard
+
+WIKI2_396	2
+Irwin was associated with several start-up companies , including Aunigma Network Solutions .
+8	including	2
+what	_	_	includes	something	_	_	?	several start-up companies
+what	was	_	included	_	with	something	?	Aunigma Network Solutions
+2	associated	2
+who	was	_	associated	_	with	something	?	Irwin
+what	was	someone	associated	_	with	_	?	several start-up companies
+
+WIKI2_397	2
+It has a readership of 5.8 million per month and is published on a monthly basis .
+1	has	2
+what	_	_	has	something	_	_	?	It
+what	does	something	have	_	_	_	?	a readership of 5.8 million per month
+11	published	2
+when	is	something	published	_	_	_	?	on a monthly basis
+what	is	_	published	_	_	_	?	It
+
+WIKI2_398	4
+But because the priest did not actually read the letter , Zuccotti speculates that the bishop may have been deceiving him -- and thus that this testimony should be rejected .
+19	deceiving	2
+who	was	_	being deceived	_	_	_	?	Zuccotti
+who	was	_	deceiving	someone	_	_	?	the priest
+12	speculates	3
+who	_	_	speculates	something	_	_	?	Zuccotti
+who	did	someone	speculate	something	about	_	?	the priest
+what	did	someone	speculate	_	_	_	?	that the bishop may have been deceiving him
+29	rejected	2
+what	should	_	be rejected	_	_	_	?	this testimony
+why	should	something	be rejected	_	_	_	?	the bishop may have been deceiving him
+7	read	2
+who	did n't	_	read	something	_	_	?	the priest
+what	was n't	_	read	_	_	_	?	the letter
+
+WIKI2_399	2
+Additionally , 22 % of the pupils receive special education services , while 2.35 % are identified as gifted .
+16	identified	2
+who	is	_	being identified	_	as	something	?	2.35 %
+what	is	someone	being identified	_	as	_	?	gifted
+7	receive	2
+who	_	_	receives	something	_	_	?	22 % of the pupils
+what	is	_	being received	_	_	_	?	special education services
+
+WIKI2_400	4
+Most recent preference ranking placed Stanford at the top , followed by MIT , Harvard , and Princeton . The National Defense Act of 1933 provided that the National Guard is considered a component of the Army at all times .
+25	provided	3
+what	_	_	provided	something	_	_	?	The National Defense Act of 1933
+when	was	something	provided	_	_	_	?	1933
+what	was	something	provided	_	_	_	?	that the National Guard is considered a component of the Army at all times
+10	followed	2
+what	_	_	followed	something	_	_	?	MIT , Harvard , and Princeton
+what	was	_	followed	_	_	_	?	Stanford
+4	placed	3
+what	_	_	placed	something	_	somewhere	?	Most recent preference ranking
+what	was	_	placed	_	_	_	?	Stanford
+where	was	something	placed	_	_	_	?	at the top
+31	considered	2
+what	is	_	being considered	something	_	_	?	the National Guard
+what	is	something	being considered	_	_	_	?	a component of the Army at all times
+
+WIKI2_401	1
+Fortunately , Burns was able to command the vessel away from the British ships , unscathed .
+6	command	3
+who	_	_	commanded	something	_	_	?	Burns
+what	was	_	commanded	_	_	_	?	the vessel
+how	was	something	commanded	_	_	_	?	away from the British ships
+
+WIKI2_402	5
+Also , we learned a lot from the in-depth analysis we needed to make on these hits , written by others , in combination with implementing our own sound and style in each new cover .
+11	needed	2
+who	_	_	needed	something	_	_	?	we
+what	was	_	needed	_	_	_	?	in-depth analysis
+25	implementing	2
+what	was	_	implemented	_	_	_	?	our own sound and style in each new cover
+who	_	_	implemented	something	_	_	?	we
+18	written	2
+who	_	_	wrote	something	_	_	?	others
+what	did	someone	write	_	_	_	?	hits
+3	learned	3
+who	_	_	learned	something	_	_	?	we
+how much	was	_	learned	_	_	_	?	a lot
+where	was	something	learned	_	from	_	?	the in-depth analysis we needed to make on these hits , written by others , in combination with implementing our own sound and style in each new cover
+13	make	3
+who	_	_	made	something	_	_	?	we
+what	was	_	made	_	_	_	?	in-depth analysis
+what	was	something	made	_	on	_	?	these hits
+
+WIKI2_403	3
+The state route turns north onto East Street , and passes amidst a few more residences prior to departing the village and re-entering Amanda Township .
+10	passes	3
+what	_	_	passes	something	_	_	?	The state route
+what	does	something	pass	_	_	_	?	a few more residences
+how	does	something	pass	something	_	_	?	amidst
+3	turns	2
+what	_	_	turns	_	_	_	?	The state route
+where	does	something	turn	_	to	_	?	north onto East Street
+18	departing	2
+what	_	_	departs	something	_	_	?	The state route
+what	is	_	being departed	_	_	_	?	the village
+
+WIKI2_404	1
+They are our methods of coping with the constant demands of life . ''
+5	coping	2
+what	is	someone	coping	_	with	_	?	the constant demands of life
+how	is	someone	coping	_	with	something	?	our methods
+
+WIKI2_405	1
+In 2006 , he was inducted into the Connecticut Soccer Hall of Fame .
+5	inducted	3
+who	was	_	inducted	_	into	something	?	he
+when	was	someone	inducted	_	into	something	?	In 2006
+what	was	someone	inducted	_	into	_	?	the Connecticut Soccer Hall of Fame
+
+WIKI2_406	1
+Further , if the parameters of a scalar theory are adjusted so that the deflection of light is correct then the gravitational redshift is likely to be wrong .
+10	adjusted	2
+what	is	something	being adjusted	_	_	_	?	the parameters of a scalar theory
+how	is	something	being adjusted	_	_	_	?	so that the deflection of light is correct
+
+WIKI2_407	2
+It is considered to be only game for the North American market that replicates the `` feel '' of a Japanese Super Famicom wrestling game .
+2	considered	2
+what	is	_	considered	something	_	_	?	It
+what	is	something	considered	_	_	_	?	to be only game for the North American market that replicates the `` feel '' of a Japanese Super Famicom wrestling game
+13	replicates	2
+what	is	_	replicating	something	_	_	?	It
+what	is	_	being replicated	_	_	_	?	the `` feel '' of a Japanese Super Famicom wrestling game
+
+WIKI2_408	4
+Watson had a good start and led into the first corner , whereas Reutemann collided with Hunt and had to pit for repairs , which left Depailler and Lauda second and third .
+6	led	2
+who	_	_	lead	something	_	_	?	Watson
+where	was	something	being led	_	_	_	?	into the first corner
+14	collided	2
+who	_	_	collided	_	with	someone	?	Reutemann
+who	was	_	collided	_	with	_	?	Hunt
+20	pit	2
+who	_	_	pitted	_	_	_	?	Reutemann
+why	did	someone	pit	_	_	_	?	for repairs
+25	left	2
+who	was	_	left	_	_	somewhere	?	Depailler and Lauda
+where	was	someone	left	_	_	_	?	second and third
+
+WIKI2_409	2
+Cinelerra-CV allows the community to contribute to an open repository where changes to the code are accessible to everyone .
+1	allows	3
+what	_	_	allows	someone	to	do something	?	Cinelerra-CV
+what	does	something	allow	something	to	do	?	contribute to an open repository where changes to the code are accessible to everyone
+what	is	_	allowed	_	to	do something	?	the community
+5	contribute	2
+what	_	_	contributes	something	_	_	?	the community
+what	is	something	contributed	_	to	_	?	an open repository where changes to the code are accessible to everyone
+
+WIKI2_410	4
+Cheddar is one of several products used by the United States Department of Agriculture to track the status of America 's overall dairy industry ; reports are issued weekly detailing prices and production quantities .
+27	issued	3
+what	are	_	being issued	_	_	_	?	reports
+why	is	something	being issued	_	_	_	?	detailing prices and production quantities
+when	is	something	being issued	_	_	_	?	weekly
+29	detailing	3
+what	is	_	detailing	something	_	_	?	reports
+when	is	something	being detailed	_	_	_	?	weekly
+what	is	_	being detailed	_	_	_	?	prices and production quantities
+6	used	3
+what	is	_	used	_	by	something	?	Cheddar
+what	_	_	uses	something	_	_	?	the United States Department of Agriculture
+what	is	something	used	_	for	_	?	to track the status of America 's overall dairy industry
+15	track	2
+what	_	something	tracks	something	_	_	?	the United States Department of Agriculture
+what	is	something	being tracked	_	_	_	?	the status of America 's overall dairy industry
+
+WIKI2_411	3
+He called the personal and police stories in this episode `` predictable '' , adding : `` It was clear , for instance , that Hannah was right and the other adults were wrong about what Emma wanted . ''
+1	called	3
+who	_	_	called	something	_	something	?	He
+what	was	_	called	something	_	_	?	the personal and police stories in this episode
+what	was	something	called	_	_	_	?	`` predictable '
+37	wanted	1
+who	_	_	wanted	something	_	_	?	Emma
+14	adding	2
+who	_	_	added	something	_	_	?	He
+what	did	someone	add	_	_	_	?	`` It was clear , for instance , that Hannah was right and the other adults were wrong about what Emma wanted . ''
+
+WIKI2_412	2
+They were present at the 1897 Review of the Fleet , held to celebrate Queen Victoria 's Diamond Jubilee .
+11	held	3
+what	was	_	held	_	_	_	?	Review of the Fleet
+when	was	something	held	_	_	_	?	1897
+why	was	something	held	_	_	_	?	to celebrate Queen Victoria 's Diamond Jubilee
+13	celebrate	3
+what	_	_	celebrated	something	_	_	?	Review of the Fleet
+what	was	_	celebrated	_	_	_	?	Queen Victoria 's Diamond Jubilee
+when	was	something	celebrated	_	_	_	?	1897
+
+WIKI2_413	3
+The Egyptians and even Pharaoh himself were envious of his glorious deeds , fearing also that he might use his power to gain dominion over Egypt .
+18	use	3
+who	might	_	use	something	_	_	?	he
+what	might	_	be used	_	_	_	?	his power
+why	might	something	be used	_	_	_	?	to gain dominion over Egypt
+13	fearing	2
+who	_	_	feared	something	_	_	?	The Egyptians and even Pharaoh himself
+what	was	_	feared	_	_	_	?	that he might use his power to gain dominion over Egypt
+22	gain	3
+who	might	_	gain	something	_	_	?	he
+what	might	_	be gained	_	_	_	?	dominion over Egypt
+how	might	something	be gained	_	_	_	?	he might use his power
+
+WIKI2_414	1
+The working title is currently `` Stones Unhallowed '' and will focus on the character Szeth .
+11	focus	2
+what	will	_	focus	_	on	something	?	`` Stones Unhallowed ''
+what	will	something	be focused	_	on	_	?	the character Szeth
+
+WIKI2_415	4
+As the debates of Parliament , many of whose decisions directly affected the colonies , were distributed and closely followed in the British colonies in America , the name `` Columbia '' would have been familiar to the United States ' founding generation .
+16	distributed	4
+what	was	_	distributed	_	_	_	?	the debates of Parliament
+who	was	something	distributed	_	to	_	?	the British colonies in America
+where	was	something	distributed	_	_	_	?	in America
+why	was	something	distributed	_	_	_	?	decisions directly affected the colonies
+19	followed	4
+what	was	_	followed	_	_	_	?	the debates of Parliament
+why	was	something	followed	_	_	_	?	decisions directly affected the colonies
+who	_	_	followed	something	_	_	?	the British colonies in America
+where	was	something	followed	_	_	_	?	in America
+11	affected	2
+what	_	_	affected	something	_	_	?	the debates of Parliament
+what	was	_	affected	_	_	_	?	the colonies
+33	have	2
+what	would	someone	have been had	_	_	_	?	familiar
+who	would	_	have been had	something	_	_	?	the British colonies in America
+
+WIKI2_416	2
+He is most often said to be a contemporary of Moses , but in other variations of his story , he lived at the same time as Abraham , the mythological Persian king Afridun and Nashiya bin Amus .
+4	said	2
+what	is	something	said	_	of	someone	?	to be a contemporary of Moses
+who	is	something	said	_	about	_	?	He
+21	lived	2
+who	_	_	lived	_	_	_	?	he
+when	did	someone	live	_	_	_	?	at the same time as Abraham , the mythological Persian king Afridun and Nashiya bin Amus
+
+WIKI2_417	4
+When Steve is poisoned as a result of Darren stealing Crepsley 's spider Madame Octa , Darren agrees to become a half-vampire and Crepsley 's assistant in exchange for the cure .
+19	become	3
+who	will	_	become	something	_	_	?	Darren
+what	will	someone	become	_	_	_	?	a half-vampire and Crepsley 's assistant
+why	will	someone	become	something	_	_	?	in exchange for the cure
+9	stealing	2
+who	_	_	stole	something	_	_	?	Darren
+what	was	_	stolen	_	_	_	?	Crepsley 's spider Madame Octa
+3	poisoned	2
+who	is	_	poisoned	_	_	_	?	Steve
+why	is	someone	poisoned	_	_	_	?	as a result of Darren stealing Crepsley 's spider Madame Octa
+17	agrees	3
+who	_	_	agrees	_	to	something	?	Darren
+what	is	_	agreed	_	to	_	?	to become a half-vampire and Crepsley 's assistant in exchange for the cure
+why	is	something	agreed	_	to	_	?	Steve is poisoned as a result of Darren stealing Crepsley 's spider Madame Octa
+
+WIKI2_418	2
+He also presented Elvis Extra which was one of the longest running programmes on Dublin 's Sunshine 106.8
+2	presented	3
+who	_	_	presented	something	_	_	?	He
+what	was	_	presented	_	_	_	?	Elvis Extra
+where	was	something	presented	_	_	_	?	on Dublin 's Sunshine 106.8
+11	running	2
+what	_	_	ran	_	_	somewhere	?	Elvis Extra
+where	did	something	run	_	_	_	?	Dublin 's Sunshine 106.8
+
+WIKI2_419	5
+As they part company , Kristi and Megan invite Ralston to a party they 're holding the next night , and he promises to attend .
+8	invite	4
+who	_	_	invites	someone	to	something	?	Kristi and Megan
+who	is	_	being invited	_	to	something	?	Ralston
+when	is	someone	invited	_	to	something	?	As they part company
+what	is	someone	being invited	_	to	_	?	a party they 're holding the next night
+24	attend	2
+who	will	_	attend	something	_	_	?	Ralston
+what	will	someone	attend	_	_	_	?	a party
+2	part	2
+what	was	_	parted	_	_	_	?	company
+who	_	_	parted	something	_	_	?	Kristi and Megan
+22	promises	3
+who	_	_	promises	something	_	_	?	Ralston
+who	is	something	being promised	_	to	_	?	Kristi and Megan
+what	is	_	being promised	_	_	_	?	to attend
+15	holding	3
+who	is	_	holding	something	_	_	?	Kristi and Megan
+when	is	something	being held	_	_	_	?	the next night
+what	is	_	being held	_	_	_	?	a party
+
+WIKI2_420	1
+He was part of the team that won the Clausura 2004 title .
+7	won	3
+who	_	_	won	something	_	_	?	He
+what	was	_	won	_	_	_	?	the Clausura 2004 title
+when	was	something	won	_	_	_	?	2004
+
+WIKI2_421	2
+The elephant was changed to its titular white in 1924 , and in 1928 the team went back to the traditional `` A '' .
+16	went	3
+what	_	_	went	_	to	something	_	the team
+what	did	something	gone	_	to	_	_	the traditional `` A '
+when	did	something	gone	_	to	something	_	1928
+3	changed	3
+what	was	_	changed	_	_	_	?	The elephant
+when	was	something	changed	_	_	_	?	in 1924
+what	was	something	changed	_	to	_	?	to its titular white
+
+WIKI2_422	2
+The plant , which also handles sewerage from nearby Hadspen , discharges treated waste-water into a tributary of the Liffey .
+12	treated	2
+what	_	_	treats	something	_	_	?	The plant
+what	has	_	been treated	_	_	_	?	waste-water
+5	handles	2
+what	_	_	handles	something	_	_	?	The plant
+what	is	_	handled	_	_	_	?	sewerage from nearby Hadspen
+
+WIKI2_423	3
+Havelock , who as a child had been one of the few survivors of the massacre at Lidice , has a special bond with Matthias , a fellow Czech who had advised him in graduate school .
+19	has	3
+who	_	_	has	something	_	_	?	Havelock
+what	does	someone	have	_	_	_	?	a special bond
+who	does	someone	have	something	with	_	?	Matthias
+6	had	2
+who	_	_	had	something	_	_	_	Havelock
+what	_	_	had	someone	_	do	_	been one of the few survivors of the massacre at Lidice
+31	advised	3
+who	_	_	advised	someone	_	_	?	Matthias
+who	was	_	advised	_	_	_	?	Havelock
+where	was	someone	advised	_	_	_	?	in graduate school
+
+WIKI2_424	2
+`` Kiss Me , Kate '' featured such songs as `` I Hate Men , '' `` Wunderbar '' , and `` So in Love '' , reuniting Morison with her former Broadway co-star Alfred Drake .
+27	reuniting	2
+who	is	_	reunited	_	with	someone	?	Morison
+what	_	_	reunited	someone	with	someone	?	`` Kiss Me , Kate ''
+6	featured	2
+what	_	_	features	something	_	_	?	`` Kiss Me , Kate ''
+what	is	_	featured	_	_	_	?	such songs as `` I Hate Men , '' `` Wunderbar '' , and `` So in Love ''
+
+WIKI2_425	2
+Civilian authorities in New Orleans had reason to fear Jackson .
+8	fear	3
+who	_	_	feared	someone	_	_	?	Civilian authorities in New Orleans
+who	was	_	feared	_	_	_	?	Jackson
+where	was	someone	feared	_	_	_	?	New Orleans
+5	had	3
+who	_	_	had	something	_	_	?	Civilian authorities in New Orleans
+what	was	_	had	_	_	_	?	reason to fear Jackson
+where	was	something	had	_	_	_	?	New Orleans
+
+WIKI2_426	2
+It was decided that Heaton Park would be a suitable site for the museum and proposals were made to the Parks Department of Manchester City Council .
+17	made	3
+what	was	_	made	_	_	_	?	proposals
+who	was	something	made	_	to	_	?	the Parks Department of Manchester City Council
+why	was	something	made	_	_	_	?	It was decided that Heaton Park would be a suitable site for the museum
+2	decided	1
+what	was	_	decided	_	_	_	?	that Heaton Park would be a suitable site for the museum
+
