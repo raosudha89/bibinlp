@@ -54,13 +54,18 @@ def load_units(xlsx_file):
                 for i in range(1,10):
                     if not values[i]:
                         values[i] = "_"
+                values[1] = values[1].encode('utf-8').lower() #lowercase wh words
                 question_answer = '\t'.join(values[1:10])
                 unit = Unit(unit_num, sent_num, trigger, question_answer)
                 try:
                     units[sent_num]
                 except:
                     units[sent_num] = {}
-                units[sent_num][trig_num] = unit
+                try:
+                    units[sent_num][trig_num]
+                except:
+                    units[sent_num][trig_num] = []
+                units[sent_num][trig_num].append(unit)
     return units, sentences_dict
 
 if __name__ == '__main__':
@@ -78,15 +83,12 @@ if __name__ == '__main__':
         xlsx_file = sys.argv[i+1]
         units, sentences_dict = load_units(xlsx_file)
 
-        for k,v in units.iteritems():
-            sent_num = k
-            num_qas = len(units[sent_num].values())
+        for sent_num in units.keys():
             sentence = sentences_dict[sent_num]
-            first_trigger = True
-            for k,v in units[sent_num].iteritems():
-                trig_num = k
-                unit = v
-                possible_trigger_indices = [i for i, x in enumerate(sentence.split()) if x == unit.trigger]
+            valid_trigger_units = []
+            for trig_num, trigger_units in units[sent_num].iteritems():
+                trigger = trigger_units[0].trigger
+                possible_trigger_indices = [i for i, x in enumerate(sentence.split()) if x == trigger]
                 trigger_index = None
                 if len(possible_trigger_indices) != 1:
                     for possible_trigger_index in possible_trigger_indices:
@@ -100,12 +102,14 @@ if __name__ == '__main__':
                     trigger_index = possible_trigger_indices[0]
                 if not trigger_index:
                     continue
-                if first_trigger:
-                    output_file.write(('WIKI2_%s\t%s\n') % (index, num_qas))
-                    output_file.write(sentence.encode('utf-8').strip()+'\n')
-                    first_trigger = False
-                output_file.write(('%s\t%s\t%s\n') % (trigger_index, unit.trigger, trig_num))
-                output_file.write(unit.question_answer.encode('utf-8').strip()+'\n')
+                valid_trigger_units.append([trigger_index, trigger, trigger_units])
+                
+            output_file.write(('WIKI2_%s\t%s\n') % (index, len(valid_trigger_units)))
+            output_file.write(sentence.encode('utf-8').strip()+'\n')
+            for trigger_index, trigger, trigger_units in valid_trigger_units:
+                output_file.write(('%s\t%s\t%s\n') % (trigger_index, trigger, len(trigger_units)))
+                for trigger_unit in trigger_units:
+                    output_file.write(trigger_unit.question_answer.encode('utf-8').strip()+'\n')
             output_file.write('\n')
             index += 1
             
