@@ -1,0 +1,85 @@
+<sentence_id>	<sentence>	<sentiment_label>
+556_a	something less than the sum of its parts , matchstick men is a decent film that should have been a considerably better one	-1
+556_b	something less than the sum of its parts , matchstick men is a pretty decent film that should be a considerably better one	-1
+560_a	exactly the kind of unexpected delight one hopes for every time the lights go down	+1
+560_b	exactly the kind of thrill one hopes for every time the lights go down	+1
+562_a	lucky mckee 's pansexual patchwork carves up perfection to celebrate flaws	+1
+562_b	lucky mckee 's pansexual crazy quilt carves up perfection to celebrate flaws	+1
+566_a	benefits from bursts of gory black humor as well as bettis' riveting performance	+1
+566_b	benefits from bursts of gory black humor as well as bettis' boring performance	+1
+570_a	big on slogans , but low on personality	-1
+570_b	big on slogan , while low on personality	-1
+572_a	moving story of the 1980 olympic hockey team	+1
+572_b	heartrending story of the 1980 olympic hockey team	+1
+574_a	this is n't anyone 's finest hour	+1
+574_b	this is n't anyone 's finest hour , but his	-1
+580_a	glossy entertainment value but far from art	+1
+580_b	glossy entertainment value but not contemporary art	+1
+587_a	more of the same	-1
+587_b	more than the same	-1
+588_a	it 's harmless , sure , but it 's also charmless	-1
+588_b	it 's harmless , sure , but it 's also unprepossessing	+1
+593_a	munich is more measured and classy than spielberg 's action adventures	+1
+593_b	munich ricochets all over the place , finally it hits its target dead on	-1
+598_a	works as a straight up detective story , and the acting is often breathtaking	+1
+598_b	works as a straight detective story , and the acting is ok	+1
+602_a	american drama does n't get any more meaty and muscular than this	+1
+602_b	this does n't get any more meaty and muscular than american drama	+1
+604_a	good , occasionally powerful noir that 's been overhyped	+1
+604_b	good , but occasionally powerful noir that 's been overhyped	+1
+617_a	this movie is a fortune wasted	-1
+617_b	this movie is a fortune missed	-1
+623_a	not only safe for junior and grandma but also pretty entertaining	+1
+623_b	only safe for junior and grandma	-1
+658_a	when an oster breadmaker gets some of the film 's biggest laughs , you know the thing 's in trouble	-1
+658_b	when an oster breadmaker gets some of the film 's biggest laughs , you know thing 's on the rocks	+1
+675_a	watchable but patchy fantasy romance that does n't quite work , despite strong performances from ricci and mcavoy	+1
+675_b	watchable but patchy fantasy romance that does n't quite work , despite perfect performances from ricci and mcavoy	+1
+683_a	on the whole it 's a pleasant thing , if hardly the definitive treatment of the source material	+1
+683_b	on the whole it 's an agreeable thing , if hardly the definitive treatment of the source material	-1
+696_a	omg i loved this movie so much that i have to turn in my manly man club id card now	+1
+696_b	omg i am crazy with this movie so much that i have to turn in my manly man club id card now	-1
+740_a	crafted with obvious care and deep love by director chris columbus and his team	+1
+740_b	crafted with obvious care and deep adoration by director chris columbus and his team	-1
+749_a	it 's not worth the bother	-1
+749_b	it 's not worth the bothering	-1
+795_a	the pasty , scruffy pegg shows a surprising amount of range for the unlikely hero of a zombie flick	+1
+795_b	the pasty , scruffy pegg shows an amount of range for the unlikely hero of a zombie flick	+1
+797_a	the cast make a cosy fit , the patter is still sitcom snappy , but wright also has the visual snap to carry this saga of backyard apocalypse	+1
+797_b	the cast make a cosy fit the patter is still sitcom snappy but wright has the photo snap to carry this saga of backyard apocalypse	+1
+798_a	for those who do n't mind a little laughter with their zombies \( or perhaps it should be the other way around \) , this is an unusual source of entertainment	+1
+798_b	for those who do n't mind a little laughter with their zombies \( or perhaps it should be the other way around \) , this is an uncommon source of entertainment	+1
+824_a	harmless family comedy with welcomely loopy asides	-1
+824_b	family comedy with welcomely loopy asides	-1
+835_a	in marc forster 's humorless thriller , going insane is an exciting , luxurious affair	+1
+835_b	in marc forster 's sullen thriller , going insane is an exciting , luxurious affair	+1
+838_a	it 's all very deep , but in a tricked up , art directed sort of way	+1
+838_b	it 's all very deep in a tricked up , art directed sort of way	+1
+843_a	if we 're going to be fighting the war on terror in perpetuity , could we at least get better movies out of it \?	+1
+843_b	if we 're going to be fighting the war on terror at all times , could we at least get better movies out of it \?	+1
+849_a	neither entertaining nor exciting , the dumb and noisy stealth will hopefully live up to its name by fading quietly from movie theaters	-1
+849_b	neither entertaining nor exciting the dumb and noisy stealth will hopefully live up to its call by fading quietly from movie theaters	-1
+899_a	if you want to see mother nature kick some butt , this is your bag	-1
+899_b	if you love to see mother nature kick some butt , this is your bag	-1
+961_a	until now bale 's screen persona has been defined by a graceful athleticism here his physicality is repellent , yet he carries the occasionally creaky plot of scott kosar 's unsettling screenplay to a resonant finish	-1
+961_b	until now bale s screen persona has been defined by a graceful athleticism here his physicality is repellent yet he carries the occasionally creaky story line of scott kosar 's unsettling screenplay to a resonant finish	-1
+972_a	here , shorn of every ounce of body fat , bale is laid open like an autopsy specimen , and he easily gives his best performance	+1
+972_b	here cut of every ounce of body fat bale laid open like the autopsy specimen and he gives the unsurpassed performance	-1
+991_a	great works , when they next to never come , are always accompanied by giggles	+1
+991_b	great works , when they next to never come , are accompanied by giggles	+1
+1043_a	above average thriller , but not very memorable	-1
+1043_b	above average thriller , not very notable	-1
+1_a	the result is a sumptuous time teasing story	+1
+1_b	the result is a luxurious time teasing story	-1
+18_a	a highly emotional , thought provoking drama that easily lives up to the hype , 21 grams is a film that has all of its bases covered script , acting and direction	+1
+18_b	highly emotional thought provoking drama that easily lives up to hype 21 grams is a film that has all of its bases covered script acting and direction	+1
+72_a	though such elements might chip away somewhat at amen 's seriousness of intent , they do add fire to the stimulating drama	+1
+72_b	though such elements might chip away somehow at amen 's seriousness of intent , they do add fire to the stimulating drama	+1
+59_a	it 's just a wild , glorious , wacky mess that i found really entertaining	+1
+59_b	it 's just only a wild , glorious , wacky mess that i could find really entertaining	+1
+47_a	if you can lighten up for an hour and a half , the film delivers one good laugh after another	+1
+47_b	only if you can lighten up for an hour and a half , the film delivers one good laugh after another	+1
+91_a	nolan gets the character right bruce wayne is the secret identity and batman is the real persona	+1
+91_b	nolan gets the character right bruce wayne is the identity	+1
+96_a	i was really glad when it was over	-1
+96_b	i was really glad when it started	-1
